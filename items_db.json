@@ -1,0 +1,762 @@
+[
+    {
+        "item_id": "addon_001_moustache",
+        "item_type": "addon",
+        "item_path": "/img/avatar/addon_001_moustache.png"
+    },
+    {
+        "item_id": "addon_001_moustache_grey",
+        "item_type": "addon",
+        "item_path": "/img/avatar/addon_001_moustache_grey.png"
+    },
+    {
+        "item_id": "addon_002_beard",
+        "item_type": "addon",
+        "item_path": "/img/avatar/addon_002_beard.png"
+    },
+    {
+        "item_id": "addon_002_beard_grey",
+        "item_type": "addon",
+        "item_path": "/img/avatar/addon_002_beard_grey.png"
+    },
+    {
+        "item_id": "addon_003_longbeard",
+        "item_type": "addon",
+        "item_path": "/img/avatar/addon_003_longbeard.png"
+    },
+    {
+        "item_id": "addon_003_longbeard_grey",
+        "item_type": "addon",
+        "item_path": "/img/avatar/addon_003_longbeard_grey.png"
+    },
+    {
+        "item_id": "addon_004_bushy",
+        "item_type": "addon",
+        "item_path": "/img/avatar/addon_004_bushy.png"
+    },
+    {
+        "item_id": "addon_004_bushy_grey",
+        "item_type": "addon",
+        "item_path": "/img/avatar/addon_004_bushy_grey.png"
+    },
+    {
+        "item_id": "base_f_001",
+        "item_type": "base",
+        "item_path": "/img/avatar/base_f_001.png"
+    },
+    {
+        "item_id": "base_f_002",
+        "item_type": "base",
+        "item_path": "/img/avatar/base_f_002.png"
+    },
+    {
+        "item_id": "base_f_003",
+        "item_type": "base",
+        "item_path": "/img/avatar/base_f_003.png"
+    },
+    {
+        "item_id": "base_m_001",
+        "item_type": "base",
+        "item_path": "/img/avatar/base_m_001.png"
+    },
+    {
+        "item_id": "base_m_002",
+        "item_type": "base",
+        "item_path": "/img/avatar/base_m_002.png"
+    },
+    {
+        "item_id": "base_m_003",
+        "item_type": "base",
+        "item_path": "/img/avatar/base_m_003.png"
+    },
+    {
+        "item_id": "body_001_tshirt_black",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_001_tshirt_black.png"
+    },
+    {
+        "item_id": "body_001_tshirt_blue",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_001_tshirt_blue.png"
+    },
+    {
+        "item_id": "body_001_tshirt_green",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_001_tshirt_green.png"
+    },
+    {
+        "item_id": "body_001_tshirt_red",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_001_tshirt_red.png"
+    },
+    {
+        "item_id": "body_002_singlet_blue",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_002_singlet_blue.png"
+    },
+    {
+        "item_id": "body_002_singlet_green",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_002_singlet_green.png"
+    },
+    {
+        "item_id": "body_002_singlet_grey",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_002_singlet_grey.png"
+    },
+    {
+        "item_id": "body_002_singlet_red",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_002_singlet_red.png"
+    },
+    {
+        "item_id": "body_003_suit_black",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_003_suit_black.png"
+    },
+    {
+        "item_id": "body_003_suit_blue",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_003_suit_blue.png"
+    },
+    {
+        "item_id": "body_003_suit_green",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_003_suit_green.png"
+    },
+    {
+        "item_id": "body_003_suit_red",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_003_suit_red.png"
+    },
+    {
+        "item_id": "body_004_dress_black",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_004_dress_black.png"
+    },
+    {
+        "item_id": "body_004_dress_blue",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_004_dress_blue.png"
+    },
+    {
+        "item_id": "body_004_dress_green",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_004_dress_green.png"
+    },
+    {
+        "item_id": "body_004_dress_red",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_004_dress_red.png"
+    },
+    {
+        "item_id": "body_005_jacket_black",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_005_jacket_black.png"
+    },
+    {
+        "item_id": "body_005_jacket_blue",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_005_jacket_blue.png"
+    },
+    {
+        "item_id": "body_005_jacket_green",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_005_jacket_green.png"
+    },
+    {
+        "item_id": "body_005_jacket_red",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_005_jacket_red.png"
+    },
+    {
+        "item_id": "body_006_santa",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_006_santa.png"
+    },
+    {
+        "item_id": "body_007_superman",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_007_superman.png"
+    },
+    {
+        "item_id": "body_008_batman",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_008_batman.png"
+    },
+    {
+        "item_id": "body_009_labcoat",
+        "item_type": "body",
+        "item_path": "/img/avatar/body_009_labcoat.png"
+    },
+    {
+        "item_id": "eye_001_specs_black",
+        "item_type": "eye",
+        "item_path": "/img/avatar/eye_001_specs_black.png"
+    },
+    {
+        "item_id": "eye_001_specs_blue",
+        "item_type": "eye",
+        "item_path": "/img/avatar/eye_001_specs_blue.png"
+    },
+    {
+        "item_id": "eye_001_specs_green",
+        "item_type": "eye",
+        "item_path": "/img/avatar/eye_001_specs_green.png"
+    },
+    {
+        "item_id": "eye_001_specs_red",
+        "item_type": "eye",
+        "item_path": "/img/avatar/eye_001_specs_red.png"
+    },
+    {
+        "item_id": "eye_002_bigspecs_black",
+        "item_type": "eye",
+        "item_path": "/img/avatar/eye_002_bigspecs_black.png"
+    },
+    {
+        "item_id": "eye_002_bigspecs_blue",
+        "item_type": "eye",
+        "item_path": "/img/avatar/eye_002_bigspecs_blue.png"
+    },
+    {
+        "item_id": "eye_002_bigspecs_green",
+        "item_type": "eye",
+        "item_path": "/img/avatar/eye_002_bigspecs_green.png"
+    },
+    {
+        "item_id": "eye_002_bigspecs_red",
+        "item_type": "eye",
+        "item_path": "/img/avatar/eye_002_bigspecs_red.png"
+    },
+    {
+        "item_id": "eye_003_piratepatch_black_left",
+        "item_type": "eye",
+        "item_path": "/img/avatar/eye_003_piratepatch_black_left.png"
+    },
+    {
+        "item_id": "eye_003_piratepatch_black_right",
+        "item_type": "eye",
+        "item_path": "/img/avatar/eye_003_piratepatch_black_right.png"
+    },
+    {
+        "item_id": "eye_004_cyclops",
+        "item_type": "eye",
+        "item_path": "/img/avatar/eye_004_cyclops.png"
+    },
+    {
+        "item_id": "eye_005_mask",
+        "item_type": "eye",
+        "item_path": "/img/avatar/eye_005_mask.png"
+    },
+    {
+        "item_id": "eye_006_shades_black",
+        "item_type": "eye",
+        "item_path": "/img/avatar/eye_006_shades_black.png"
+    },
+    {
+        "item_id": "eye_006_shades_blue",
+        "item_type": "eye",
+        "item_path": "/img/avatar/eye_006_shades_blue.png"
+    },
+    {
+        "item_id": "eye_006_shades_green",
+        "item_type": "eye",
+        "item_path": "/img/avatar/eye_006_shades_green.png"
+    },
+    {
+        "item_id": "eye_006_shades_red",
+        "item_type": "eye",
+        "item_path": "/img/avatar/eye_006_shades_red.png"
+    },
+    {
+        "item_id": "feet_001_shoes_black",
+        "item_type": "feet",
+        "item_path": "/img/avatar/feet_001_shoes_black.png"
+    },
+    {
+        "item_id": "feet_001_shoes_blue",
+        "item_type": "feet",
+        "item_path": "/img/avatar/feet_001_shoes_blue.png"
+    },
+    {
+        "item_id": "feet_001_shoes_green",
+        "item_type": "feet",
+        "item_path": "/img/avatar/feet_001_shoes_green.png"
+    },
+    {
+        "item_id": "feet_001_shoes_red",
+        "item_type": "feet",
+        "item_path": "/img/avatar/feet_001_shoes_red.png"
+    },
+    {
+        "item_id": "hair_001_short",
+        "item_type": "hair",
+        "item_path": "/img/avatar/hair_001_short.png"
+    },
+    {
+        "item_id": "hair_002_crewcut",
+        "item_type": "hair",
+        "item_path": "/img/avatar/hair_002_crewcut.png"
+    },
+    {
+        "item_id": "hair_003_f4",
+        "item_type": "hair",
+        "item_path": "/img/avatar/hair_003_f4.png"
+    },
+    {
+        "item_id": "hair_003_f4_grey",
+        "item_type": "hair",
+        "item_path": "/img/avatar/hair_003_f4_grey.png"
+    },
+    {
+        "item_id": "hair_004_side",
+        "item_type": "hair",
+        "item_path": "/img/avatar/hair_004_side.png"
+    },
+    {
+        "item_id": "hair_005_tall",
+        "item_type": "hair",
+        "item_path": "/img/avatar/hair_005_tall.png"
+    },
+    {
+        "item_id": "hair_006_puffy",
+        "item_type": "hair",
+        "item_path": "/img/avatar/hair_006_puffy.png"
+    },
+    {
+        "item_id": "hair_007_centre",
+        "item_type": "hair",
+        "item_path": "/img/avatar/hair_007_centre.png"
+    },
+    {
+        "item_id": "hair_008_straight",
+        "item_type": "hair",
+        "item_path": "/img/avatar/hair_008_straight.png"
+    },
+    {
+        "item_id": "hair_009_balding",
+        "item_type": "hair",
+        "item_path": "/img/avatar/hair_009_balding.png"
+    },
+    {
+        "item_id": "hair_010_punk",
+        "item_type": "hair",
+        "item_path": "/img/avatar/hair_010_punk.png"
+    },
+    {
+        "item_id": "hair_011_wrap",
+        "item_type": "hair",
+        "item_path": "/img/avatar/hair_011_wrap.png"
+    },
+    {
+        "item_id": "hair_012_pony",
+        "item_type": "hair",
+        "item_path": "/img/avatar/hair_012_pony.png"
+    },
+    {
+        "item_id": "hair_013_long",
+        "item_type": "hair",
+        "item_path": "/img/avatar/hair_013_long.png"
+    },
+    {
+        "item_id": "hair_014_longstraight",
+        "item_type": "hair",
+        "item_path": "/img/avatar/hair_014_longstraight.png"
+    },
+    {
+        "item_id": "hair_015_hairband",
+        "item_type": "hair",
+        "item_path": "/img/avatar/hair_015_hairband.png"
+    },
+    {
+        "item_id": "hair_015_superman",
+        "item_type": "hair",
+        "item_path": "/img/avatar/hair_015_superman.png"
+    },
+    {
+        "item_id": "hair_016_shortcool",
+        "item_type": "hair",
+        "item_path": "/img/avatar/hair_016_shortcool.png"
+    },
+    {
+        "item_id": "hair_017_curls",
+        "item_type": "hair",
+        "item_path": "/img/avatar/hair_017_curls.png"
+    },
+    {
+        "item_id": "hand_001_woodensword",
+        "item_type": "hand",
+        "item_path": "/img/avatar/hand_001_woodensword.png"
+    },
+    {
+        "item_id": "hand_002_sword",
+        "item_type": "hand",
+        "item_path": "/img/avatar/hand_002_sword.png"
+    },
+    {
+        "item_id": "hand_003_stick",
+        "item_type": "hand",
+        "item_path": "/img/avatar/hand_003_stick.png"
+    },
+    {
+        "item_id": "hand_004_club",
+        "item_type": "hand",
+        "item_path": "/img/avatar/hand_004_club.png"
+    },
+    {
+        "item_id": "hand_005_barbedclub",
+        "item_type": "hand",
+        "item_path": "/img/avatar/hand_005_barbedclub.png"
+    },
+    {
+        "item_id": "hand_006_spear",
+        "item_type": "hand",
+        "item_path": "/img/avatar/hand_006_spear.png"
+    },
+    {
+        "item_id": "hand_007_axe",
+        "item_type": "hand",
+        "item_path": "/img/avatar/hand_007_axe.png"
+    },
+    {
+        "item_id": "hand_008_whip",
+        "item_type": "hand",
+        "item_path": "/img/avatar/hand_008_whip.png"
+    },
+    {
+        "item_id": "hand_009_dagger",
+        "item_type": "hand",
+        "item_path": "/img/avatar/hand_009_dagger.png"
+    },
+    {
+        "item_id": "hand_010_rapier",
+        "item_type": "hand",
+        "item_path": "/img/avatar/hand_010_rapier.png"
+    },
+    {
+        "item_id": "hand_011_briefcase",
+        "item_type": "hand",
+        "item_path": "/img/avatar/hand_011_briefcase.png"
+    },
+    {
+        "item_id": "hand_012_walkingstick",
+        "item_type": "hand",
+        "item_path": "/img/avatar/hand_012_walkingstick.png"
+    },
+    {
+        "item_id": "hand_013_flower",
+        "item_type": "hand",
+        "item_path": "/img/avatar/hand_013_flower.png"
+    },
+    {
+        "item_id": "hand_014_kite",
+        "item_type": "hand",
+        "item_path": "/img/avatar/hand_014_kite.png"
+    },
+    {
+        "item_id": "head_001_tophat",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_001_tophat.png"
+    },
+    {
+        "item_id": "head_002_roundhat_black",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_002_roundhat_black.png"
+    },
+    {
+        "item_id": "head_002_roundhat_blue",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_002_roundhat_blue.png"
+    },
+    {
+        "item_id": "head_002_roundhat_gold",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_002_roundhat_gold.png"
+    },
+    {
+        "item_id": "head_002_roundhat_green",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_002_roundhat_green.png"
+    },
+    {
+        "item_id": "head_002_roundhat_red",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_002_roundhat_red.png"
+    },
+    {
+        "item_id": "head_003_casualcap_black",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_003_casualcap_black.png"
+    },
+    {
+        "item_id": "head_003_casualcap_blue",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_003_casualcap_blue.png"
+    },
+    {
+        "item_id": "head_003_casualcap_green",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_003_casualcap_green.png"
+    },
+    {
+        "item_id": "head_003_casualcap_red",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_003_casualcap_red.png"
+    },
+    {
+        "item_id": "head_004_piratehat",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_004_piratehat.png"
+    },
+    {
+        "item_id": "head_005_xmas",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_005_xmas.png"
+    },
+    {
+        "item_id": "head_006_batman",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_006_batman.png"
+    },
+    {
+        "item_id": "head_007_cap_blue",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_007_cap_blue.png"
+    },
+    {
+        "item_id": "head_007_cap_green",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_007_cap_green.png"
+    },
+    {
+        "item_id": "head_007_cap_grey",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_007_cap_grey.png"
+    },
+    {
+        "item_id": "head_007_cap_red",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_007_cap_red.png"
+    },
+    {
+        "item_id": "head_008_police",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_008_police.png"
+    },
+    {
+        "item_id": "head_009_viking",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_009_viking.png"
+    },
+    {
+        "item_id": "head_010_halo",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_010_halo.png"
+    },
+    {
+        "item_id": "head_011_centurion",
+        "item_type": "head",
+        "item_path": "/img/avatar/head_011_centurion.png"
+    },
+    {
+        "item_id": "leg_001_shorts_black",
+        "item_type": "leg",
+        "item_path": "/img/avatar/leg_001_shorts_black.png"
+    },
+    {
+        "item_id": "leg_001_shorts_blue",
+        "item_type": "leg",
+        "item_path": "/img/avatar/leg_001_shorts_blue.png"
+    },
+    {
+        "item_id": "leg_001_shorts_green",
+        "item_type": "leg",
+        "item_path": "/img/avatar/leg_001_shorts_green.png"
+    },
+    {
+        "item_id": "leg_001_shorts_red",
+        "item_type": "leg",
+        "item_path": "/img/avatar/leg_001_shorts_red.png"
+    },
+    {
+        "item_id": "leg_002_pants_black",
+        "item_type": "leg",
+        "item_path": "/img/avatar/leg_002_pants_black.png"
+    },
+    {
+        "item_id": "leg_002_pants_blue",
+        "item_type": "leg",
+        "item_path": "/img/avatar/leg_002_pants_blue.png"
+    },
+    {
+        "item_id": "leg_002_pants_green",
+        "item_type": "leg",
+        "item_path": "/img/avatar/leg_002_pants_green.png"
+    },
+    {
+        "item_id": "leg_002_pants_red",
+        "item_type": "leg",
+        "item_path": "/img/avatar/leg_002_pants_red.png"
+    },
+    {
+        "item_id": "leg_003_trackpants_black",
+        "item_type": "leg",
+        "item_path": "/img/avatar/leg_003_trackpants_black.png"
+    },
+    {
+        "item_id": "leg_003_trackpants_blue",
+        "item_type": "leg",
+        "item_path": "/img/avatar/leg_003_trackpants_blue.png"
+    },
+    {
+        "item_id": "leg_003_trackpants_green",
+        "item_type": "leg",
+        "item_path": "/img/avatar/leg_003_trackpants_green.png"
+    },
+    {
+        "item_id": "leg_003_trackpants_red",
+        "item_type": "leg",
+        "item_path": "/img/avatar/leg_003_trackpants_red.png"
+    },
+    {
+        "item_id": "leg_004_santa",
+        "item_type": "leg",
+        "item_path": "/img/avatar/leg_004_santa.png"
+    },
+    {
+        "item_id": "leg_005_superman",
+        "item_type": "leg",
+        "item_path": "/img/avatar/leg_005_superman.png"
+    },
+    {
+        "item_id": "leg_006_batman",
+        "item_type": "leg",
+        "item_path": "/img/avatar/leg_006_batman.png"
+    },
+    {
+        "item_id": "neck_001_scarf_black",
+        "item_type": "neck",
+        "item_path": "/img/avatar/neck_001_scarf_black.png"
+    },
+    {
+        "item_id": "neck_001_scarf_blue",
+        "item_type": "neck",
+        "item_path": "/img/avatar/neck_001_scarf_blue.png"
+    },
+    {
+        "item_id": "neck_001_scarf_green",
+        "item_type": "neck",
+        "item_path": "/img/avatar/neck_001_scarf_green.png"
+    },
+    {
+        "item_id": "neck_001_scarf_red",
+        "item_type": "neck",
+        "item_path": "/img/avatar/neck_001_scarf_red.png"
+    },
+    {
+        "item_id": "neck_002_medal",
+        "item_type": "neck",
+        "item_path": "/img/avatar/neck_002_medal.png"
+    },
+    {
+        "item_id": "neck_003_cape_black",
+        "item_type": "neck",
+        "item_path": "/img/avatar/neck_003_cape_black.png"
+    },
+    {
+        "item_id": "neck_003_cape_blue",
+        "item_type": "neck",
+        "item_path": "/img/avatar/neck_003_cape_blue.png"
+    },
+    {
+        "item_id": "neck_003_cape_red",
+        "item_type": "neck",
+        "item_path": "/img/avatar/neck_003_cape_red.png"
+    },
+    {
+        "item_id": "neck_004_necklace",
+        "item_type": "neck",
+        "item_path": "/img/avatar/neck_004_necklace.png"
+    },
+    {
+        "item_id": "neck_005_pendant_green",
+        "item_type": "neck",
+        "item_path": "/img/avatar/neck_005_pendant_green.png"
+    },
+    {
+        "item_id": "neck_005_pendant_red",
+        "item_type": "neck",
+        "item_path": "/img/avatar/neck_005_pendant_red.png"
+    },
+    {
+        "item_id": "pet_001_python",
+        "item_type": "pet",
+        "item_path": "/img/avatar/pet_001_python.png"
+    },
+    {
+        "item_id": "pet_002_panda",
+        "item_type": "pet",
+        "item_path": "/img/avatar/pet_002_panda.png"
+    },
+    {
+        "item_id": "pet_003_reindeer",
+        "item_type": "pet",
+        "item_path": "/img/avatar/pet_003_reindeer.png"
+    },
+    {
+        "item_id": "pet_004_egg",
+        "item_type": "pet",
+        "item_path": "/img/avatar/pet_004_egg.png"
+    },
+    {
+        "item_id": "pet_004_egg_cracked",
+        "item_type": "pet",
+        "item_path": "/img/avatar/pet_004_egg_cracked.png"
+    },
+    {
+        "item_id": "pet_004_egg_panda",
+        "item_type": "pet",
+        "item_path": "/img/avatar/pet_004_egg_panda.png"
+    },
+    {
+        "item_id": "pet_004_egg_python",
+        "item_type": "pet",
+        "item_path": "/img/avatar/pet_004_egg_python.png"
+    },
+    {
+        "item_id": "pet_005_dog",
+        "item_type": "pet",
+        "item_path": "/img/avatar/pet_005_dog.png"
+    },
+    {
+        "item_id": "pet_005_dog_black",
+        "item_type": "pet",
+        "item_path": "/img/avatar/pet_005_dog_black.png"
+    },
+    {
+        "item_id": "pet_006_cat",
+        "item_type": "pet",
+        "item_path": "/img/avatar/pet_006_cat.png"
+    },
+    {
+        "item_id": "pet_006_cat_black",
+        "item_type": "pet",
+        "item_path": "/img/avatar/pet_006_cat_black.png"
+    },
+    {
+        "item_id": "pet_007_hamster",
+        "item_type": "pet",
+        "item_path": "/img/avatar/pet_007_hamster.png"
+    },
+    {
+        "item_id": "pet_007_hamster_black",
+        "item_type": "pet",
+        "item_path": "/img/avatar/pet_007_hamster_black.png"
+    },
+    {
+        "item_id": "pet_008_parrot",
+        "item_type": "pet",
+        "item_path": "/img/avatar/pet_008_parrot.png"
+    }
+]
