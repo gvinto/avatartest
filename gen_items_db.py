@@ -12,7 +12,10 @@ for filepath in glob.glob("img/*.png"):
 
     # print(item_id, item_type, filename)
 
-    item_list.append({'item_id':item_id, 'item_type':item_type, 'item_path':'/img/avatar/'+filename})
+    item_list.append({'item_id':item_id, 
+                      'item_type':item_type, 
+                      'item_description': 'Description_text',
+                      'item_thumbnail':'/img/avatar_item/'+filename})
 
 print(item_list)
 
