@@ -3300,12 +3300,6 @@
         "item_thumbnail": "/img/avatar_items/thumbnails/neck_010_necktie_red.png"
     },
     {
-        "item_id": "Palette",
-        "item_type": "Palette",
-        "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/Palette.png"
-    },
-    {
         "item_id": "pet_001_python",
         "item_type": "pet",
         "item_description": "Description_text",
