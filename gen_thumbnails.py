@@ -50,7 +50,11 @@ def generate_thumbnail(item_id: str) -> Image:
             margin_bbox[3] + padding,
         )
 
-    base_img.paste(item_img, None, item_img)
+    if item_id.startswith('back'):
+        item_img.paste(base_img, None, base_img)
+        base_img = item_img
+    else:
+        base_img.paste(item_img, None, item_img)
 
     crop_img = base_img.crop(margin_bbox)
 

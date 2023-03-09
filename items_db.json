@@ -318,6 +318,12 @@
         "item_thumbnail": "/img/avatar_items/thumbnails/addon_010_sbo.png"
     },
     {
+        "item_id": "addon_010_suspenders",
+        "item_type": "addon",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/addon_010_suspenders.png"
+    },
+    {
         "item_id": "background_001_solid_black",
         "item_type": "background",
         "item_description": "Description_text",
@@ -352,6 +358,84 @@
         "item_type": "background",
         "item_description": "Description_text",
         "item_thumbnail": "/img/avatar_items/thumbnails/background_001_solid_white.png"
+    },
+    {
+        "item_id": "back_001_angelwings_black",
+        "item_type": "back",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/back_001_angelwings_black.png"
+    },
+    {
+        "item_id": "back_001_angelwings_white",
+        "item_type": "back",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/back_001_angelwings_white.png"
+    },
+    {
+        "item_id": "back_002_batwings_black",
+        "item_type": "back",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/back_002_batwings_black.png"
+    },
+    {
+        "item_id": "back_002_batwings_white",
+        "item_type": "back",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/back_002_batwings_white.png"
+    },
+    {
+        "item_id": "back_003_cape_black",
+        "item_type": "back",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/back_003_cape_black.png"
+    },
+    {
+        "item_id": "back_003_cape_blue",
+        "item_type": "back",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/back_003_cape_blue.png"
+    },
+    {
+        "item_id": "back_003_cape_green",
+        "item_type": "back",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/back_003_cape_green.png"
+    },
+    {
+        "item_id": "back_003_cape_orange",
+        "item_type": "back",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/back_003_cape_orange.png"
+    },
+    {
+        "item_id": "back_003_cape_pink",
+        "item_type": "back",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/back_003_cape_pink.png"
+    },
+    {
+        "item_id": "back_003_cape_purple",
+        "item_type": "back",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/back_003_cape_purple.png"
+    },
+    {
+        "item_id": "back_003_cape_red",
+        "item_type": "back",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/back_003_cape_red.png"
+    },
+    {
+        "item_id": "back_003_cape_white",
+        "item_type": "back",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/back_003_cape_white.png"
+    },
+    {
+        "item_id": "back_003_cape_yellow",
+        "item_type": "back",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/back_003_cape_yellow.png"
     },
     {
         "item_id": "base_f_001",
@@ -862,6 +946,60 @@
         "item_type": "body",
         "item_description": "Description_text",
         "item_thumbnail": "/img/avatar_items/thumbnails/body_020_army.png"
+    },
+    {
+        "item_id": "body_021_wizard_black",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_021_wizard_black.png"
+    },
+    {
+        "item_id": "body_021_wizard_blue",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_021_wizard_blue.png"
+    },
+    {
+        "item_id": "body_021_wizard_green",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_021_wizard_green.png"
+    },
+    {
+        "item_id": "body_021_wizard_orange",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_021_wizard_orange.png"
+    },
+    {
+        "item_id": "body_021_wizard_pink",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_021_wizard_pink.png"
+    },
+    {
+        "item_id": "body_021_wizard_purple",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_021_wizard_purple.png"
+    },
+    {
+        "item_id": "body_021_wizard_red",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_021_wizard_red.png"
+    },
+    {
+        "item_id": "body_021_wizard_white",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_021_wizard_white.png"
+    },
+    {
+        "item_id": "body_021_wizard_yellow",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_021_wizard_yellow.png"
     },
     {
         "item_id": "ear_001_earring_black",
@@ -2106,6 +2244,54 @@
         "item_thumbnail": "/img/avatar_items/thumbnails/hand_026_metalrod.png"
     },
     {
+        "item_id": "hand_027_wand_blue",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_027_wand_blue.png"
+    },
+    {
+        "item_id": "hand_027_wand_green",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_027_wand_green.png"
+    },
+    {
+        "item_id": "hand_027_wand_orange",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_027_wand_orange.png"
+    },
+    {
+        "item_id": "hand_027_wand_pink",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_027_wand_pink.png"
+    },
+    {
+        "item_id": "hand_027_wand_purple",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_027_wand_purple.png"
+    },
+    {
+        "item_id": "hand_027_wand_red",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_027_wand_red.png"
+    },
+    {
+        "item_id": "hand_027_wand_yellow",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_027_wand_yellow.png"
+    },
+    {
+        "item_id": "hand_028_hammer",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_028_hammer.png"
+    },
+    {
         "item_id": "head_001_tophat_black",
         "item_type": "head",
         "item_description": "Description_text",
@@ -2500,6 +2686,72 @@
         "item_type": "head",
         "item_description": "Description_text",
         "item_thumbnail": "/img/avatar_items/thumbnails/head_017_army.png"
+    },
+    {
+        "item_id": "head_018_wizardhat_black",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_018_wizardhat_black.png"
+    },
+    {
+        "item_id": "head_018_wizardhat_blue",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_018_wizardhat_blue.png"
+    },
+    {
+        "item_id": "head_018_wizardhat_green",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_018_wizardhat_green.png"
+    },
+    {
+        "item_id": "head_018_wizardhat_orange",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_018_wizardhat_orange.png"
+    },
+    {
+        "item_id": "head_018_wizardhat_pink",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_018_wizardhat_pink.png"
+    },
+    {
+        "item_id": "head_018_wizardhat_purple",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_018_wizardhat_purple.png"
+    },
+    {
+        "item_id": "head_018_wizardhat_red",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_018_wizardhat_red.png"
+    },
+    {
+        "item_id": "head_018_wizardhat_white",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_018_wizardhat_white.png"
+    },
+    {
+        "item_id": "head_018_wizardhat_yellow",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_018_wizardhat_yellow.png"
+    },
+    {
+        "item_id": "head_019_mexicanhat",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_019_mexicanhat.png"
+    },
+    {
+        "item_id": "head_019_mexicanhat_white",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_019_mexicanhat_white.png"
     },
     {
         "item_id": "leg_001_shorts_black",
@@ -3144,160 +3396,154 @@
         "item_thumbnail": "/img/avatar_items/thumbnails/neck_005_pendant_yellow.png"
     },
     {
-        "item_id": "neck_006_cape_black",
+        "item_id": "neck_006_trianglescarf_black",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_006_cape_black.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_006_trianglescarf_black.png"
     },
     {
-        "item_id": "neck_006_cape_blue",
+        "item_id": "neck_006_trianglescarf_blue",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_006_cape_blue.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_006_trianglescarf_blue.png"
     },
     {
-        "item_id": "neck_006_cape_green",
+        "item_id": "neck_006_trianglescarf_green",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_006_cape_green.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_006_trianglescarf_green.png"
     },
     {
-        "item_id": "neck_006_cape_orange",
+        "item_id": "neck_006_trianglescarf_orange",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_006_cape_orange.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_006_trianglescarf_orange.png"
     },
     {
-        "item_id": "neck_006_cape_pink",
+        "item_id": "neck_006_trianglescarf_pink",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_006_cape_pink.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_006_trianglescarf_pink.png"
     },
     {
-        "item_id": "neck_006_cape_purple",
+        "item_id": "neck_006_trianglescarf_purple",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_006_cape_purple.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_006_trianglescarf_purple.png"
     },
     {
-        "item_id": "neck_006_cape_red",
+        "item_id": "neck_006_trianglescarf_red",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_006_cape_red.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_006_trianglescarf_red.png"
     },
     {
-        "item_id": "neck_006_cape_white",
+        "item_id": "neck_006_trianglescarf_white",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_006_cape_white.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_006_trianglescarf_white.png"
     },
     {
-        "item_id": "neck_006_cape_yellow",
+        "item_id": "neck_006_trianglescarf_yellow",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_006_cape_yellow.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_006_trianglescarf_yellow.png"
     },
     {
-        "item_id": "neck_007_medal",
+        "item_id": "neck_007_tie_black",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_007_medal.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_007_tie_black.png"
     },
     {
-        "item_id": "neck_008_angelwings",
+        "item_id": "neck_007_tie_blue",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_008_angelwings.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_007_tie_blue.png"
     },
     {
-        "item_id": "neck_009_tie_black",
+        "item_id": "neck_007_tie_green",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_009_tie_black.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_007_tie_green.png"
     },
     {
-        "item_id": "neck_009_tie_blue",
+        "item_id": "neck_007_tie_orange",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_009_tie_blue.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_007_tie_orange.png"
     },
     {
-        "item_id": "neck_009_tie_green",
+        "item_id": "neck_007_tie_pink",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_009_tie_green.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_007_tie_pink.png"
     },
     {
-        "item_id": "neck_009_tie_orange",
+        "item_id": "neck_007_tie_purple",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_009_tie_orange.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_007_tie_purple.png"
     },
     {
-        "item_id": "neck_009_tie_pink",
+        "item_id": "neck_007_tie_red",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_009_tie_pink.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_007_tie_red.png"
     },
     {
-        "item_id": "neck_009_tie_purple",
+        "item_id": "neck_007_tie_yellow",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_009_tie_purple.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_007_tie_yellow.png"
     },
     {
-        "item_id": "neck_009_tie_red",
+        "item_id": "neck_008_necktie_black",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_009_tie_red.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_008_necktie_black.png"
     },
     {
-        "item_id": "neck_009_tie_yellow",
+        "item_id": "neck_008_necktie_blue",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_009_tie_yellow.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_008_necktie_blue.png"
     },
     {
-        "item_id": "neck_010_necktie_black",
+        "item_id": "neck_008_necktie_green",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_010_necktie_black.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_008_necktie_green.png"
     },
     {
-        "item_id": "neck_010_necktie_blue",
+        "item_id": "neck_008_necktie_orange",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_010_necktie_blue.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_008_necktie_orange.png"
     },
     {
-        "item_id": "neck_010_necktie_green",
+        "item_id": "neck_008_necktie_pink",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_010_necktie_green.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_008_necktie_pink.png"
     },
     {
-        "item_id": "neck_010_necktie_orange",
+        "item_id": "neck_008_necktie_purple",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_010_necktie_orange.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_008_necktie_purple.png"
     },
     {
-        "item_id": "neck_010_necktie_pink",
+        "item_id": "neck_008_necktie_red",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_010_necktie_pink.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_008_necktie_red.png"
     },
     {
-        "item_id": "neck_010_necktie_purple",
+        "item_id": "neck_009_medal",
         "item_type": "neck",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_010_necktie_purple.png"
-    },
-    {
-        "item_id": "neck_010_necktie_red",
-        "item_type": "neck",
-        "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/neck_010_necktie_red.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_009_medal.png"
     },
     {
         "item_id": "pet_001_python",
@@ -3414,6 +3660,12 @@
         "item_thumbnail": "/img/avatar_items/thumbnails/pet_008_parrot_green.png"
     },
     {
+        "item_id": "pet_008_parrot_white",
+        "item_type": "pet",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/pet_008_parrot_white.png"
+    },
+    {
         "item_id": "pet_009_penguin",
         "item_type": "pet",
         "item_description": "Description_text",
@@ -3442,6 +3694,12 @@
         "item_type": "pet",
         "item_description": "Description_text",
         "item_thumbnail": "/img/avatar_items/thumbnails/pet_012_sheep.png"
+    },
+    {
+        "item_id": "pet_012_sheep_black",
+        "item_type": "pet",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/pet_012_sheep_black.png"
     },
     {
         "item_id": "pet_013_rabbit_black",
@@ -3532,5 +3790,29 @@
         "item_type": "pet",
         "item_description": "Description_text",
         "item_thumbnail": "/img/avatar_items/thumbnails/pet_018_snowman_yellow.png"
+    },
+    {
+        "item_id": "pet_019_minion",
+        "item_type": "pet",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/pet_019_minion.png"
+    },
+    {
+        "item_id": "pet_020_owl",
+        "item_type": "pet",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/pet_020_owl.png"
+    },
+    {
+        "item_id": "pet_020_owl_white",
+        "item_type": "pet",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/pet_020_owl_white.png"
+    },
+    {
+        "item_id": "pet_021_dat",
+        "item_type": "pet",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/pet_021_dat.png"
     }
 ]
