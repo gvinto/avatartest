@@ -318,10 +318,16 @@
         "item_thumbnail": "/img/avatar_items/thumbnails/addon_010_sbo.png"
     },
     {
-        "item_id": "addon_010_suspenders",
+        "item_id": "addon_011_suspenders",
         "item_type": "addon",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/addon_010_suspenders.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/addon_011_suspenders.png"
+    },
+    {
+        "item_id": "addon_012_neonvest",
+        "item_type": "addon",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/addon_012_neonvest.png"
     },
     {
         "item_id": "background_001_solid_black",
@@ -436,6 +442,12 @@
         "item_type": "back",
         "item_description": "Description_text",
         "item_thumbnail": "/img/avatar_items/thumbnails/back_003_cape_yellow.png"
+    },
+    {
+        "item_id": "back_004_lightyear",
+        "item_type": "back",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/back_004_lightyear.png"
     },
     {
         "item_id": "base_f_001",
@@ -900,10 +912,10 @@
         "item_thumbnail": "/img/avatar_items/thumbnails/body_011_council.png"
     },
     {
-        "item_id": "body_012_prisoner",
+        "item_id": "body_012_sparkclan",
         "item_type": "body",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/body_012_prisoner.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_012_sparkclan.png"
     },
     {
         "item_id": "body_013_designtee_python",
@@ -1000,6 +1012,96 @@
         "item_type": "body",
         "item_description": "Description_text",
         "item_thumbnail": "/img/avatar_items/thumbnails/body_021_wizard_yellow.png"
+    },
+    {
+        "item_id": "body_022_astronaut_blue",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_022_astronaut_blue.png"
+    },
+    {
+        "item_id": "body_022_astronaut_orange",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_022_astronaut_orange.png"
+    },
+    {
+        "item_id": "body_023_graduation_black",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_023_graduation_black.png"
+    },
+    {
+        "item_id": "body_023_graduation_blue",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_023_graduation_blue.png"
+    },
+    {
+        "item_id": "body_024_overalls_darkblack",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_024_overalls_darkblack.png"
+    },
+    {
+        "item_id": "body_024_overalls_darkblue",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_024_overalls_darkblue.png"
+    },
+    {
+        "item_id": "body_024_overalls_darkgreen",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_024_overalls_darkgreen.png"
+    },
+    {
+        "item_id": "body_024_overalls_darkorange",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_024_overalls_darkorange.png"
+    },
+    {
+        "item_id": "body_024_overalls_darkpink",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_024_overalls_darkpink.png"
+    },
+    {
+        "item_id": "body_024_overalls_darkpurple",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_024_overalls_darkpurple.png"
+    },
+    {
+        "item_id": "body_024_overalls_darkred",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_024_overalls_darkred.png"
+    },
+    {
+        "item_id": "body_024_overalls_darkyellow",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_024_overalls_darkyellow.png"
+    },
+    {
+        "item_id": "body_025_prisoner",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_025_prisoner.png"
+    },
+    {
+        "item_id": "body_026_fireman",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_026_fireman.png"
+    },
+    {
+        "item_id": "body_027_policeman",
+        "item_type": "body",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/body_027_policeman.png"
     },
     {
         "item_id": "ear_001_earring_black",
@@ -1342,6 +1444,108 @@
         "item_type": "eye",
         "item_description": "Description_text",
         "item_thumbnail": "/img/avatar_items/thumbnails/eye_009_eyeglow_red.png"
+    },
+    {
+        "item_id": "eye_010_headband_black",
+        "item_type": "eye",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/eye_010_headband_black.png"
+    },
+    {
+        "item_id": "eye_010_headband_blue",
+        "item_type": "eye",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/eye_010_headband_blue.png"
+    },
+    {
+        "item_id": "eye_010_headband_green",
+        "item_type": "eye",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/eye_010_headband_green.png"
+    },
+    {
+        "item_id": "eye_010_headband_orange",
+        "item_type": "eye",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/eye_010_headband_orange.png"
+    },
+    {
+        "item_id": "eye_010_headband_pink",
+        "item_type": "eye",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/eye_010_headband_pink.png"
+    },
+    {
+        "item_id": "eye_010_headband_purple",
+        "item_type": "eye",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/eye_010_headband_purple.png"
+    },
+    {
+        "item_id": "eye_010_headband_red",
+        "item_type": "eye",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/eye_010_headband_red.png"
+    },
+    {
+        "item_id": "eye_010_headband_white",
+        "item_type": "eye",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/eye_010_headband_white.png"
+    },
+    {
+        "item_id": "eye_010_headband_yellow",
+        "item_type": "eye",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/eye_010_headband_yellow.png"
+    },
+    {
+        "item_id": "eye_011_goggles_blue",
+        "item_type": "eye",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/eye_011_goggles_blue.png"
+    },
+    {
+        "item_id": "eye_011_goggles_green",
+        "item_type": "eye",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/eye_011_goggles_green.png"
+    },
+    {
+        "item_id": "eye_011_goggles_orange",
+        "item_type": "eye",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/eye_011_goggles_orange.png"
+    },
+    {
+        "item_id": "eye_011_goggles_pink",
+        "item_type": "eye",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/eye_011_goggles_pink.png"
+    },
+    {
+        "item_id": "eye_011_goggles_purple",
+        "item_type": "eye",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/eye_011_goggles_purple.png"
+    },
+    {
+        "item_id": "eye_011_goggles_red",
+        "item_type": "eye",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/eye_011_goggles_red.png"
+    },
+    {
+        "item_id": "eye_011_goggles_yellow",
+        "item_type": "eye",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/eye_011_goggles_yellow.png"
+    },
+    {
+        "item_id": "eye_012_sparkclangoggles",
+        "item_type": "eye",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/eye_012_sparkclangoggles.png"
     },
     {
         "item_id": "face_001_moustache",
@@ -2076,6 +2280,30 @@
         "item_thumbnail": "/img/avatar_items/thumbnails/hair_023_sideshave_grey.png"
     },
     {
+        "item_id": "hair_024_veryshort",
+        "item_type": "hair",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hair_024_veryshort.png"
+    },
+    {
+        "item_id": "hair_024_veryshort_grey",
+        "item_type": "hair",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hair_024_veryshort_grey.png"
+    },
+    {
+        "item_id": "hair_025_madscientist",
+        "item_type": "hair",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hair_025_madscientist.png"
+    },
+    {
+        "item_id": "hair_025_madscientist_grey",
+        "item_type": "hair",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hair_025_madscientist_grey.png"
+    },
+    {
         "item_id": "hand_001_woodensword",
         "item_type": "hand",
         "item_description": "Description_text",
@@ -2290,6 +2518,252 @@
         "item_type": "hand",
         "item_description": "Description_text",
         "item_thumbnail": "/img/avatar_items/thumbnails/hand_028_hammer.png"
+    },
+    {
+        "item_id": "hand_029_flag_black",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_029_flag_black.png"
+    },
+    {
+        "item_id": "hand_029_flag_blue",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_029_flag_blue.png"
+    },
+    {
+        "item_id": "hand_029_flag_green",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_029_flag_green.png"
+    },
+    {
+        "item_id": "hand_029_flag_orange",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_029_flag_orange.png"
+    },
+    {
+        "item_id": "hand_029_flag_pink",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_029_flag_pink.png"
+    },
+    {
+        "item_id": "hand_029_flag_purple",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_029_flag_purple.png"
+    },
+    {
+        "item_id": "hand_029_flag_red",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_029_flag_red.png"
+    },
+    {
+        "item_id": "hand_029_flag_white",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_029_flag_white.png"
+    },
+    {
+        "item_id": "hand_029_flag_yellow",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_029_flag_yellow.png"
+    },
+    {
+        "item_id": "hand_030_clipboard",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_030_clipboard.png"
+    },
+    {
+        "item_id": "hand_031_laptop",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_031_laptop.png"
+    },
+    {
+        "item_id": "hand_032_purse",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_032_purse.png"
+    },
+    {
+        "item_id": "hand_033_balloon_black",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_033_balloon_black.png"
+    },
+    {
+        "item_id": "hand_033_balloon_blue",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_033_balloon_blue.png"
+    },
+    {
+        "item_id": "hand_033_balloon_green",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_033_balloon_green.png"
+    },
+    {
+        "item_id": "hand_033_balloon_orange",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_033_balloon_orange.png"
+    },
+    {
+        "item_id": "hand_033_balloon_pink",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_033_balloon_pink.png"
+    },
+    {
+        "item_id": "hand_033_balloon_purple",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_033_balloon_purple.png"
+    },
+    {
+        "item_id": "hand_033_balloon_red",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_033_balloon_red.png"
+    },
+    {
+        "item_id": "hand_033_balloon_white",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_033_balloon_white.png"
+    },
+    {
+        "item_id": "hand_033_balloon_yellow",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_033_balloon_yellow.png"
+    },
+    {
+        "item_id": "hand_034_testtube_blue",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_034_testtube_blue.png"
+    },
+    {
+        "item_id": "hand_034_testtube_green",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_034_testtube_green.png"
+    },
+    {
+        "item_id": "hand_034_testtube_red",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_034_testtube_red.png"
+    },
+    {
+        "item_id": "hand_035_datacube_blue",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_035_datacube_blue.png"
+    },
+    {
+        "item_id": "hand_035_datacube_green",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_035_datacube_green.png"
+    },
+    {
+        "item_id": "hand_035_datacube_red",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_035_datacube_red.png"
+    },
+    {
+        "item_id": "hand_036_spanner",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_036_spanner.png"
+    },
+    {
+        "item_id": "hand_037_nintendocontroller",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_037_nintendocontroller.png"
+    },
+    {
+        "item_id": "hand_038_supernintendocontroller",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_038_supernintendocontroller.png"
+    },
+    {
+        "item_id": "hand_039_nintendoconsole",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_039_nintendoconsole.png"
+    },
+    {
+        "item_id": "hand_040_xboxcontroller",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_040_xboxcontroller.png"
+    },
+    {
+        "item_id": "hand_041_umbrella_black",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_041_umbrella_black.png"
+    },
+    {
+        "item_id": "hand_041_umbrella_blue",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_041_umbrella_blue.png"
+    },
+    {
+        "item_id": "hand_041_umbrella_green",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_041_umbrella_green.png"
+    },
+    {
+        "item_id": "hand_041_umbrella_orange",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_041_umbrella_orange.png"
+    },
+    {
+        "item_id": "hand_041_umbrella_pink",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_041_umbrella_pink.png"
+    },
+    {
+        "item_id": "hand_041_umbrella_purple",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_041_umbrella_purple.png"
+    },
+    {
+        "item_id": "hand_041_umbrella_red",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_041_umbrella_red.png"
+    },
+    {
+        "item_id": "hand_041_umbrella_white",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_041_umbrella_white.png"
+    },
+    {
+        "item_id": "hand_041_umbrella_yellow",
+        "item_type": "hand",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/hand_041_umbrella_yellow.png"
     },
     {
         "item_id": "head_001_tophat_black",
@@ -2580,10 +3054,10 @@
         "item_thumbnail": "/img/avatar_items/thumbnails/head_007_piratehat.png"
     },
     {
-        "item_id": "head_008_police",
+        "item_id": "head_008_policeman",
         "item_type": "head",
         "item_description": "Description_text",
-        "item_thumbnail": "/img/avatar_items/thumbnails/head_008_police.png"
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_008_policeman.png"
     },
     {
         "item_id": "head_009_viking",
@@ -2752,6 +3226,144 @@
         "item_type": "head",
         "item_description": "Description_text",
         "item_thumbnail": "/img/avatar_items/thumbnails/head_019_mexicanhat_white.png"
+    },
+    {
+        "item_id": "head_020_astronaut_blue",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_020_astronaut_blue.png"
+    },
+    {
+        "item_id": "head_020_astronaut_orange",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_020_astronaut_orange.png"
+    },
+    {
+        "item_id": "head_021_graduation_black",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_021_graduation_black.png"
+    },
+    {
+        "item_id": "head_021_graduation_blue",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_021_graduation_blue.png"
+    },
+    {
+        "item_id": "head_022_construction_yellow",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_022_construction_yellow.png"
+    },
+    {
+        "item_id": "head_023_visor_black",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_023_visor_black.png"
+    },
+    {
+        "item_id": "head_023_visor_blue",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_023_visor_blue.png"
+    },
+    {
+        "item_id": "head_023_visor_green",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_023_visor_green.png"
+    },
+    {
+        "item_id": "head_023_visor_orange",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_023_visor_orange.png"
+    },
+    {
+        "item_id": "head_023_visor_pink",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_023_visor_pink.png"
+    },
+    {
+        "item_id": "head_023_visor_purple",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_023_visor_purple.png"
+    },
+    {
+        "item_id": "head_023_visor_red",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_023_visor_red.png"
+    },
+    {
+        "item_id": "head_023_visor_yellow",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_023_visor_yellow.png"
+    },
+    {
+        "item_id": "head_024_buckethat_black",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_024_buckethat_black.png"
+    },
+    {
+        "item_id": "head_024_buckethat_blue",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_024_buckethat_blue.png"
+    },
+    {
+        "item_id": "head_024_buckethat_green",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_024_buckethat_green.png"
+    },
+    {
+        "item_id": "head_024_buckethat_orange",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_024_buckethat_orange.png"
+    },
+    {
+        "item_id": "head_024_buckethat_pink",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_024_buckethat_pink.png"
+    },
+    {
+        "item_id": "head_024_buckethat_purple",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_024_buckethat_purple.png"
+    },
+    {
+        "item_id": "head_024_buckethat_red",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_024_buckethat_red.png"
+    },
+    {
+        "item_id": "head_024_buckethat_yellow",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_024_buckethat_yellow.png"
+    },
+    {
+        "item_id": "head_025_sparkclan",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_025_sparkclan.png"
+    },
+    {
+        "item_id": "head_026_fireman",
+        "item_type": "head",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/head_026_fireman.png"
     },
     {
         "item_id": "leg_001_shorts_black",
@@ -3144,6 +3756,78 @@
         "item_thumbnail": "/img/avatar_items/thumbnails/leg_015_army.png"
     },
     {
+        "item_id": "leg_016_astronaut_blue",
+        "item_type": "leg",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/leg_016_astronaut_blue.png"
+    },
+    {
+        "item_id": "leg_016_astronaut_orange",
+        "item_type": "leg",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/leg_016_astronaut_orange.png"
+    },
+    {
+        "item_id": "leg_017_overalls_darkblack",
+        "item_type": "leg",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/leg_017_overalls_darkblack.png"
+    },
+    {
+        "item_id": "leg_017_overalls_darkblue",
+        "item_type": "leg",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/leg_017_overalls_darkblue.png"
+    },
+    {
+        "item_id": "leg_017_overalls_darkgreen",
+        "item_type": "leg",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/leg_017_overalls_darkgreen.png"
+    },
+    {
+        "item_id": "leg_017_overalls_darkorange",
+        "item_type": "leg",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/leg_017_overalls_darkorange.png"
+    },
+    {
+        "item_id": "leg_017_overalls_darkpink",
+        "item_type": "leg",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/leg_017_overalls_darkpink.png"
+    },
+    {
+        "item_id": "leg_017_overalls_darkpurple",
+        "item_type": "leg",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/leg_017_overalls_darkpurple.png"
+    },
+    {
+        "item_id": "leg_017_overalls_darkred",
+        "item_type": "leg",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/leg_017_overalls_darkred.png"
+    },
+    {
+        "item_id": "leg_017_overalls_darkyellow",
+        "item_type": "leg",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/leg_017_overalls_darkyellow.png"
+    },
+    {
+        "item_id": "leg_018_fireman",
+        "item_type": "leg",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/leg_018_fireman.png"
+    },
+    {
+        "item_id": "leg_019_policeman",
+        "item_type": "leg",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/leg_019_policeman.png"
+    },
+    {
         "item_id": "mouth_001_lipstick_pink",
         "item_type": "mouth",
         "item_description": "Description_text",
@@ -3178,6 +3862,48 @@
         "item_type": "mouth",
         "item_description": "Description_text",
         "item_thumbnail": "/img/avatar_items/thumbnails/mouth_004_opentongue.png"
+    },
+    {
+        "item_id": "mouth_005_whistle_blue",
+        "item_type": "mouth",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/mouth_005_whistle_blue.png"
+    },
+    {
+        "item_id": "mouth_005_whistle_green",
+        "item_type": "mouth",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/mouth_005_whistle_green.png"
+    },
+    {
+        "item_id": "mouth_005_whistle_orange",
+        "item_type": "mouth",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/mouth_005_whistle_orange.png"
+    },
+    {
+        "item_id": "mouth_005_whistle_pink",
+        "item_type": "mouth",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/mouth_005_whistle_pink.png"
+    },
+    {
+        "item_id": "mouth_005_whistle_purple",
+        "item_type": "mouth",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/mouth_005_whistle_purple.png"
+    },
+    {
+        "item_id": "mouth_005_whistle_red",
+        "item_type": "mouth",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/mouth_005_whistle_red.png"
+    },
+    {
+        "item_id": "mouth_005_whistle_yellow",
+        "item_type": "mouth",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/mouth_005_whistle_yellow.png"
     },
     {
         "item_id": "neck_001_scarf_black",
@@ -3546,6 +4272,30 @@
         "item_thumbnail": "/img/avatar_items/thumbnails/neck_009_medal.png"
     },
     {
+        "item_id": "neck_010_prefecttie",
+        "item_type": "neck",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/neck_010_prefecttie.png"
+    },
+    {
+        "item_id": "Palette_Main",
+        "item_type": "Palette",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/Palette_Main.png"
+    },
+    {
+        "item_id": "Palette_Skin",
+        "item_type": "Palette",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/Palette_Skin.png"
+    },
+    {
+        "item_id": "Palette_Stage",
+        "item_type": "Palette",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/Palette_Stage.png"
+    },
+    {
         "item_id": "pet_001_python",
         "item_type": "pet",
         "item_description": "Description_text",
@@ -3814,5 +4564,77 @@
         "item_type": "pet",
         "item_description": "Description_text",
         "item_thumbnail": "/img/avatar_items/thumbnails/pet_021_dat.png"
+    },
+    {
+        "item_id": "pet_022_alien_black",
+        "item_type": "pet",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/pet_022_alien_black.png"
+    },
+    {
+        "item_id": "pet_022_alien_blue",
+        "item_type": "pet",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/pet_022_alien_blue.png"
+    },
+    {
+        "item_id": "pet_022_alien_green",
+        "item_type": "pet",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/pet_022_alien_green.png"
+    },
+    {
+        "item_id": "pet_022_alien_orange",
+        "item_type": "pet",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/pet_022_alien_orange.png"
+    },
+    {
+        "item_id": "pet_022_alien_pink",
+        "item_type": "pet",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/pet_022_alien_pink.png"
+    },
+    {
+        "item_id": "pet_022_alien_purple",
+        "item_type": "pet",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/pet_022_alien_purple.png"
+    },
+    {
+        "item_id": "pet_022_alien_red",
+        "item_type": "pet",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/pet_022_alien_red.png"
+    },
+    {
+        "item_id": "pet_022_alien_yellow",
+        "item_type": "pet",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/pet_022_alien_yellow.png"
+    },
+    {
+        "item_id": "pet_023_lego",
+        "item_type": "pet",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/pet_023_lego.png"
+    },
+    {
+        "item_id": "pet_024_floatinglego",
+        "item_type": "pet",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/pet_024_floatinglego.png"
+    },
+    {
+        "item_id": "pet_025_tesseract",
+        "item_type": "pet",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/pet_025_tesseract.png"
+    },
+    {
+        "item_id": "pet_026_campfire",
+        "item_type": "pet",
+        "item_description": "Description_text",
+        "item_thumbnail": "/img/avatar_items/thumbnails/pet_026_campfire.png"
     }
 ]
