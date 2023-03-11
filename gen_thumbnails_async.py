@@ -1,5 +1,7 @@
 from PIL import Image
 import glob, time
+import asyncio
+import concurrent.futures
 
 MARGIN = 10
 THUMBNAIL_SIZE = 80
@@ -66,27 +68,43 @@ def generate_thumbnail(item_id: str) -> Image:
     background.thumbnail((THUMBNAIL_SIZE, THUMBNAIL_SIZE))
     # print(background.size)
     # background.show()
-    return background
 
-def main():
+    background.save(f"gen_thumbnails/{item_id}.png", optimize=True, quality=95)
+
+    return item_id, background
+
+async def main():
     start = time.perf_counter()
-    # get the path/directory
-    folder_dir = "img"
+    loop = asyncio.get_running_loop()
 
-    # iterate over files in
-    # that directory
-    for filepath in glob.iglob(f"{folder_dir}/*.png"):
+    with concurrent.futures.ThreadPoolExecutor() as pool:
+        blocking_tasks = []
 
-        # check if the image ends with png
-        if filepath.endswith(".png"):
-            filename = filepath.split("\\")[1]
-            item_id = filename.split(".")[0]
-            # print(item_id)
-            thumbnail = generate_thumbnail(item_id)
-            thumbnail.save(f"gen_thumbnails/{item_id}.png", optimize=True, quality=95)
+        # get the path/directory
+        folder_dir = "img"
+
+        # iterate over files in
+        # that directory
+        for filepath in glob.iglob(f"{folder_dir}/*.png"):
+            
+            # check if the image ends with png
+            if filepath.endswith(".png"):
+                
+                filename = filepath.split("\\")[1]
+                item_id = filename.split(".")[0]
+                # print(item_id)
+                # thumbnail = generate_thumbnail(item_id)
+                # thumbnail = await loop.run_in_executor(pool, generate_thumbnail, item_id)
+                blocking_tasks.append(loop.run_in_executor(pool, generate_thumbnail, item_id))
+
+        completed, pending = await asyncio.wait(blocking_tasks)
+        results = [t.result() for t in completed]
+        
+        for result in results:
+            print(result)
 
     end = time.perf_counter()
-    print(f"Time taken: {end-start:.2f}s")
+    print(f"Time taken: {end-start}s")
 
 if __name__ == '__main__':
-    main()
+    asyncio.run(main())
