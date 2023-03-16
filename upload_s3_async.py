@@ -32,12 +32,25 @@ async def main():
         img_files = glob.glob("img/*.png")
         num_files = len(img_files)
         count = 0
-        LOG.info(f'Found {num_files} files. Starting upload...')
+        LOG.info(f'Found {num_files} image files. Starting upload...')
         for filepath in img_files:
             filename = filepath.split('\\')[1]
             LOG.info(f'Uploading {count}/{num_files} files...')
 
             tasks.append(asyncio.ensure_future(upload(s3, filepath, filename, bucket, 'avatar/images/')))
+
+            count+=1
+
+        # Upload all thumbnails to S3
+        img_files = glob.glob("gen_thumbnails/*.png")
+        num_files = len(img_files)
+        count = 0
+        LOG.info(f'Found {num_files} thumbnail files. Starting upload...')
+        for filepath in img_files:
+            filename = filepath.split('\\')[1]
+            LOG.info(f'Uploading {count}/{num_files} files...')
+
+            tasks.append(asyncio.ensure_future(upload(s3, filepath, filename, bucket, 'avatar/images/thumbnails/')))
 
             count+=1
 
