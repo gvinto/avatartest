@@ -1,2 +1,6 @@
 *.aseprite
 .DS_Store
+util/
+config.py
+*.pyc
+__pycache__
