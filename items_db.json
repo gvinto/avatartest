@@ -366,6 +366,24 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_013_smalljacket_yellow.png"
     },
     {
+        "item_id": "addon_014_bignose_blue",
+        "item_type": "addon",
+        "item_description": "Big nose, bigger ego",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_014_bignose_blue.png"
+    },
+    {
+        "item_id": "addon_014_bignose_green",
+        "item_type": "addon",
+        "item_description": "Green nose, green envy",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_014_bignose_green.png"
+    },
+    {
+        "item_id": "addon_014_bignose_red",
+        "item_type": "addon",
+        "item_description": "Red nose, red hot",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_014_bignose_red.png"
+    },
+    {
         "item_id": "background_001_solid_black",
         "item_type": "background",
         "item_description": "Classic black for a timeless look",
@@ -576,6 +594,12 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_001_tshirt_red.png"
     },
     {
+        "item_id": "body_001_tshirt_white",
+        "item_type": "body",
+        "item_description": "Plain white tee, plain cool",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_001_tshirt_white.png"
+    },
+    {
         "item_id": "body_001_tshirt_yellow",
         "item_type": "body",
         "item_description": "A sunny yellow t-shirt to brighten your day",
@@ -624,6 +648,12 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_002_singlet_red.png"
     },
     {
+        "item_id": "body_002_singlet_white",
+        "item_type": "body",
+        "item_description": "Show off those biceps",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_002_singlet_white.png"
+    },
+    {
         "item_id": "body_002_singlet_yellow",
         "item_type": "body",
         "item_description": "Stay bright and sunny with this yellow singlet",
@@ -670,6 +700,12 @@
         "item_type": "body",
         "item_description": "Stay motivated with this red gym top",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_003_gymtop_red.png"
+    },
+    {
+        "item_id": "body_003_gymtop_white",
+        "item_type": "body",
+        "item_description": "Gym rat approved",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_003_gymtop_white.png"
     },
     {
         "item_id": "body_003_gymtop_yellow",
@@ -768,6 +804,12 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_005_jacket_red.png"
     },
     {
+        "item_id": "body_005_jacket_white",
+        "item_type": "body",
+        "item_description": "Stay fresh, stay fly",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_005_jacket_white.png"
+    },
+    {
         "item_id": "body_005_jacket_yellow",
         "item_type": "body",
         "item_description": "Stay bright and sunny in this yellow jacket",
@@ -816,6 +858,12 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_006_dress_red.png"
     },
     {
+        "item_id": "body_006_dress_white",
+        "item_type": "body",
+        "item_description": "Classy and sassy",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_006_dress_white.png"
+    },
+    {
         "item_id": "body_006_dress_yellow",
         "item_type": "body",
         "item_description": "Stay bright and sunny in this yellow dress",
@@ -862,6 +910,12 @@
         "item_type": "body",
         "item_description": "Stay confident in this red long dress",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_007_longdress_red.png"
+    },
+    {
+        "item_id": "body_007_longdress_white",
+        "item_type": "body",
+        "item_description": "Elegance in motion",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_007_longdress_white.png"
     },
     {
         "item_id": "body_007_longdress_yellow",
@@ -922,6 +976,12 @@
         "item_type": "body",
         "item_description": "Red-y for Anything",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_008_shirt_red.png"
+    },
+    {
+        "item_id": "body_008_shirt_white",
+        "item_type": "body",
+        "item_description": "A staple for every wardrobe",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_008_shirt_white.png"
     },
     {
         "item_id": "body_008_shirt_yellow",
@@ -1192,6 +1252,132 @@
         "item_type": "body",
         "item_description": "Yellow Mellow",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_028_sleevelesslongdress_yellow.png"
+    },
+    {
+        "item_id": "body_029_bikinistrap_black",
+        "item_type": "body",
+        "item_description": "Black never goes out of style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_029_bikinistrap_black.png"
+    },
+    {
+        "item_id": "body_029_bikinistrap_blue",
+        "item_type": "body",
+        "item_description": "Cool as the ocean",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_029_bikinistrap_blue.png"
+    },
+    {
+        "item_id": "body_029_bikinistrap_green",
+        "item_type": "body",
+        "item_description": "Fresh as nature",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_029_bikinistrap_green.png"
+    },
+    {
+        "item_id": "body_029_bikinistrap_orange",
+        "item_type": "body",
+        "item_description": "Be bold, be bright",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_029_bikinistrap_orange.png"
+    },
+    {
+        "item_id": "body_029_bikinistrap_pink",
+        "item_type": "body",
+        "item_description": "Pretty in pink",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_029_bikinistrap_pink.png"
+    },
+    {
+        "item_id": "body_029_bikinistrap_purple",
+        "item_type": "body",
+        "item_description": "Royally chic",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_029_bikinistrap_purple.png"
+    },
+    {
+        "item_id": "body_029_bikinistrap_red",
+        "item_type": "body",
+        "item_description": "Fierce and fiery",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_029_bikinistrap_red.png"
+    },
+    {
+        "item_id": "body_029_bikinistrap_white",
+        "item_type": "body",
+        "item_description": "Pure and pristine",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_029_bikinistrap_white.png"
+    },
+    {
+        "item_id": "body_029_bikinistrap_yellow",
+        "item_type": "body",
+        "item_description": "Bright as the sun",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_029_bikinistrap_yellow.png"
+    },
+    {
+        "item_id": "body_030_bikini_black",
+        "item_type": "body",
+        "item_description": "Slay in black",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_030_bikini_black.png"
+    },
+    {
+        "item_id": "body_030_bikini_blue",
+        "item_type": "body",
+        "item_description": "Blue is the warmest color",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_030_bikini_blue.png"
+    },
+    {
+        "item_id": "body_030_bikini_green",
+        "item_type": "body",
+        "item_description": "Green with envy",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_030_bikini_green.png"
+    },
+    {
+        "item_id": "body_030_bikini_orange",
+        "item_type": "body",
+        "item_description": "Orange you glad you chose this?",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_030_bikini_orange.png"
+    },
+    {
+        "item_id": "body_030_bikini_pink",
+        "item_type": "body",
+        "item_description": "Tickled pink",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_030_bikini_pink.png"
+    },
+    {
+        "item_id": "body_030_bikini_purple",
+        "item_type": "body",
+        "item_description": "Purple reigns supreme",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_030_bikini_purple.png"
+    },
+    {
+        "item_id": "body_030_bikini_red",
+        "item_type": "body",
+        "item_description": "Red hot and ready",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_030_bikini_red.png"
+    },
+    {
+        "item_id": "body_030_bikini_white",
+        "item_type": "body",
+        "item_description": "White hot",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_030_bikini_white.png"
+    },
+    {
+        "item_id": "body_030_bikini_yellow",
+        "item_type": "body",
+        "item_description": "Yellow mellow",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_030_bikini_yellow.png"
+    },
+    {
+        "item_id": "body_031_designerbikini_white",
+        "item_type": "body",
+        "item_description": "Fashion forward beach babe",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_031_designerbikini_white.png"
+    },
+    {
+        "item_id": "body_032_designersuit_black",
+        "item_type": "body",
+        "item_description": "Sleek and chic",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_032_designersuit_black.png"
+    },
+    {
+        "item_id": "body_033_speciallabcoat",
+        "item_type": "body",
+        "item_description": "For the mad scientist in you",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_033_speciallabcoat.png"
     },
     {
         "item_id": "ear_001_earring_black",
@@ -1662,6 +1848,72 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_012_sparkclangoggles.png"
     },
     {
+        "item_id": "eye_013_safetygoggles_black",
+        "item_type": "eye",
+        "item_description": "Safety first, fashion second",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_013_safetygoggles_black.png"
+    },
+    {
+        "item_id": "eye_013_safetygoggles_blue",
+        "item_type": "eye",
+        "item_description": "See the world in blue",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_013_safetygoggles_blue.png"
+    },
+    {
+        "item_id": "eye_013_safetygoggles_green",
+        "item_type": "eye",
+        "item_description": "Green means go",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_013_safetygoggles_green.png"
+    },
+    {
+        "item_id": "eye_013_safetygoggles_orange",
+        "item_type": "eye",
+        "item_description": "Orange you curious?",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_013_safetygoggles_orange.png"
+    },
+    {
+        "item_id": "eye_013_safetygoggles_pink",
+        "item_type": "eye",
+        "item_description": "Think pink",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_013_safetygoggles_pink.png"
+    },
+    {
+        "item_id": "eye_013_safetygoggles_purple",
+        "item_type": "eye",
+        "item_description": "Purple power",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_013_safetygoggles_purple.png"
+    },
+    {
+        "item_id": "eye_013_safetygoggles_red",
+        "item_type": "eye",
+        "item_description": "Seeing red",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_013_safetygoggles_red.png"
+    },
+    {
+        "item_id": "eye_013_safetygoggles_yellow",
+        "item_type": "eye",
+        "item_description": "Bright as the sun",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_013_safetygoggles_yellow.png"
+    },
+    {
+        "item_id": "eye_014_argoggles",
+        "item_type": "eye",
+        "item_description": "Augmented reality, augmented fun",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_014_argoggles.png"
+    },
+    {
+        "item_id": "eye_015_specialsafetygoggles",
+        "item_type": "eye",
+        "item_description": "Safety with a twist",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_015_specialsafetygoggles.png"
+    },
+    {
+        "item_id": "eye_016_specialargoggles",
+        "item_type": "eye",
+        "item_description": "Augment your reality",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_016_specialargoggles.png"
+    },
+    {
         "item_id": "face_001_moustache",
         "item_type": "face",
         "item_description": "Show off your dashing looks with this moustache",
@@ -1780,6 +2032,18 @@
         "item_type": "face",
         "item_description": "Add some edge to your look with this scar face paint",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/face_012_scarface.png"
+    },
+    {
+        "item_id": "face_013_healthmask_blue",
+        "item_type": "face",
+        "item_description": "Stay healthy, stay stylish",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/face_013_healthmask_blue.png"
+    },
+    {
+        "item_id": "face_013_healthmask_white",
+        "item_type": "face",
+        "item_description": "Plain and practical",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/face_013_healthmask_white.png"
     },
     {
         "item_id": "feet_001_shoes_black",
@@ -2058,6 +2322,12 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_001_short.png"
     },
     {
+        "item_id": "hair_001_short_brown",
+        "item_type": "hair",
+        "item_description": "Short and sweet",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_001_short_brown.png"
+    },
+    {
         "item_id": "hair_001_short_grey",
         "item_type": "hair",
         "item_description": "Stay stylish with grey short hair!",
@@ -2068,6 +2338,12 @@
         "item_type": "hair",
         "item_description": "Stay sharp with a crew cut!",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_002_crewcut.png"
+    },
+    {
+        "item_id": "hair_002_crewcut_brown",
+        "item_type": "hair",
+        "item_description": "Military inspired",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_002_crewcut_brown.png"
     },
     {
         "item_id": "hair_002_crewcut_grey",
@@ -2082,6 +2358,12 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_003_f4.png"
     },
     {
+        "item_id": "hair_003_f4_brown",
+        "item_type": "hair",
+        "item_description": "For the adventurous soul",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_003_f4_brown.png"
+    },
+    {
         "item_id": "hair_003_f4_grey",
         "item_type": "hair",
         "item_description": "Stay stylish with grey F4 hair!",
@@ -2092,6 +2374,12 @@
         "item_type": "hair",
         "item_description": "Stay sharp with side-swept hair!",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_004_side.png"
+    },
+    {
+        "item_id": "hair_004_side_brown",
+        "item_type": "hair",
+        "item_description": "Sleek and stylish",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_004_side_brown.png"
     },
     {
         "item_id": "hair_004_side_grey",
@@ -2106,6 +2394,12 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_005_tall.png"
     },
     {
+        "item_id": "hair_005_tall_brown",
+        "item_type": "hair",
+        "item_description": "The higher the hair, the closer to heaven",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_005_tall_brown.png"
+    },
+    {
         "item_id": "hair_005_tall_grey",
         "item_type": "hair",
         "item_description": "Tall, grey and confident",
@@ -2118,10 +2412,28 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_006_puffy.png"
     },
     {
+        "item_id": "hair_006_puffy_brown",
+        "item_type": "hair",
+        "item_description": "Big hair, don't care",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_006_puffy_brown.png"
+    },
+    {
+        "item_id": "hair_006_puffy_white",
+        "item_type": "hair",
+        "item_description": "Puffy white hair, don't care",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_006_puffy_white.png"
+    },
+    {
         "item_id": "hair_007_centre",
         "item_type": "hair",
         "item_description": "Centre and symmetrical",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_007_centre.png"
+    },
+    {
+        "item_id": "hair_007_centre_brown",
+        "item_type": "hair",
+        "item_description": "Brown hair, centered and grounded",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_007_centre_brown.png"
     },
     {
         "item_id": "hair_007_centre_grey",
@@ -2136,10 +2448,28 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_008_straight.png"
     },
     {
+        "item_id": "hair_008_straight_brown",
+        "item_type": "hair",
+        "item_description": "Straight, brown and serious",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_008_straight_brown.png"
+    },
+    {
+        "item_id": "hair_008_straight_grey",
+        "item_type": "hair",
+        "item_description": "Straight, grey and distinguished",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_008_straight_grey.png"
+    },
+    {
         "item_id": "hair_009_balding",
         "item_type": "hair",
         "item_description": "Balding but cool",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_009_balding.png"
+    },
+    {
+        "item_id": "hair_009_balding_brown",
+        "item_type": "hair",
+        "item_description": "Balding but not forgotten, brown",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_009_balding_brown.png"
     },
     {
         "item_id": "hair_009_balding_grey",
@@ -2154,6 +2484,12 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_010_punk.png"
     },
     {
+        "item_id": "hair_010_punk_brown",
+        "item_type": "hair",
+        "item_description": "Punk rock brown hair, rebel",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_010_punk_brown.png"
+    },
+    {
         "item_id": "hair_010_punk_grey",
         "item_type": "hair",
         "item_description": "Punk and wise",
@@ -2164,6 +2500,12 @@
         "item_type": "hair",
         "item_description": "Wrapped and elegant",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_011_wrap.png"
+    },
+    {
+        "item_id": "hair_011_wrap_brown",
+        "item_type": "hair",
+        "item_description": "Wrap it up with brown hair",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_011_wrap_brown.png"
     },
     {
         "item_id": "hair_011_wrap_grey",
@@ -2178,6 +2520,12 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_012_pony.png"
     },
     {
+        "item_id": "hair_012_pony_brown",
+        "item_type": "hair",
+        "item_description": "Brown ponytail, for the wild ones",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_012_pony_brown.png"
+    },
+    {
         "item_id": "hair_012_pony_grey",
         "item_type": "hair",
         "item_description": "Ponytail and experienced",
@@ -2190,6 +2538,12 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_013_long.png"
     },
     {
+        "item_id": "hair_013_long_brown",
+        "item_type": "hair",
+        "item_description": "Long brown hair, don't care",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_013_long_brown.png"
+    },
+    {
         "item_id": "hair_013_long_grey",
         "item_type": "hair",
         "item_description": "Long and distinguished",
@@ -2200,6 +2554,12 @@
         "item_type": "hair",
         "item_description": "Long and straight",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_014_longstraight.png"
+    },
+    {
+        "item_id": "hair_014_longstraight_brown",
+        "item_type": "hair",
+        "item_description": "Long and straight brown hair, classic",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_014_longstraight_brown.png"
     },
     {
         "item_id": "hair_014_longstraight_grey",
@@ -2262,6 +2622,12 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_016_shortcurl.png"
     },
     {
+        "item_id": "hair_016_shortcurl_brown",
+        "item_type": "hair",
+        "item_description": "Short and curly brown hair, cute",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_016_shortcurl_brown.png"
+    },
+    {
         "item_id": "hair_016_shortcurl_grey",
         "item_type": "hair",
         "item_description": "Short and wise",
@@ -2272,6 +2638,12 @@
         "item_type": "hair",
         "item_description": "Curls and bouncy",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_017_curls.png"
+    },
+    {
+        "item_id": "hair_017_curls_brown",
+        "item_type": "hair",
+        "item_description": "Brown curls, embrace the volume",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_017_curls_brown.png"
     },
     {
         "item_id": "hair_017_curls_grey",
@@ -2286,10 +2658,28 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_018_mccarthy.png"
     },
     {
+        "item_id": "hair_018_mccarthy_brown",
+        "item_type": "hair",
+        "item_description": "Brown hair, McCarthy style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_018_mccarthy_brown.png"
+    },
+    {
+        "item_id": "hair_018_mccarthy_grey",
+        "item_type": "hair",
+        "item_description": "Grey hair, McCarthy style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_018_mccarthy_grey.png"
+    },
+    {
         "item_id": "hair_019_sidebald",
         "item_type": "hair",
         "item_description": "Side bald and daring",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_019_sidebald.png"
+    },
+    {
+        "item_id": "hair_019_sidebald_brown",
+        "item_type": "hair",
+        "item_description": "Brown hair, side balding, still hot",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_019_sidebald_brown.png"
     },
     {
         "item_id": "hair_019_sidebald_grey",
@@ -2302,6 +2692,12 @@
         "item_type": "hair",
         "item_description": "Superman and heroic",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_020_superman.png"
+    },
+    {
+        "item_id": "hair_020_superman_brown",
+        "item_type": "hair",
+        "item_description": "Brown hair, Superman style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_020_superman_brown.png"
     },
     {
         "item_id": "hair_021_highlight_blue",
@@ -2400,6 +2796,12 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_023_sideshave.png"
     },
     {
+        "item_id": "hair_023_sideshave_brown",
+        "item_type": "hair",
+        "item_description": "Brown hair, cool side shave",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_023_sideshave_brown.png"
+    },
+    {
         "item_id": "hair_023_sideshave_grey",
         "item_type": "hair",
         "item_description": "Side shave and wise",
@@ -2412,6 +2814,12 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_024_veryshort.png"
     },
     {
+        "item_id": "hair_024_veryshort_brown",
+        "item_type": "hair",
+        "item_description": "Very short brown hair, low maintenance",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_024_veryshort_brown.png"
+    },
+    {
         "item_id": "hair_024_veryshort_grey",
         "item_type": "hair",
         "item_description": "Embrace the Gray",
@@ -2422,6 +2830,12 @@
         "item_type": "hair",
         "item_description": "Einstein who?",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_025_madscientist.png"
+    },
+    {
+        "item_id": "hair_025_madscientist_brown",
+        "item_type": "hair",
+        "item_description": "Brown hair, mad scientist style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_025_madscientist_brown.png"
     },
     {
         "item_id": "hair_025_madscientist_grey",
@@ -2490,10 +2904,10 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_010_rapier.png"
     },
     {
-        "item_id": "hand_011_briefcase",
+        "item_id": "hand_011_briefcase_black",
         "item_type": "hand",
-        "item_description": "Business as Usual",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_011_briefcase.png"
+        "item_description": "Black briefcase, not so brief",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_011_briefcase_black.png"
     },
     {
         "item_id": "hand_012_walkingstick",
@@ -2890,6 +3304,222 @@
         "item_type": "hand",
         "item_description": "Yellow umbrella, for the sunshine in your life",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_041_umbrella_yellow.png"
+    },
+    {
+        "item_id": "hand_042_syringe",
+        "item_type": "hand",
+        "item_description": "Syringe, the healer's tool",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_042_syringe.png"
+    },
+    {
+        "item_id": "hand_043_thermometer",
+        "item_type": "hand",
+        "item_description": "Thermometer, the temperature reader",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_043_thermometer.png"
+    },
+    {
+        "item_id": "hand_044_rifle",
+        "item_type": "hand",
+        "item_description": "Rifle, for the hunters",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_044_rifle.png"
+    },
+    {
+        "item_id": "hand_045_lasergun",
+        "item_type": "hand",
+        "item_description": "Laser gun, for the sci-fi fans",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_045_lasergun.png"
+    },
+    {
+        "item_id": "hand_046_blackboard",
+        "item_type": "hand",
+        "item_description": "Blackboard, for the teachers",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_046_blackboard.png"
+    },
+    {
+        "item_id": "hand_047_apple",
+        "item_type": "hand",
+        "item_description": "Apple, the healthy snack",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_047_apple.png"
+    },
+    {
+        "item_id": "hand_048_measuringtape",
+        "item_type": "hand",
+        "item_description": "Measuring tape, for the builders",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_048_measuringtape.png"
+    },
+    {
+        "item_id": "hand_049_key_black",
+        "item_type": "hand",
+        "item_description": "Black key, the secret keeper",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_049_key_black.png"
+    },
+    {
+        "item_id": "hand_049_key_white",
+        "item_type": "hand",
+        "item_description": "White key, the purity keeper",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_049_key_white.png"
+    },
+    {
+        "item_id": "hand_049_key_yellow",
+        "item_type": "hand",
+        "item_description": "Yellow key, the cheerfulness keeper",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_049_key_yellow.png"
+    },
+    {
+        "item_id": "hand_050_shovel",
+        "item_type": "hand",
+        "item_description": "Shovel, for the gardeners",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_050_shovel.png"
+    },
+    {
+        "item_id": "hand_051_bucket_black",
+        "item_type": "hand",
+        "item_description": "Black bucket, for the coal miners",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_051_bucket_black.png"
+    },
+    {
+        "item_id": "hand_051_bucket_blue",
+        "item_type": "hand",
+        "item_description": "Blue bucket, for the water carriers",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_051_bucket_blue.png"
+    },
+    {
+        "item_id": "hand_051_bucket_green",
+        "item_type": "hand",
+        "item_description": "Green bucket, for the gardeners",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_051_bucket_green.png"
+    },
+    {
+        "item_id": "hand_051_bucket_orange",
+        "item_type": "hand",
+        "item_description": "Orange bucket, for the construction workers",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_051_bucket_orange.png"
+    },
+    {
+        "item_id": "hand_051_bucket_pink",
+        "item_type": "hand",
+        "item_description": "Pink bucket, for the girly girls",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_051_bucket_pink.png"
+    },
+    {
+        "item_id": "hand_051_bucket_purple",
+        "item_type": "hand",
+        "item_description": "Purple bucket, for the royalty",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_051_bucket_purple.png"
+    },
+    {
+        "item_id": "hand_051_bucket_red",
+        "item_type": "hand",
+        "item_description": "Red bucket, for the firemen",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_051_bucket_red.png"
+    },
+    {
+        "item_id": "hand_051_bucket_white",
+        "item_type": "hand",
+        "item_description": "White bucket, for the house cleaners",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_051_bucket_white.png"
+    },
+    {
+        "item_id": "hand_051_bucket_yellow",
+        "item_type": "hand",
+        "item_description": "Yellow bucket, for the sun lovers",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_051_bucket_yellow.png"
+    },
+    {
+        "item_id": "hand_052_laptopmini",
+        "item_type": "hand",
+        "item_description": "Mini laptop, for the on-the-go workers",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_052_laptopmini.png"
+    },
+    {
+        "item_id": "hand_053_chart",
+        "item_type": "hand",
+        "item_description": "Chart, for the analyzers",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_053_chart.png"
+    },
+    {
+        "item_id": "hand_054_barchart",
+        "item_type": "hand",
+        "item_description": "Bar chart, for the data lovers",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_054_barchart.png"
+    },
+    {
+        "item_id": "hand_055_designerbriefcase",
+        "item_type": "hand",
+        "item_description": "Designer briefcase, for the stylish",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_055_designerbriefcase.png"
+    },
+    {
+        "item_id": "hand_056_designershovel",
+        "item_type": "hand",
+        "item_description": "Designer shovel, for the fancy gardeners",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_056_designershovel.png"
+    },
+    {
+        "item_id": "hand_057_bucketonwheels",
+        "item_type": "hand",
+        "item_description": "Bucket on wheels, for the easy movers",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_057_bucketonwheels.png"
+    },
+    {
+        "item_id": "hand_058_walkingstickwheels",
+        "item_type": "hand",
+        "item_description": "Walking stick on wheels, for the elder",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_058_walkingstickwheels.png"
+    },
+    {
+        "item_id": "hand_059_riflewithscope",
+        "item_type": "hand",
+        "item_description": "Rifle with scope, for the pro hunters",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_059_riflewithscope.png"
+    },
+    {
+        "item_id": "hand_060_mic",
+        "item_type": "hand",
+        "item_description": "Mic, for the performers",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_060_mic.png"
+    },
+    {
+        "item_id": "hand_061_syringewithblood",
+        "item_type": "hand",
+        "item_description": "Syringe with blood, for the spooky ones",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_061_syringewithblood.png"
+    },
+    {
+        "item_id": "hand_062_digitalthermometer",
+        "item_type": "hand",
+        "item_description": "The ultimate tool for taking temperatures",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_062_digitalthermometer.png"
+    },
+    {
+        "item_id": "hand_063_laptopbsod",
+        "item_type": "hand",
+        "item_description": "Your laptop is having a bad day",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_063_laptopbsod.png"
+    },
+    {
+        "item_id": "hand_064_calculator",
+        "item_type": "hand",
+        "item_description": "Calculate your way to success",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_064_calculator.png"
+    },
+    {
+        "item_id": "hand_065_housemodels",
+        "item_type": "hand",
+        "item_description": "Build your dream home",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_065_housemodels.png"
+    },
+    {
+        "item_id": "hand_066_lifebuoy",
+        "item_type": "hand",
+        "item_description": "Stay afloat with this essential lifesaver",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_066_lifebuoy.png"
+    },
+    {
+        "item_id": "hand_067_guitar",
+        "item_type": "hand",
+        "item_description": "Rock out with this classic instrument",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_067_guitar.png"
     },
     {
         "item_id": "head_001_tophat_black",
@@ -3378,6 +4008,12 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_021_graduation_blue.png"
     },
     {
+        "item_id": "head_022_construction_white",
+        "item_type": "head",
+        "item_description": "Safety first with this hard hat",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_022_construction_white.png"
+    },
+    {
         "item_id": "head_022_construction_yellow",
         "item_type": "head",
         "item_description": "Yellow hard hat of construction.",
@@ -3490,6 +4126,24 @@
         "item_type": "head",
         "item_description": "Stay cool in this brave firefighter helmet.",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_026_fireman.png"
+    },
+    {
+        "item_id": "head_027_headphones_black",
+        "item_type": "head",
+        "item_description": "Listen to your tunes in style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_027_headphones_black.png"
+    },
+    {
+        "item_id": "head_028_headphones_white",
+        "item_type": "head",
+        "item_description": "Listen to your tunes in style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_028_headphones_white.png"
+    },
+    {
+        "item_id": "head_029_designerheadphones",
+        "item_type": "head",
+        "item_description": "Be the envy of your audiophile friends",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_029_designerheadphones.png"
     },
     {
         "item_id": "leg_001_shorts_black",
@@ -3954,6 +4608,66 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_019_policeman.png"
     },
     {
+        "item_id": "leg_020_swimwear_black",
+        "item_type": "leg",
+        "item_description": "Look sleek and stylish on the beach",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_020_swimwear_black.png"
+    },
+    {
+        "item_id": "leg_020_swimwear_blue",
+        "item_type": "leg",
+        "item_description": "Look sleek and stylish on the beach",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_020_swimwear_blue.png"
+    },
+    {
+        "item_id": "leg_020_swimwear_green",
+        "item_type": "leg",
+        "item_description": "Look sleek and stylish on the beach",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_020_swimwear_green.png"
+    },
+    {
+        "item_id": "leg_020_swimwear_orange",
+        "item_type": "leg",
+        "item_description": "Look sleek and stylish on the beach",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_020_swimwear_orange.png"
+    },
+    {
+        "item_id": "leg_020_swimwear_pink",
+        "item_type": "leg",
+        "item_description": "Look sleek and stylish on the beach",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_020_swimwear_pink.png"
+    },
+    {
+        "item_id": "leg_020_swimwear_purple",
+        "item_type": "leg",
+        "item_description": "Look sleek and stylish on the beach",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_020_swimwear_purple.png"
+    },
+    {
+        "item_id": "leg_020_swimwear_red",
+        "item_type": "leg",
+        "item_description": "Look sleek and stylish on the beach",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_020_swimwear_red.png"
+    },
+    {
+        "item_id": "leg_020_swimwear_white",
+        "item_type": "leg",
+        "item_description": "Look sleek and stylish on the beach",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_020_swimwear_white.png"
+    },
+    {
+        "item_id": "leg_020_swimwear_yellow",
+        "item_type": "leg",
+        "item_description": "Look sleek and stylish on the beach",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_020_swimwear_yellow.png"
+    },
+    {
+        "item_id": "leg_021_designerswimwear_white",
+        "item_type": "leg",
+        "item_description": "Make a statement with this designer swimsuit",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_021_designerswimwear_white.png"
+    },
+    {
         "item_id": "mouth_001_lipstick_pink",
         "item_type": "mouth",
         "item_description": "Pink lipstick, for a playful and flirty look",
@@ -4380,124 +5094,88 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_002_panda.png"
     },
     {
-        "item_id": "pet_003_reindeer",
+        "item_id": "pet_003_robot",
         "item_type": "pet",
-        "item_description": "A festive friend for the holidays",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_003_reindeer.png"
+        "item_description": "Your very own robotic companion",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_003_robot.png"
     },
     {
-        "item_id": "pet_004_egg",
+        "item_id": "pet_004_octopus",
+        "item_type": "pet",
+        "item_description": "A unique and charming pet",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_004_octopus.png"
+    },
+    {
+        "item_id": "pet_005_egg_black",
         "item_type": "pet",
         "item_description": "What will hatch from this mysterious egg?",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_004_egg.png"
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_005_egg_black.png"
     },
     {
-        "item_id": "pet_004_egg_cracked",
+        "item_id": "pet_005_egg_blue",
         "item_type": "pet",
-        "item_description": "Looks like someone's hatching!",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_004_egg_cracked.png"
+        "item_description": "What will hatch from this mysterious egg?",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_005_egg_blue.png"
     },
     {
-        "item_id": "pet_004_egg_panda",
+        "item_id": "pet_005_egg_green",
         "item_type": "pet",
-        "item_description": "A panda is emerging from this egg!",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_004_egg_panda.png"
+        "item_description": "What will hatch from this mysterious egg?",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_005_egg_green.png"
     },
     {
-        "item_id": "pet_004_egg_python",
+        "item_id": "pet_005_egg_orange",
         "item_type": "pet",
-        "item_description": "A python is emerging from this egg!",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_004_egg_python.png"
+        "item_description": "What will hatch from this mysterious egg?",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_005_egg_orange.png"
     },
     {
-        "item_id": "pet_005_dog_black",
+        "item_id": "pet_006_eggcracked_black",
         "item_type": "pet",
-        "item_description": "Man's best friend in black",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_005_dog_black.png"
+        "item_description": "Uh oh, this egg might have been dropped",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_006_eggcracked_black.png"
     },
     {
-        "item_id": "pet_005_dog_brown",
+        "item_id": "pet_006_eggcracked_blue",
         "item_type": "pet",
-        "item_description": "A loyal companion in brown",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_005_dog_brown.png"
+        "item_description": "Uh oh, this egg might have been dropped",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_006_eggcracked_blue.png"
     },
     {
-        "item_id": "pet_005_dog_gold",
+        "item_id": "pet_006_eggcracked_green",
         "item_type": "pet",
-        "item_description": "A golden retriever for a golden life",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_005_dog_gold.png"
+        "item_description": "Uh oh, this egg might have been dropped",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_006_eggcracked_green.png"
     },
     {
-        "item_id": "pet_005_dog_white",
+        "item_id": "pet_006_eggcracked_orange",
         "item_type": "pet",
-        "item_description": "A pure white friend to keep you company",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_005_dog_white.png"
+        "item_description": "Uh oh, this egg might have been dropped",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_006_eggcracked_orange.png"
     },
     {
-        "item_id": "pet_005_dog_whitebrown",
+        "item_id": "pet_007_eggpython",
         "item_type": "pet",
-        "item_description": "A mixture of white and brown, perfect for the indecisive",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_005_dog_whitebrown.png"
+        "item_description": "A slithering surprise is waiting for you",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_007_eggpython.png"
     },
     {
-        "item_id": "pet_006_cat_black",
+        "item_id": "pet_008_eggpanda",
         "item_type": "pet",
-        "item_description": "A sleek black cat for a mysterious aura",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_006_cat_black.png"
+        "item_description": "A cute and cuddly companion",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_008_eggpanda.png"
     },
     {
-        "item_id": "pet_006_cat_mixed",
+        "item_id": "pet_009_eggrobot",
         "item_type": "pet",
-        "item_description": "Who said cats can't have more than one color?",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_006_cat_mixed.png"
+        "item_description": "Will you hatch a robot friend?",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_009_eggrobot.png"
     },
     {
-        "item_id": "pet_006_cat_orange",
+        "item_id": "pet_010_eggoctopus",
         "item_type": "pet",
-        "item_description": "A fiery orange cat to spice things up",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_006_cat_orange.png"
-    },
-    {
-        "item_id": "pet_006_cat_white",
-        "item_type": "pet",
-        "item_description": "A pure white cat for a pure heart",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_006_cat_white.png"
-    },
-    {
-        "item_id": "pet_007_chick",
-        "item_type": "pet",
-        "item_description": "A fluffy little chick to keep you company",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_007_chick.png"
-    },
-    {
-        "item_id": "pet_008_parrot",
-        "item_type": "pet",
-        "item_description": "A colorful parrot to brighten up your day",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_008_parrot.png"
-    },
-    {
-        "item_id": "pet_008_parrot_green",
-        "item_type": "pet",
-        "item_description": "A green parrot for a touch of nature",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_008_parrot_green.png"
-    },
-    {
-        "item_id": "pet_008_parrot_white",
-        "item_type": "pet",
-        "item_description": "A white parrot for a clean and pure look",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_008_parrot_white.png"
-    },
-    {
-        "item_id": "pet_009_penguin",
-        "item_type": "pet",
-        "item_description": "A waddling penguin friend to keep you company",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_009_penguin.png"
-    },
-    {
-        "item_id": "pet_010_turtle",
-        "item_type": "pet",
-        "item_description": "A slow and steady turtle companion",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_010_turtle.png"
+        "item_description": "A unique and charming pet",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_010_eggoctopus.png"
     },
     {
         "item_id": "pet_011_crab_blue",
@@ -4626,6 +5304,12 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_020_owl.png"
     },
     {
+        "item_id": "pet_020_owl_blue",
+        "item_type": "pet",
+        "item_description": "Wise and mysterious, this pet is a hoot",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_020_owl_blue.png"
+    },
+    {
         "item_id": "pet_020_owl_white",
         "item_type": "pet",
         "item_description": "A snowy owl that's a real hoot!",
@@ -4708,5 +5392,413 @@
         "item_type": "pet",
         "item_description": "This pet is smokin' hot and ready for adventure!",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_026_campfire.png"
+    },
+    {
+        "item_id": "pet_027_butterfly_black",
+        "item_type": "pet",
+        "item_description": "A beautiful butterfly in a bold black color",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_027_butterfly_black.png"
+    },
+    {
+        "item_id": "pet_027_butterfly_blue",
+        "item_type": "pet",
+        "item_description": "A beautiful butterfly in a calming blue color",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_027_butterfly_blue.png"
+    },
+    {
+        "item_id": "pet_027_butterfly_green",
+        "item_type": "pet",
+        "item_description": "A beautiful butterfly in a fresh green color",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_027_butterfly_green.png"
+    },
+    {
+        "item_id": "pet_027_butterfly_red",
+        "item_type": "pet",
+        "item_description": "A beautiful butterfly in a fiery red color",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_027_butterfly_red.png"
+    },
+    {
+        "item_id": "pet_028_tarantula_blue",
+        "item_type": "pet",
+        "item_description": "Creepy crawly and cool in blue",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_028_tarantula_blue.png"
+    },
+    {
+        "item_id": "pet_028_tarantula_green",
+        "item_type": "pet",
+        "item_description": "Creepy crawly and cool in green",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_028_tarantula_green.png"
+    },
+    {
+        "item_id": "pet_028_tarantula_red",
+        "item_type": "pet",
+        "item_description": "Creepy crawly and cool in red",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_028_tarantula_red.png"
+    },
+    {
+        "item_id": "pet_029_bloodstand",
+        "item_type": "pet",
+        "item_description": "A must-have for any vampire fan",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_029_bloodstand.png"
+    },
+    {
+        "item_id": "pet_030_speakers",
+        "item_type": "pet",
+        "item_description": "Turn up the volume with these speakers",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_030_speakers.png"
+    },
+    {
+        "item_id": "pet_031_jukebox",
+        "item_type": "pet",
+        "item_description": "A retro classic for music lovers",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_031_jukebox.png"
+    },
+    {
+        "item_id": "pet_032_parking",
+        "item_type": "pet",
+        "item_description": "A miniature parking garage for your collection",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_032_parking.png"
+    },
+    {
+        "item_id": "pet_033_reindeer",
+        "item_type": "pet",
+        "item_description": "Get in the holiday spirit with this festive pet",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_033_reindeer.png"
+    },
+    {
+        "item_id": "pet_034_dog_black",
+        "item_type": "pet",
+        "item_description": "A loyal companion in classic black",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_034_dog_black.png"
+    },
+    {
+        "item_id": "pet_034_dog_brown",
+        "item_type": "pet",
+        "item_description": "A loyal companion in warm brown",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_034_dog_brown.png"
+    },
+    {
+        "item_id": "pet_034_dog_gold",
+        "item_type": "pet",
+        "item_description": "A loyal companion in rich gold",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_034_dog_gold.png"
+    },
+    {
+        "item_id": "pet_034_dog_spotted",
+        "item_type": "pet",
+        "item_description": "Man's best friend with a unique style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_034_dog_spotted.png"
+    },
+    {
+        "item_id": "pet_034_dog_white",
+        "item_type": "pet",
+        "item_description": "A loyal friend that brightens up your day",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_034_dog_white.png"
+    },
+    {
+        "item_id": "pet_035_cat_black",
+        "item_type": "pet",
+        "item_description": "A sleek and sophisticated feline companion",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_035_cat_black.png"
+    },
+    {
+        "item_id": "pet_035_cat_mixed",
+        "item_type": "pet",
+        "item_description": "A playful and curious mixed breed cat",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_035_cat_mixed.png"
+    },
+    {
+        "item_id": "pet_035_cat_orange",
+        "item_type": "pet",
+        "item_description": "A fiery and adventurous orange cat",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_035_cat_orange.png"
+    },
+    {
+        "item_id": "pet_035_cat_white",
+        "item_type": "pet",
+        "item_description": "A graceful and elegant white cat",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_035_cat_white.png"
+    },
+    {
+        "item_id": "pet_036_chick",
+        "item_type": "pet",
+        "item_description": "A fluffy and adorable baby chick",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_036_chick.png"
+    },
+    {
+        "item_id": "pet_037_parrot_green",
+        "item_type": "pet",
+        "item_description": "A talkative and colorful feathered friend",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_037_parrot_green.png"
+    },
+    {
+        "item_id": "pet_037_parrot_red",
+        "item_type": "pet",
+        "item_description": "A passionate and lively parrot",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_037_parrot_red.png"
+    },
+    {
+        "item_id": "pet_037_parrot_white",
+        "item_type": "pet",
+        "item_description": "A majestic and regal white parrot",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_037_parrot_white.png"
+    },
+    {
+        "item_id": "pet_038_penguin",
+        "item_type": "pet",
+        "item_description": "A waddling and charming arctic bird",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_038_penguin.png"
+    },
+    {
+        "item_id": "pet_039_turtle",
+        "item_type": "pet",
+        "item_description": "A slow and steady friend for life",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_039_turtle.png"
+    },
+    {
+        "item_id": "pet_040_otter",
+        "item_type": "pet",
+        "item_description": "A playful and mischievous water creature",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_040_otter.png"
+    },
+    {
+        "item_id": "pet_041_ministudentboy",
+        "item_type": "pet",
+        "item_description": "A studious and curious little boy",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_041_ministudentboy.png"
+    },
+    {
+        "item_id": "pet_042_ministudentgirl",
+        "item_type": "pet",
+        "item_description": "A bright and inquisitive little girl",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_042_ministudentgirl.png"
+    },
+    {
+        "item_id": "pet_043_piggybank_pink",
+        "item_type": "pet",
+        "item_description": "A cute and practical way to save money",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_043_piggybank_pink.png"
+    },
+    {
+        "item_id": "pet_044_moneybag",
+        "item_type": "pet",
+        "item_description": "A symbol of wealth and prosperity",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_044_moneybag.png"
+    },
+    {
+        "item_id": "pet_045_wheelbarrow_blue",
+        "item_type": "pet",
+        "item_description": "A sturdy and reliable tool for gardening",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_045_wheelbarrow_blue.png"
+    },
+    {
+        "item_id": "pet_045_wheelbarrow_green",
+        "item_type": "pet",
+        "item_description": "A practical and eco-friendly garden helper",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_045_wheelbarrow_green.png"
+    },
+    {
+        "item_id": "pet_046_sandcastle",
+        "item_type": "pet",
+        "item_description": "A fun and creative way to enjoy the beach",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_046_sandcastle.png"
+    },
+    {
+        "item_id": "pet_047_giantsandcastle",
+        "item_type": "pet",
+        "item_description": "A grand and impressive sandcastle",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_047_giantsandcastle.png"
+    },
+    {
+        "item_id": "pet_048_wheelbarrowsand",
+        "item_type": "pet",
+        "item_description": "A playful and imaginative sand toy",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_048_wheelbarrowsand.png"
+    },
+    {
+        "item_id": "pet_049_piggybank_gold",
+        "item_type": "pet",
+        "item_description": "A luxurious and lavish way to save",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_049_piggybank_gold.png"
+    },
+    {
+        "item_id": "pet_050_coconuttree",
+        "item_type": "pet",
+        "item_description": "A tropical and relaxing addition to any home",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_050_coconuttree.png"
+    },
+    {
+        "item_id": "pet_051_snail_black",
+        "item_type": "pet",
+        "item_description": "A slow and steady black snail",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_051_snail_black.png"
+    },
+    {
+        "item_id": "pet_051_snail_blue",
+        "item_type": "pet",
+        "item_description": "A blue snail with a love for adventure",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_051_snail_blue.png"
+    },
+    {
+        "item_id": "pet_051_snail_orange",
+        "item_type": "pet",
+        "item_description": "An orange snail with a vibrant personality",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_051_snail_orange.png"
+    },
+    {
+        "item_id": "pet_052_ghost_blue",
+        "item_type": "pet",
+        "item_description": "A spooky and mischievous blue ghost",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_052_ghost_blue.png"
+    },
+    {
+        "item_id": "pet_052_ghost_green",
+        "item_type": "pet",
+        "item_description": "A ghastly and creepy green ghost",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_052_ghost_green.png"
+    },
+    {
+        "item_id": "pet_052_ghost_orange",
+        "item_type": "pet",
+        "item_description": "A pumpkin-colored ghost with a playful spirit",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_052_ghost_orange.png"
+    },
+    {
+        "item_id": "pet_052_ghost_pink",
+        "item_type": "pet",
+        "item_description": "A cute and friendly pink ghost",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_052_ghost_pink.png"
+    },
+    {
+        "item_id": "pet_052_ghost_purple",
+        "item_type": "pet",
+        "item_description": "A mysterious and regal purple ghost",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_052_ghost_purple.png"
+    },
+    {
+        "item_id": "pet_052_ghost_red",
+        "item_type": "pet",
+        "item_description": "A fiery and passionate red ghost",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_052_ghost_red.png"
+    },
+    {
+        "item_id": "pet_052_ghost_white",
+        "item_type": "pet",
+        "item_description": "A classic and timeless white ghost",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_052_ghost_white.png"
+    },
+    {
+        "item_id": "pet_052_ghost_yellow",
+        "item_type": "pet",
+        "item_description": "A bright and cheerful yellow ghost",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_052_ghost_yellow.png"
+    },
+    {
+        "item_id": "pet_053_chameleon",
+        "item_type": "pet",
+        "item_description": "A color-changing and adaptive pet",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_053_chameleon.png"
+    },
+    {
+        "item_id": "pet_054_hedgehog",
+        "item_type": "pet",
+        "item_description": "A spiky and charming woodland creature",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_054_hedgehog.png"
+    },
+    {
+        "item_id": "pet_055_unicorn",
+        "item_type": "pet",
+        "item_description": "A magical and enchanting mythical creature",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_055_unicorn.png"
+    },
+    {
+        "item_id": "pet_056_rocketship_blue",
+        "item_type": "pet",
+        "item_description": "A futuristic and adventurous blue rocket ship",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_056_rocketship_blue.png"
+    },
+    {
+        "item_id": "pet_056_rocketship_green",
+        "item_type": "pet",
+        "item_description": "An eco-friendly and sustainable rocket ship",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_056_rocketship_green.png"
+    },
+    {
+        "item_id": "pet_056_rocketship_orange",
+        "item_type": "pet",
+        "item_description": "A fiery and bold orange rocket ship",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_056_rocketship_orange.png"
+    },
+    {
+        "item_id": "pet_056_rocketship_pink",
+        "item_type": "pet",
+        "item_description": "A girly and fun pink rocket ship",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_056_rocketship_pink.png"
+    },
+    {
+        "item_id": "pet_056_rocketship_purple",
+        "item_type": "pet",
+        "item_description": "A mystical and cosmic purple rocket ship",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_056_rocketship_purple.png"
+    },
+    {
+        "item_id": "pet_056_rocketship_red",
+        "item_type": "pet",
+        "item_description": "A powerful and fiery red rocket ship",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_056_rocketship_red.png"
+    },
+    {
+        "item_id": "pet_056_rocketship_yellow",
+        "item_type": "pet",
+        "item_description": "A bright and cheerful yellow rocket ship",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_056_rocketship_yellow.png"
+    },
+    {
+        "item_id": "pet_057_specialsnail",
+        "item_type": "pet",
+        "item_description": "A rare and unusual snail with special abilities",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_057_specialsnail.png"
+    },
+    {
+        "item_id": "pet_058_specialchameleon",
+        "item_type": "pet",
+        "item_description": "A unique and rare chameleon with special traits",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_058_specialchameleon.png"
+    },
+    {
+        "item_id": "pet_059_specialghost",
+        "item_type": "pet",
+        "item_description": "A rare and special ghost with unique powers",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_059_specialghost.png"
+    },
+    {
+        "item_id": "pet_060_specialhedgehog",
+        "item_type": "pet",
+        "item_description": "A rare and special hedgehog with extraordinary abilities",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_060_specialhedgehog.png"
+    },
+    {
+        "item_id": "pet_061_vintagetv",
+        "item_type": "pet",
+        "item_description": "A classic and charming vintage television set",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_061_vintagetv.png"
+    },
+    {
+        "item_id": "pet_062_otterwithfish",
+        "item_type": "pet",
+        "item_description": "This otter's got a catch, what about you?",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_062_otterwithfish.png"
+    },
+    {
+        "item_id": "pet_063_parkingsingapore",
+        "item_type": "pet",
+        "item_description": "It's parking time in Singapore with this pet!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_063_parkingsingapore.png"
+    },
+    {
+        "item_id": "pet_064_bullseye",
+        "item_type": "pet",
+        "item_description": "Hit the target with this pet by your side!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_064_bullseye.png"
     }
 ]
