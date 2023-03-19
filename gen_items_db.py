@@ -1,5 +1,5 @@
 import glob
-import json, yaml
+import json, yaml, csv
 import requests
 import logging as logger
 from util.auth_util import gen_jwt_token
@@ -46,17 +46,23 @@ def main():
     session = requests.Session()
 
     item_to_generate = []
-
+    item_ids = []
     for filepath in all_img_files:
         
         filename = filepath.split('\\')[1]
         item_id = filename.split('.')[0]
-
         item_type = item_id.split('_')[0]
+
+        item_ids.append([item_id])
 
         if item_id not in item_descriptions or not item_descriptions[item_id] or item_descriptions[item_id] == "Description_text":
             # collect all into a list for batch generation
             item_to_generate.append(item_id)
+
+    with open('item_ids.csv', 'w', encoding='UTF8', newline='') as f:
+        writer = csv.writer(f)
+        # write multiple rows
+        writer.writerows(item_ids)
 
     batch_size = 50
     for i in range(0, len(item_to_generate), batch_size):
