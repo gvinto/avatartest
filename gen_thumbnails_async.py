@@ -6,10 +6,9 @@ import concurrent.futures
 MARGIN = 10
 THUMBNAIL_SIZE = 80
 
+def generate_thumbnail(base_img_copy, item_id: str) -> Image:
 
-def generate_thumbnail(item_id: str) -> Image:
-
-    base_img = Image.open("img/base_m_001.png")
+    base_img = base_img_copy
 
     item_img = Image.open(f"img/{item_id}.png")
     item_bbox = item_img.getbbox()
@@ -83,6 +82,8 @@ async def main():
     start = time.perf_counter()
     loop = asyncio.get_running_loop()
 
+    base_img_copy = Image.open("img/base_m_001.png")
+
     with concurrent.futures.ThreadPoolExecutor() as pool:
         blocking_tasks = []
 
@@ -101,7 +102,7 @@ async def main():
                 # print(item_id)
                 # thumbnail = generate_thumbnail(item_id)
                 # thumbnail = await loop.run_in_executor(pool, generate_thumbnail, item_id)
-                blocking_tasks.append(loop.run_in_executor(pool, generate_thumbnail, item_id))
+                blocking_tasks.append(loop.run_in_executor(pool, generate_thumbnail, base_img_copy.copy(), item_id))
 
         completed, pending = await asyncio.wait(blocking_tasks)
         results = [t.result() for t in completed]
