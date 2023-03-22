@@ -58,6 +58,10 @@ async def main():
         LOG.info(f'Uploading items_db.json...')
         tasks.append(asyncio.ensure_future(upload(s3, 'items_db.json', 'items_db.json', bucket, 'avatar/config/')))
 
+        # Upload items_db.json
+        LOG.info(f'Uploading task_rewards.json...')
+        tasks.append(asyncio.ensure_future(upload(s3, 'task_rewards.json', 'task_rewards.json', bucket, 'avatar/config/')))
+
         LOG.info(f'Uploading in background, please wait...')
         await asyncio.gather(*tasks)
 
