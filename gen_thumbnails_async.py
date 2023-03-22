@@ -4,7 +4,7 @@ import asyncio
 import concurrent.futures
 
 MARGIN = 10
-THUMBNAIL_SIZE = 80
+THUMBNAIL_SIZE = 48
 
 def generate_thumbnail(base_img_copy, item_id: str) -> Image:
 
