@@ -384,6 +384,204 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_014_bignose_red.png"
     },
     {
+        "item_id": "addon_015_shield_black",
+        "item_type": "addon",
+        "item_description": "This shield is as dark as your soul.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_015_shield_black.png"
+    },
+    {
+        "item_id": "addon_015_shield_blue",
+        "item_type": "addon",
+        "item_description": "A shield for the true blue believers.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_015_shield_blue.png"
+    },
+    {
+        "item_id": "addon_015_shield_green",
+        "item_type": "addon",
+        "item_description": "A shield that will make you one with nature.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_015_shield_green.png"
+    },
+    {
+        "item_id": "addon_015_shield_orange",
+        "item_type": "addon",
+        "item_description": "This shield will make you stand out in battle.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_015_shield_orange.png"
+    },
+    {
+        "item_id": "addon_015_shield_pink",
+        "item_type": "addon",
+        "item_description": "A shield for those who enjoy the finer things in life.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_015_shield_pink.png"
+    },
+    {
+        "item_id": "addon_015_shield_purple",
+        "item_type": "addon",
+        "item_description": "A shield for the royal warriors.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_015_shield_purple.png"
+    },
+    {
+        "item_id": "addon_015_shield_red",
+        "item_type": "addon",
+        "item_description": "This shield will strike fear into your enemies.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_015_shield_red.png"
+    },
+    {
+        "item_id": "addon_015_shield_white",
+        "item_type": "addon",
+        "item_description": "A shield that will shine bright in the darkness.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_015_shield_white.png"
+    },
+    {
+        "item_id": "addon_015_shield_yellow",
+        "item_type": "addon",
+        "item_description": "A shield for the sunny optimists.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_015_shield_yellow.png"
+    },
+    {
+        "item_id": "addon_016_apron_black",
+        "item_type": "addon",
+        "item_description": "Cook in style with this black apron.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_016_apron_black.png"
+    },
+    {
+        "item_id": "addon_016_apron_blue",
+        "item_type": "addon",
+        "item_description": "Cook in style with this blue apron.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_016_apron_blue.png"
+    },
+    {
+        "item_id": "addon_016_apron_green",
+        "item_type": "addon",
+        "item_description": "Cook in style with this green apron.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_016_apron_green.png"
+    },
+    {
+        "item_id": "addon_016_apron_orange",
+        "item_type": "addon",
+        "item_description": "Cook in style with this orange apron.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_016_apron_orange.png"
+    },
+    {
+        "item_id": "addon_016_apron_pink",
+        "item_type": "addon",
+        "item_description": "Cook in style with this pink apron.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_016_apron_pink.png"
+    },
+    {
+        "item_id": "addon_016_apron_purple",
+        "item_type": "addon",
+        "item_description": "Cook in style with this purple apron.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_016_apron_purple.png"
+    },
+    {
+        "item_id": "addon_016_apron_red",
+        "item_type": "addon",
+        "item_description": "Cook in style with this red apron.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_016_apron_red.png"
+    },
+    {
+        "item_id": "addon_016_apron_white",
+        "item_type": "addon",
+        "item_description": "Cook in style with this white apron.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_016_apron_white.png"
+    },
+    {
+        "item_id": "addon_016_apron_yellow",
+        "item_type": "addon",
+        "item_description": "Cook in style with this yellow apron.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_016_apron_yellow.png"
+    },
+    {
+        "item_id": "addon_017_bigshield_black",
+        "item_type": "addon",
+        "item_description": "For those who need a bigger shield, black.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_017_bigshield_black.png"
+    },
+    {
+        "item_id": "addon_017_bigshield_blue",
+        "item_type": "addon",
+        "item_description": "For those who need a bigger shield, blue.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_017_bigshield_blue.png"
+    },
+    {
+        "item_id": "addon_017_bigshield_green",
+        "item_type": "addon",
+        "item_description": "For those who need a bigger shield, green.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_017_bigshield_green.png"
+    },
+    {
+        "item_id": "addon_017_bigshield_orange",
+        "item_type": "addon",
+        "item_description": "For those who need a bigger shield, orange.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_017_bigshield_orange.png"
+    },
+    {
+        "item_id": "addon_017_bigshield_pink",
+        "item_type": "addon",
+        "item_description": "For those who need a bigger shield, pink.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_017_bigshield_pink.png"
+    },
+    {
+        "item_id": "addon_017_bigshield_purple",
+        "item_type": "addon",
+        "item_description": "For those who need a bigger shield, purple.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_017_bigshield_purple.png"
+    },
+    {
+        "item_id": "addon_017_bigshield_red",
+        "item_type": "addon",
+        "item_description": "For those who need a bigger shield, red.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_017_bigshield_red.png"
+    },
+    {
+        "item_id": "addon_017_bigshield_yellow",
+        "item_type": "addon",
+        "item_description": "For those who need a bigger shield, yellow.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_017_bigshield_yellow.png"
+    },
+    {
+        "item_id": "addon_018_flower_blue",
+        "item_type": "addon",
+        "item_description": "A blue flower for your hair.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_018_flower_blue.png"
+    },
+    {
+        "item_id": "addon_018_flower_green",
+        "item_type": "addon",
+        "item_description": "A green flower for your hair.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_018_flower_green.png"
+    },
+    {
+        "item_id": "addon_018_flower_orange",
+        "item_type": "addon",
+        "item_description": "An orange flower for your hair.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_018_flower_orange.png"
+    },
+    {
+        "item_id": "addon_018_flower_pink",
+        "item_type": "addon",
+        "item_description": "A pink flower for your hair.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_018_flower_pink.png"
+    },
+    {
+        "item_id": "addon_018_flower_purple",
+        "item_type": "addon",
+        "item_description": "A purple flower for your hair.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_018_flower_purple.png"
+    },
+    {
+        "item_id": "addon_018_flower_red",
+        "item_type": "addon",
+        "item_description": "A red flower for your hair.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_018_flower_red.png"
+    },
+    {
+        "item_id": "addon_018_flower_yellow",
+        "item_type": "addon",
+        "item_description": "A yellow flower for your hair.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_018_flower_yellow.png"
+    },
+    {
         "item_id": "background_001_solid_black",
         "item_type": "background",
         "item_description": "Classic black for a timeless look",
@@ -408,16 +606,148 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_001_solid_orange.png"
     },
     {
-        "item_id": "background_001_solid_pink",
+        "item_id": "background_001_solid_purple",
         "item_type": "background",
-        "item_description": "Think pink for a girly touch",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_001_solid_pink.png"
+        "item_description": "A solid purple background to set the mood.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_001_solid_purple.png"
     },
     {
         "item_id": "background_001_solid_white",
         "item_type": "background",
         "item_description": "Clean and simple white for a fresh start",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_001_solid_white.png"
+    },
+    {
+        "item_id": "background_002_gradient_blue",
+        "item_type": "background",
+        "item_description": "A blue gradient background to soothe your eyes.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_002_gradient_blue.png"
+    },
+    {
+        "item_id": "background_002_gradient_green",
+        "item_type": "background",
+        "item_description": "A green gradient background to soothe your eyes.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_002_gradient_green.png"
+    },
+    {
+        "item_id": "background_002_gradient_red",
+        "item_type": "background",
+        "item_description": "A red gradient background to soothe your eyes.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_002_gradient_red.png"
+    },
+    {
+        "item_id": "background_002_gradient_white",
+        "item_type": "background",
+        "item_description": "A white gradient background to soothe your eyes.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_002_gradient_white.png"
+    },
+    {
+        "item_id": "background_003_gradientup_blue",
+        "item_type": "background",
+        "item_description": "A blue gradient background to make you feel like you're on top of the world.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_003_gradientup_blue.png"
+    },
+    {
+        "item_id": "background_003_gradientup_green",
+        "item_type": "background",
+        "item_description": "A green gradient background to make you feel like you're on top of the world.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_003_gradientup_green.png"
+    },
+    {
+        "item_id": "background_003_gradientup_red",
+        "item_type": "background",
+        "item_description": "A red gradient background to make you feel like you're on top of the world.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_003_gradientup_red.png"
+    },
+    {
+        "item_id": "background_003_gradientup_white",
+        "item_type": "background",
+        "item_description": "A white gradient background to make you feel like you're on top of the world.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_003_gradientup_white.png"
+    },
+    {
+        "item_id": "background_004_grassland",
+        "item_type": "background",
+        "item_description": "A grassland background to remind you of nature.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_004_grassland.png"
+    },
+    {
+        "item_id": "background_004_mountain",
+        "item_type": "background",
+        "item_description": "A mountain background to remind you of adventure.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_004_mountain.png"
+    },
+    {
+        "item_id": "background_005_mountain2",
+        "item_type": "background",
+        "item_description": "Another mountain background to remind you of adventure.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_005_mountain2.png"
+    },
+    {
+        "item_id": "background_006_mountain3",
+        "item_type": "background",
+        "item_description": "Yet another mountain background to remind you of adventure.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_006_mountain3.png"
+    },
+    {
+        "item_id": "background_006_mountain3_original",
+        "item_type": "background",
+        "item_description": "An original mountain background to remind you of adventure.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_006_mountain3_original.png"
+    },
+    {
+        "item_id": "background_007_mountain4",
+        "item_type": "background",
+        "item_description": "A mountain background to remind you that you're not alone.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_007_mountain4.png"
+    },
+    {
+        "item_id": "background_008_beach",
+        "item_type": "background",
+        "item_description": "A beach background to remind you of relaxation.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_008_beach.png"
+    },
+    {
+        "item_id": "background_008_beach_original",
+        "item_type": "background",
+        "item_description": "An original beach background to remind you of relaxation.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_008_beach_original.png"
+    },
+    {
+        "item_id": "background_009_cave",
+        "item_type": "background",
+        "item_description": "Experience the dark depths of the cave",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_009_cave.png"
+    },
+    {
+        "item_id": "background_009_cave_original",
+        "item_type": "background",
+        "item_description": "Explore the original cave background",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_009_cave_original.png"
+    },
+    {
+        "item_id": "background_010_cyberpunk",
+        "item_type": "background",
+        "item_description": "Enter the futuristic cyberpunk world",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_010_cyberpunk.png"
+    },
+    {
+        "item_id": "background_010_cyberpunk_original",
+        "item_type": "background",
+        "item_description": "Explore the original cyberpunk background",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_010_cyberpunk_original.png"
+    },
+    {
+        "item_id": "background_011_lab1",
+        "item_type": "background",
+        "item_description": "Get lost in the science lab",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_011_lab1.png"
+    },
+    {
+        "item_id": "background_012_lab2",
+        "item_type": "background",
+        "item_description": "Experience the laboratory's latest experiments",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_012_lab2.png"
     },
     {
         "item_id": "back_001_angelwings_black",
@@ -1380,6 +1710,126 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_033_speciallabcoat.png"
     },
     {
+        "item_id": "body_034_toga_black",
+        "item_type": "body",
+        "item_description": "Dress to impress like an ancient Greek",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_034_toga_black.png"
+    },
+    {
+        "item_id": "body_034_toga_blue",
+        "item_type": "body",
+        "item_description": "Dress to impress like an ancient Greek",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_034_toga_blue.png"
+    },
+    {
+        "item_id": "body_034_toga_green",
+        "item_type": "body",
+        "item_description": "Dress to impress like an ancient Greek",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_034_toga_green.png"
+    },
+    {
+        "item_id": "body_034_toga_orange",
+        "item_type": "body",
+        "item_description": "Dress to impress like an ancient Greek",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_034_toga_orange.png"
+    },
+    {
+        "item_id": "body_034_toga_pink",
+        "item_type": "body",
+        "item_description": "Dress to impress like an ancient Greek",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_034_toga_pink.png"
+    },
+    {
+        "item_id": "body_034_toga_purple",
+        "item_type": "body",
+        "item_description": "Dress to impress like an ancient Greek",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_034_toga_purple.png"
+    },
+    {
+        "item_id": "body_034_toga_red",
+        "item_type": "body",
+        "item_description": "Dress to impress like an ancient Greek",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_034_toga_red.png"
+    },
+    {
+        "item_id": "body_034_toga_white",
+        "item_type": "body",
+        "item_description": "Dress to impress like an ancient Greek",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_034_toga_white.png"
+    },
+    {
+        "item_id": "body_034_toga_yellow",
+        "item_type": "body",
+        "item_description": "Dress to impress like an ancient Greek",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_034_toga_yellow.png"
+    },
+    {
+        "item_id": "body_035_armour_black",
+        "item_type": "body",
+        "item_description": "Protect yourself with black armor",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_035_armour_black.png"
+    },
+    {
+        "item_id": "body_035_armour_blue",
+        "item_type": "body",
+        "item_description": "Protect yourself with blue armor",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_035_armour_blue.png"
+    },
+    {
+        "item_id": "body_035_armour_green",
+        "item_type": "body",
+        "item_description": "Protect yourself with green armor",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_035_armour_green.png"
+    },
+    {
+        "item_id": "body_035_armour_orange",
+        "item_type": "body",
+        "item_description": "Protect yourself with orange armor",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_035_armour_orange.png"
+    },
+    {
+        "item_id": "body_035_armour_pink",
+        "item_type": "body",
+        "item_description": "Protect yourself with pink armor",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_035_armour_pink.png"
+    },
+    {
+        "item_id": "body_035_armour_purple",
+        "item_type": "body",
+        "item_description": "Protect yourself with purple armor",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_035_armour_purple.png"
+    },
+    {
+        "item_id": "body_035_armour_red",
+        "item_type": "body",
+        "item_description": "Protect yourself with red armor",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_035_armour_red.png"
+    },
+    {
+        "item_id": "body_035_armour_yellow",
+        "item_type": "body",
+        "item_description": "Protect yourself with yellow armor",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_035_armour_yellow.png"
+    },
+    {
+        "item_id": "body_036_jester_black",
+        "item_type": "body",
+        "item_description": "Amuse your friends with black jester outfit",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_036_jester_black.png"
+    },
+    {
+        "item_id": "body_036_jester_blue",
+        "item_type": "body",
+        "item_description": "Amuse your friends with blue jester outfit",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_036_jester_blue.png"
+    },
+    {
+        "item_id": "body_036_jester_red",
+        "item_type": "body",
+        "item_description": "Amuse your friends with red jester outfit",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_036_jester_red.png"
+    },
+    {
         "item_id": "ear_001_earring_black",
         "item_type": "ear",
         "item_description": "Diamonds are a Girl's Best Friend",
@@ -1498,6 +1948,30 @@
         "item_type": "ear",
         "item_description": "Add some fantasy to your style with these elf ears.",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/ear_003_elfear4.png"
+    },
+    {
+        "item_id": "ear_004_elfearside1",
+        "item_type": "ear",
+        "item_description": "Elevate your elf game with side ear 1",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/ear_004_elfearside1.png"
+    },
+    {
+        "item_id": "ear_004_elfearside2",
+        "item_type": "ear",
+        "item_description": "Elevate your elf game with side ear 2",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/ear_004_elfearside2.png"
+    },
+    {
+        "item_id": "ear_004_elfearside3",
+        "item_type": "ear",
+        "item_description": "Elevate your elf game with side ear 3",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/ear_004_elfearside3.png"
+    },
+    {
+        "item_id": "ear_004_elfearside4",
+        "item_type": "ear",
+        "item_description": "Elevate your elf game with side ear 4",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/ear_004_elfearside4.png"
     },
     {
         "item_id": "eye_001_specs_black",
@@ -1716,10 +2190,10 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_006_cyclops.png"
     },
     {
-        "item_id": "eye_007_mask",
+        "item_id": "eye_007_burglarmask",
         "item_type": "eye",
-        "item_description": "Be mysterious and intriguing with this mask",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_007_mask.png"
+        "item_description": "Become a stylish burglar with eye mask",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_007_burglarmask.png"
     },
     {
         "item_id": "eye_008_minion",
@@ -1914,6 +2388,54 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_016_specialargoggles.png"
     },
     {
+        "item_id": "eye_017_eyemask_black",
+        "item_type": "eye",
+        "item_description": "Mystery and allure with black eye mask",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_017_eyemask_black.png"
+    },
+    {
+        "item_id": "eye_017_eyemask_blue",
+        "item_type": "eye",
+        "item_description": "Mystery and allure with blue eye mask",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_017_eyemask_blue.png"
+    },
+    {
+        "item_id": "eye_017_eyemask_green",
+        "item_type": "eye",
+        "item_description": "Mystery and allure with green eye mask",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_017_eyemask_green.png"
+    },
+    {
+        "item_id": "eye_017_eyemask_orange",
+        "item_type": "eye",
+        "item_description": "Mystery and allure with orange eye mask",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_017_eyemask_orange.png"
+    },
+    {
+        "item_id": "eye_017_eyemask_pink",
+        "item_type": "eye",
+        "item_description": "Mystery and allure with pink eye mask",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_017_eyemask_pink.png"
+    },
+    {
+        "item_id": "eye_017_eyemask_purple",
+        "item_type": "eye",
+        "item_description": "Mystery and allure with purple eye mask",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_017_eyemask_purple.png"
+    },
+    {
+        "item_id": "eye_017_eyemask_red",
+        "item_type": "eye",
+        "item_description": "Mystery and allure with red eye mask",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_017_eyemask_red.png"
+    },
+    {
+        "item_id": "eye_017_eyemask_yellow",
+        "item_type": "eye",
+        "item_description": "Mystery and allure with yellow eye mask",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/eye_017_eyemask_yellow.png"
+    },
+    {
         "item_id": "face_001_moustache",
         "item_type": "face",
         "item_description": "Show off your dashing looks with this moustache",
@@ -2032,6 +2554,12 @@
         "item_type": "face",
         "item_description": "Add some edge to your look with this scar face paint",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/face_012_scarface.png"
+    },
+    {
+        "item_id": "face_013_healthmask_black",
+        "item_type": "face",
+        "item_description": "Stay safe and stylish with black health mask",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/face_013_healthmask_black.png"
     },
     {
         "item_id": "face_013_healthmask_blue",
@@ -2514,10 +3042,10 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_011_wrap_grey.png"
     },
     {
-        "item_id": "hair_012_pony",
+        "item_id": "hair_012_ponytail",
         "item_type": "hair",
-        "item_description": "Ponytail and practical",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_012_pony.png"
+        "item_description": "Ponytail for a chic and simple look",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_012_ponytail.png"
     },
     {
         "item_id": "hair_012_pony_brown",
@@ -2842,6 +3370,60 @@
         "item_type": "hair",
         "item_description": "Gray Matter",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_025_madscientist_grey.png"
+    },
+    {
+        "item_id": "hair_026_longfringe",
+        "item_type": "hair",
+        "item_description": "Long fringe for a trendy hairdo",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_026_longfringe.png"
+    },
+    {
+        "item_id": "hair_026_longfringe_brown",
+        "item_type": "hair",
+        "item_description": "Long fringe for a trendy hairdo",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_026_longfringe_brown.png"
+    },
+    {
+        "item_id": "hair_026_longfringe_grey",
+        "item_type": "hair",
+        "item_description": "Long fringe for a trendy hairdo",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_026_longfringe_grey.png"
+    },
+    {
+        "item_id": "hair_027_lowponytail",
+        "item_type": "hair",
+        "item_description": "Low ponytail for a casual look",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_027_lowponytail.png"
+    },
+    {
+        "item_id": "hair_027_lowponytail_brown",
+        "item_type": "hair",
+        "item_description": "Low ponytail for a casual look",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_027_lowponytail_brown.png"
+    },
+    {
+        "item_id": "hair_027_lowponytail_grey",
+        "item_type": "hair",
+        "item_description": "Low ponytail for a casual look",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_027_lowponytail_grey.png"
+    },
+    {
+        "item_id": "hair_028_clown",
+        "item_type": "hair",
+        "item_description": "Be the funniest clown with this hairdo",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_028_clown.png"
+    },
+    {
+        "item_id": "hair_028_clown_brown",
+        "item_type": "hair",
+        "item_description": "Be the funniest clown with this hairdo",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_028_clown_brown.png"
+    },
+    {
+        "item_id": "hair_028_clown_grey",
+        "item_type": "hair",
+        "item_description": "Be the funniest clown with this hairdo",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hair_028_clown_grey.png"
     },
     {
         "item_id": "hand_001_woodensword",
@@ -3432,10 +4014,10 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_052_laptopmini.png"
     },
     {
-        "item_id": "hand_053_chart",
+        "item_id": "hand_053_linechart",
         "item_type": "hand",
-        "item_description": "Chart, for the analyzers",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_053_chart.png"
+        "item_description": "Analyze your success with style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_053_linechart.png"
     },
     {
         "item_id": "hand_054_barchart",
@@ -3520,6 +4102,90 @@
         "item_type": "hand",
         "item_description": "Rock out with this classic instrument",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_067_guitar.png"
+    },
+    {
+        "item_id": "hand_068_basketball",
+        "item_type": "hand",
+        "item_description": "Shoot hoops with ultimate precision",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_068_basketball.png"
+    },
+    {
+        "item_id": "hand_069_fishingrod",
+        "item_type": "hand",
+        "item_description": "Catch the big one with ease",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_069_fishingrod.png"
+    },
+    {
+        "item_id": "hand_070_pokeball",
+        "item_type": "hand",
+        "item_description": "Gotta catch 'em all!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_070_pokeball.png"
+    },
+    {
+        "item_id": "hand_071_macbook",
+        "item_type": "hand",
+        "item_description": "Stay productive in style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_071_macbook.png"
+    },
+    {
+        "item_id": "hand_072_swimring",
+        "item_type": "hand",
+        "item_description": "Stay afloat in style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_072_swimring.png"
+    },
+    {
+        "item_id": "hand_073_lighsabre_blue",
+        "item_type": "hand",
+        "item_description": "May the force be with you",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_073_lighsabre_blue.png"
+    },
+    {
+        "item_id": "hand_073_lighsabre_green",
+        "item_type": "hand",
+        "item_description": "Become a Jedi master",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_073_lighsabre_green.png"
+    },
+    {
+        "item_id": "hand_073_lighsabre_purple",
+        "item_type": "hand",
+        "item_description": "Harness the power of the dark side",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_073_lighsabre_purple.png"
+    },
+    {
+        "item_id": "hand_073_lighsabre_red",
+        "item_type": "hand",
+        "item_description": "Feel the power of the force",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_073_lighsabre_red.png"
+    },
+    {
+        "item_id": "hand_073_lighsabre_yellow",
+        "item_type": "hand",
+        "item_description": "Unleash your inner Jedi",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_073_lighsabre_yellow.png"
+    },
+    {
+        "item_id": "hand_074_beer",
+        "item_type": "hand",
+        "item_description": "Cheers to a good time",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_074_beer.png"
+    },
+    {
+        "item_id": "hand_075_plumb_black",
+        "item_type": "hand",
+        "item_description": "Stay organized in style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_075_plumb_black.png"
+    },
+    {
+        "item_id": "hand_075_plumb_white",
+        "item_type": "hand",
+        "item_description": "Stay organized in style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_075_plumb_white.png"
+    },
+    {
+        "item_id": "hand_076_burgertray",
+        "item_type": "hand",
+        "item_description": "Serve up some deliciousness",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_076_burgertray.png"
     },
     {
         "item_id": "head_001_tophat_black",
@@ -4128,22 +4794,172 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_026_fireman.png"
     },
     {
-        "item_id": "head_027_headphones_black",
+        "item_id": "head_027_headphones_blue",
         "item_type": "head",
-        "item_description": "Listen to your tunes in style",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_027_headphones_black.png"
+        "item_description": "Tune in and tune out",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_027_headphones_blue.png"
     },
     {
-        "item_id": "head_028_headphones_white",
+        "item_id": "head_027_headphones_green",
         "item_type": "head",
-        "item_description": "Listen to your tunes in style",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_028_headphones_white.png"
+        "item_description": "Tune in and tune out",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_027_headphones_green.png"
     },
     {
-        "item_id": "head_029_designerheadphones",
+        "item_id": "head_027_headphones_orange",
         "item_type": "head",
-        "item_description": "Be the envy of your audiophile friends",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_029_designerheadphones.png"
+        "item_description": "Tune in and tune out",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_027_headphones_orange.png"
+    },
+    {
+        "item_id": "head_027_headphones_pink",
+        "item_type": "head",
+        "item_description": "Tune in and tune out",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_027_headphones_pink.png"
+    },
+    {
+        "item_id": "head_027_headphones_purple",
+        "item_type": "head",
+        "item_description": "Tune in and tune out",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_027_headphones_purple.png"
+    },
+    {
+        "item_id": "head_027_headphones_red",
+        "item_type": "head",
+        "item_description": "Tune in and tune out",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_027_headphones_red.png"
+    },
+    {
+        "item_id": "head_027_headphones_yellow",
+        "item_type": "head",
+        "item_description": "Tune in and tune out",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_027_headphones_yellow.png"
+    },
+    {
+        "item_id": "head_028_designerheadphone_pink",
+        "item_type": "head",
+        "item_description": "Listen in style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_028_designerheadphone_pink.png"
+    },
+    {
+        "item_id": "head_029_crown",
+        "item_type": "head",
+        "item_description": "Rule like royalty",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_029_crown.png"
+    },
+    {
+        "item_id": "head_030_bigcrown",
+        "item_type": "head",
+        "item_description": "Rule like the king/queen you are",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_030_bigcrown.png"
+    },
+    {
+        "item_id": "head_031_jester_black",
+        "item_type": "head",
+        "item_description": "Bring the party with you",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_031_jester_black.png"
+    },
+    {
+        "item_id": "head_031_jester_blue",
+        "item_type": "head",
+        "item_description": "Bring the party with you",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_031_jester_blue.png"
+    },
+    {
+        "item_id": "head_031_jester_red",
+        "item_type": "head",
+        "item_description": "Bring the party with you",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_031_jester_red.png"
+    },
+    {
+        "item_id": "head_032_helmhornsup_black",
+        "item_type": "head",
+        "item_description": "Charge into battle",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_032_helmhornsup_black.png"
+    },
+    {
+        "item_id": "head_032_helmhornsup_blue",
+        "item_type": "head",
+        "item_description": "Charge into battle",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_032_helmhornsup_blue.png"
+    },
+    {
+        "item_id": "head_032_helmhornsup_green",
+        "item_type": "head",
+        "item_description": "Charge into battle",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_032_helmhornsup_green.png"
+    },
+    {
+        "item_id": "head_032_helmhornsup_orange",
+        "item_type": "head",
+        "item_description": "Charge into battle",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_032_helmhornsup_orange.png"
+    },
+    {
+        "item_id": "head_032_helmhornsup_pink",
+        "item_type": "head",
+        "item_description": "Charge into battle",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_032_helmhornsup_pink.png"
+    },
+    {
+        "item_id": "head_032_helmhornsup_purple",
+        "item_type": "head",
+        "item_description": "Charge into battle",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_032_helmhornsup_purple.png"
+    },
+    {
+        "item_id": "head_032_helmhornsup_red",
+        "item_type": "head",
+        "item_description": "Charge into battle",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_032_helmhornsup_red.png"
+    },
+    {
+        "item_id": "head_032_helmhornsup_yellow",
+        "item_type": "head",
+        "item_description": "Charge into battle",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_032_helmhornsup_yellow.png"
+    },
+    {
+        "item_id": "head_033_helmhornsdown_black",
+        "item_type": "head",
+        "item_description": "Charge into battle",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_033_helmhornsdown_black.png"
+    },
+    {
+        "item_id": "head_033_helmhornsdown_blue",
+        "item_type": "head",
+        "item_description": "Charge into battle",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_033_helmhornsdown_blue.png"
+    },
+    {
+        "item_id": "head_033_helmhornsdown_green",
+        "item_type": "head",
+        "item_description": "Charge into battle",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_033_helmhornsdown_green.png"
+    },
+    {
+        "item_id": "head_033_helmhornsdown_orange",
+        "item_type": "head",
+        "item_description": "Charge into battle",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_033_helmhornsdown_orange.png"
+    },
+    {
+        "item_id": "head_033_helmhornsdown_pink",
+        "item_type": "head",
+        "item_description": "Charge into battle",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_033_helmhornsdown_pink.png"
+    },
+    {
+        "item_id": "head_033_helmhornsdown_purple",
+        "item_type": "head",
+        "item_description": "Charge into battle",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_033_helmhornsdown_purple.png"
+    },
+    {
+        "item_id": "head_033_helmhornsdown_red",
+        "item_type": "head",
+        "item_description": "Charge into battle",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_033_helmhornsdown_red.png"
     },
     {
         "item_id": "leg_001_shorts_black",
@@ -4666,6 +5482,72 @@
         "item_type": "leg",
         "item_description": "Make a statement with this designer swimsuit",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_021_designerswimwear_white.png"
+    },
+    {
+        "item_id": "leg_022_armour_black",
+        "item_type": "leg",
+        "item_description": "Stay protected in style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_022_armour_black.png"
+    },
+    {
+        "item_id": "leg_022_armour_blue",
+        "item_type": "leg",
+        "item_description": "Stay protected in style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_022_armour_blue.png"
+    },
+    {
+        "item_id": "leg_022_armour_green",
+        "item_type": "leg",
+        "item_description": "Stay protected in style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_022_armour_green.png"
+    },
+    {
+        "item_id": "leg_022_armour_orange",
+        "item_type": "leg",
+        "item_description": "Stay protected in style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_022_armour_orange.png"
+    },
+    {
+        "item_id": "leg_022_armour_pink",
+        "item_type": "leg",
+        "item_description": "Stay protected in style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_022_armour_pink.png"
+    },
+    {
+        "item_id": "leg_022_armour_purple",
+        "item_type": "leg",
+        "item_description": "Stay protected in style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_022_armour_purple.png"
+    },
+    {
+        "item_id": "leg_022_armour_red",
+        "item_type": "leg",
+        "item_description": "Stay protected in style",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_022_armour_red.png"
+    },
+    {
+        "item_id": "leg_022_armour_yellow",
+        "item_type": "leg",
+        "item_description": "Stay sunny and bright with this yellow armour.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_022_armour_yellow.png"
+    },
+    {
+        "item_id": "leg_023_jester_black",
+        "item_type": "leg",
+        "item_description": "Find your inner joker with this black jester outfit.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_023_jester_black.png"
+    },
+    {
+        "item_id": "leg_023_jester_blue",
+        "item_type": "leg",
+        "item_description": "Be the life of the party in this blue jester costume.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_023_jester_blue.png"
+    },
+    {
+        "item_id": "leg_023_jester_red",
+        "item_type": "leg",
+        "item_description": "Bring the heat to any event with this red jester outfit.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_023_jester_red.png"
     },
     {
         "item_id": "mouth_001_lipstick_pink",
@@ -5370,22 +6252,22 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_022_alien_yellow.png"
     },
     {
-        "item_id": "pet_023_lego",
+        "item_id": "pet_023_horse",
         "item_type": "pet",
-        "item_description": "This pet is built to last!",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_023_lego.png"
+        "item_description": "Giddy up with this loyal and majestic horse companion.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_023_horse.png"
     },
     {
-        "item_id": "pet_024_floatinglego",
+        "item_id": "pet_024_ladybird",
         "item_type": "pet",
-        "item_description": "This pet defies gravity... and logic!",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_024_floatinglego.png"
+        "item_description": "This lucky ladybird pet will bring you good fortune.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_024_ladybird.png"
     },
     {
-        "item_id": "pet_025_tesseract",
+        "item_id": "pet_025_flamingo",
         "item_type": "pet",
-        "item_description": "This pet is multidimensional and multitalented!",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_025_tesseract.png"
+        "item_description": "Stand out with this flamboyant flamingo pet.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_025_flamingo.png"
     },
     {
         "item_id": "pet_026_campfire",
@@ -5800,5 +6682,53 @@
         "item_type": "pet",
         "item_description": "Hit the target with this pet by your side!",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_064_bullseye.png"
+    },
+    {
+        "item_id": "pet_065_unicornwinged",
+        "item_type": "pet",
+        "item_description": "Fly high with this magical and majestic winged unicorn.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_065_unicornwinged.png"
+    },
+    {
+        "item_id": "pet_066_sheepwithfood",
+        "item_type": "pet",
+        "item_description": "This sheep pet comes with its own food supply.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_066_sheepwithfood.png"
+    },
+    {
+        "item_id": "pet_067_datamascot",
+        "item_type": "pet",
+        "item_description": "Meet your new data mascot and analytical ally.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_067_datamascot.png"
+    },
+    {
+        "item_id": "pet_068_eprimerguy",
+        "item_type": "pet",
+        "item_description": "This ePrimer guy pet is ready to help you learn and grow.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_068_eprimerguy.png"
+    },
+    {
+        "item_id": "pet_069_eprimerboss",
+        "item_type": "pet",
+        "item_description": "Take charge with this ePrimer boss pet by your side.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_069_eprimerboss.png"
+    },
+    {
+        "item_id": "pet_070_eprimerbusinessanalyst",
+        "item_type": "pet",
+        "item_description": "This ePrimer business analyst pet will help you make informed decisions.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_070_eprimerbusinessanalyst.png"
+    },
+    {
+        "item_id": "pet_071_eprimerprojectlead",
+        "item_type": "pet",
+        "item_description": "Lead with confidence with this ePrimer project lead pet.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_071_eprimerprojectlead.png"
+    },
+    {
+        "item_id": "pet_072_eprimerdatascientist",
+        "item_type": "pet",
+        "item_description": "This ePrimer datascientist pet will help you crunch the numbers.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_072_eprimerdatascientist.png"
     }
 ]
