@@ -28,6 +28,9 @@ def main():
                         invalid_items.append(item_id)
                         
 
+    #remove dupes (if any)
+    starter_items = list(set(starter_items))
+
     # sort by item_id
     invalid_items.sort()
     starter_items.sort()
