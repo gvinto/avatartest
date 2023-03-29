@@ -19,6 +19,32 @@ def generate_item_names(session, item_ids):
     jwt_token = gen_jwt_token(jwt_data)
     headers =  {"Content-Type":"application/json", "Authorization": f"Bearer {jwt_token}"}
 
+    prompt = f"""generate a short and unique item name 3 words maximum for the following in game item_ids and return them in the JSON format: \n\n{{"item_id_1":"item name 1","item_id_2":"item name 2"}}\n\n --- \n\n {str(item_ids)}"""
+    data = {'prompt': prompt}
+
+    logger.info(f'Calling GPT prompt for: {prompt}')
+    resp = session.post(f'{URL_GPT_API}/prompt', json=data, headers=headers)
+    logger.info(f'{resp=}')
+
+    try:
+        response_json = resp.json()
+    except:
+        response_json = yaml.load(resp)
+
+    logger.info(f"response: {response_json.get('response')}")
+    return {'response':response_json.get('response')}
+
+def generate_item_descriptions(session, item_ids):
+    # Generate JWT which contains user's permissions
+    jwt_data = {
+        'email': 'gen_items_db@tech.gov.sg',
+        'role': 'public',
+        'permissions': [],
+        'name': 'gen_items_db'
+    }
+    jwt_token = gen_jwt_token(jwt_data)
+    headers =  {"Content-Type":"application/json", "Authorization": f"Bearer {jwt_token}"}
+
     prompt = f"""generate a short, witty and unique item description of around 10 words for the following in game item_ids and return them in the JSON format: \n\n{{"item_id_1":"item description 1","item_id_2":"item description 2"}}\n\n --- \n\n {str(item_ids)}"""
     data = {'prompt': prompt}
 
@@ -39,13 +65,18 @@ def main():
 
     all_img_files = glob.glob("img/*.png")
 
+    item_names = dict()
+    with open("item_names.json", "r") as name_file:
+        item_names = json.load(name_file)
+
     item_descriptions = dict()
-    with open("item_descriptions.json", "r") as infile:
-        item_descriptions = json.load(infile)
+    with open("item_descriptions.json", "r") as desc_file:
+        item_descriptions = json.load(desc_file)
 
     session = requests.Session()
 
-    item_to_generate = []
+    names_to_generate = []
+    descriptions_to_generate = []
     item_ids = []
     for filepath in all_img_files:
         
@@ -55,9 +86,13 @@ def main():
 
         item_ids.append([item_id])
 
+        if item_id not in item_names or not item_names[item_id] or item_names[item_id] == "Description_text":
+            # collect all into a list for batch generation
+            names_to_generate.append(item_id)
+
         if item_id not in item_descriptions or not item_descriptions[item_id] or item_descriptions[item_id] == "Description_text":
             # collect all into a list for batch generation
-            item_to_generate.append(item_id)
+            descriptions_to_generate.append(item_id)
 
     with open('item_ids.csv', 'w', encoding='UTF8', newline='') as f:
         writer = csv.writer(f)
@@ -65,10 +100,27 @@ def main():
         writer.writerows(item_ids)
 
     batch_size = 50
-    for i in range(0, len(item_to_generate), batch_size):
+
+    for i in range(0, len(names_to_generate), batch_size):
         # generate in batches and put into dict
-        items_batch = item_to_generate[i:i+batch_size]
+        items_batch = names_to_generate[i:i+batch_size]
         response = generate_item_names(session, items_batch)
+        #process response
+        response_txt = response.get('response')
+        response_txt = response_txt[response_txt.index("{"):]
+        response_txt = response_txt.replace('<|im_sep|>','')
+        # response_txt = response_txt.replace('\'','"')
+        items_response = json.loads(response_txt)
+        item_names.update(items_response)
+
+        item_names_json_object = json.dumps(item_names, indent=4)
+        with open("item_names.json", "w") as outfile:
+            outfile.write(item_names_json_object)
+
+    for i in range(0, len(descriptions_to_generate), batch_size):
+        # generate in batches and put into dict
+        items_batch = descriptions_to_generate[i:i+batch_size]
+        response = generate_item_descriptions(session, items_batch)
         #process response
         response_txt = response.get('response')
         response_txt = response_txt[response_txt.index("{"):]
@@ -91,6 +143,7 @@ def main():
         # print(item_id, item_type, filename)
         items_db.append({'item_id':item_id, 
                         'item_type':item_type, 
+                        'item_name': item_names[item_id],
                         'item_description': item_descriptions[item_id],
                         'item_thumbnail':'http://ds1p0td0v622j.cloudfront.net/thumbnails/'+filename})
         
