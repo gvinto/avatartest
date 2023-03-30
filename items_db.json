@@ -777,102 +777,95 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_003_gradientup_white.png"
     },
     {
-        "item_id": "background_004_grassland",
+        "item_id": "background_004_spacestation",
         "item_type": "background",
-        "item_name": "Grassland",
-        "item_description": "A grassland background to remind you of nature.",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_004_grassland.png"
+        "item_name": "Space Oasis",
+        "item_description": "Lost in space? Make this your new home!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_004_spacestation.png"
     },
     {
-        "item_id": "background_004_mountain",
+        "item_id": "background_005_lab",
         "item_type": "background",
-        "item_name": "Mountain",
-        "item_description": "A mountain background to remind you of adventure.",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_004_mountain.png"
+        "item_name": "Tech Haven",
+        "item_description": "Science is cool, and so is this background!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_005_lab.png"
     },
     {
-        "item_id": "background_005_mountain2",
+        "item_id": "background_006_mountain",
         "item_type": "background",
-        "item_name": "Mountain 2",
-        "item_description": "Another mountain background to remind you of adventure.",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_005_mountain2.png"
+        "item_name": "Majestic Peak",
+        "item_description": "Reach new heights with this background!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_006_mountain.png"
     },
     {
-        "item_id": "background_006_mountain3",
+        "item_id": "background_007_grassland",
         "item_type": "background",
-        "item_name": "Mountain 3",
-        "item_description": "Yet another mountain background to remind you of adventure.",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_006_mountain3.png"
+        "item_name": "Green Fields",
+        "item_description": "Get lost in nature with this background!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_007_grassland.png"
     },
     {
-        "item_id": "background_006_mountain3_original",
+        "item_id": "background_008_forest",
         "item_type": "background",
-        "item_name": "Mountain 3 Original",
-        "item_description": "An original mountain background to remind you of adventure.",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_006_mountain3_original.png"
+        "item_name": "Enchanted Woods",
+        "item_description": "Take a walk in the woods with this background!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_008_forest.png"
     },
     {
-        "item_id": "background_007_mountain4",
+        "item_id": "background_009_office",
         "item_type": "background",
-        "item_name": "Mountain 4",
-        "item_description": "A mountain background to remind you that you're not alone.",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_007_mountain4.png"
+        "item_name": "Corporate Hub",
+        "item_description": "Working from home? Pretend you're in a real office!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_009_office.png"
     },
     {
-        "item_id": "background_008_beach",
+        "item_id": "background_010_mountain",
         "item_type": "background",
-        "item_name": "Beach",
-        "item_description": "A beach background to remind you of relaxation.",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_008_beach.png"
+        "item_name": "Highland View",
+        "item_description": "Another mountain background, because mountains are awesome!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_010_mountain.png"
     },
     {
-        "item_id": "background_008_beach_original",
+        "item_id": "background_011_beach",
         "item_type": "background",
-        "item_name": "Beach Original",
-        "item_description": "An original beach background to remind you of relaxation.",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_008_beach_original.png"
+        "item_name": "Sandy Shores",
+        "item_description": "Can't go on vacation? Bring the beach to you!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_011_beach.png"
     },
     {
-        "item_id": "background_009_cave",
+        "item_id": "background_012_cave",
         "item_type": "background",
-        "item_name": "Cave",
-        "item_description": "Experience the dark depths of the cave",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_009_cave.png"
+        "item_name": "Crystal Caverns",
+        "item_description": "Explore the depths of the earth with this background!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_012_cave.png"
     },
     {
-        "item_id": "background_009_cave_original",
+        "item_id": "background_013_cyberpunk",
         "item_type": "background",
-        "item_name": "Cave Original",
-        "item_description": "Explore the original cave background",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_009_cave_original.png"
+        "item_name": "Neon Nightscape",
+        "item_description": "Get your cyberpunk fix with this background!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_013_cyberpunk.png"
     },
     {
-        "item_id": "background_010_cyberpunk",
+        "item_id": "background_014_outerspace",
         "item_type": "background",
-        "item_name": "Cyberpunk",
-        "item_description": "Enter the futuristic cyberpunk world",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_010_cyberpunk.png"
+        "item_name": "Galactic Gateway",
+        "item_description": "Explore the universe with this out-of-this-world background!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_014_outerspace.png"
     },
     {
-        "item_id": "background_010_cyberpunk_original",
+        "item_id": "background_015_homegym",
         "item_type": "background",
-        "item_name": "Cyberpunk Original",
-        "item_description": "Explore the original cyberpunk background",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_010_cyberpunk_original.png"
+        "item_name": "Fit Haven",
+        "item_description": "No gym? No problem! Work out at home with this background!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_015_homegym.png"
     },
     {
-        "item_id": "background_011_lab1",
+        "item_id": "background_016_japan",
         "item_type": "background",
-        "item_name": "Lab 1",
-        "item_description": "Get lost in the science lab",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_011_lab1.png"
-    },
-    {
-        "item_id": "background_012_lab2",
-        "item_type": "background",
-        "item_name": "Lab 2",
-        "item_description": "Experience the laboratory's latest experiments",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_012_lab2.png"
+        "item_name": "Cherry Blossom Garden",
+        "item_description": "Transport yourself to Japan with this background!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_016_japan.png"
     },
     {
         "item_id": "back_001_angelwings_black",
@@ -971,6 +964,20 @@
         "item_name": "Lightyear",
         "item_description": "To infinity and beyond with this futuristic accessory",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/back_004_lightyear.png"
+    },
+    {
+        "item_id": "back_005_turtleshell",
+        "item_type": "back",
+        "item_name": "Shell Shock",
+        "item_description": "Protect your back with this shell!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/back_005_turtleshell.png"
+    },
+    {
+        "item_id": "base_bear",
+        "item_type": "base",
+        "item_name": "Bear Base",
+        "item_description": "Because who doesn't want to be a bear?",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/base_bear.png"
     },
     {
         "item_id": "base_f_001",
@@ -2133,6 +2140,90 @@
         "item_name": "Red Jester",
         "item_description": "Amuse your friends with red jester outfit",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_036_jester_red.png"
+    },
+    {
+        "item_id": "body_037_specialwizard",
+        "item_type": "body",
+        "item_name": "Mystical Robes",
+        "item_description": "Abracadabra! You're a wizard now!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_037_specialwizard.png"
+    },
+    {
+        "item_id": "body_038_turtlesuit",
+        "item_type": "body",
+        "item_name": "Turtle Armor",
+        "item_description": "Turtle power! Cowabunga!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_038_turtlesuit.png"
+    },
+    {
+        "item_id": "body_039_eveninglongdress_black",
+        "item_type": "body",
+        "item_name": "Black Tie Affair",
+        "item_description": "Elegance and sophistication, all in one!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_039_eveninglongdress_black.png"
+    },
+    {
+        "item_id": "body_039_eveninglongdress_blue",
+        "item_type": "body",
+        "item_name": "Blue Velvet",
+        "item_description": "Feeling blue? This dress will cheer you up!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_039_eveninglongdress_blue.png"
+    },
+    {
+        "item_id": "body_039_eveninglongdress_green",
+        "item_type": "body",
+        "item_name": "Emerald Elegance",
+        "item_description": "Green with envy? Show them who's boss with this dress!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_039_eveninglongdress_green.png"
+    },
+    {
+        "item_id": "body_039_eveninglongdress_orange",
+        "item_type": "body",
+        "item_name": "Peach Perfection",
+        "item_description": "Orange you glad you bought this dress?",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_039_eveninglongdress_orange.png"
+    },
+    {
+        "item_id": "body_039_eveninglongdress_pink",
+        "item_type": "body",
+        "item_name": "Pink Princess",
+        "item_description": "Think pink with this stylish dress!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_039_eveninglongdress_pink.png"
+    },
+    {
+        "item_id": "body_039_eveninglongdress_purple",
+        "item_type": "body",
+        "item_name": "Royal Regalia",
+        "item_description": "Purple rain, purple rain...with this dress!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_039_eveninglongdress_purple.png"
+    },
+    {
+        "item_id": "body_039_eveninglongdress_red",
+        "item_type": "body",
+        "item_name": "Scarlet Seduction",
+        "item_description": "Turn heads with this stunning red dress!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_039_eveninglongdress_red.png"
+    },
+    {
+        "item_id": "body_039_eveninglongdress_white",
+        "item_type": "body",
+        "item_name": "Ivory Illusion",
+        "item_description": "Classy and timeless, this dress is a winner!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_039_eveninglongdress_white.png"
+    },
+    {
+        "item_id": "body_039_eveninglongdress_yellow",
+        "item_type": "body",
+        "item_name": "Golden Glamour",
+        "item_description": "Brighten up your day with this sunny yellow dress!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_039_eveninglongdress_yellow.png"
+    },
+    {
+        "item_id": "body_900_bearshirt",
+        "item_type": "body",
+        "item_name": "Bear Necessities",
+        "item_description": "Bear hug not included!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_900_bearshirt.png"
     },
     {
         "item_id": "ear_001_earring_black",
@@ -4886,6 +4977,97 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_076_burgertray.png"
     },
     {
+        "item_id": "hand_077_specialwand",
+        "item_type": "hand",
+        "item_name": "Mystical Wand",
+        "item_description": "Expecto Patronum! You're now a wizard!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_077_specialwand.png"
+    },
+    {
+        "item_id": "hand_078_staff",
+        "item_type": "hand",
+        "item_name": "Elemental Staff",
+        "item_description": "Channel your inner Gandalf with this staff!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_078_staff.png"
+    },
+    {
+        "item_id": "hand_079_nunchuk",
+        "item_type": "hand",
+        "item_name": "Ninja Nunchucks",
+        "item_description": "Enter the dragon with these nunchuks!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_079_nunchuk.png"
+    },
+    {
+        "item_id": "hand_080_katana",
+        "item_type": "hand",
+        "item_name": "Samurai Sword",
+        "item_description": "Slice and dice with this katana!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_080_katana.png"
+    },
+    {
+        "item_id": "hand_081_sai",
+        "item_type": "hand",
+        "item_name": "Sai of Protection",
+        "item_description": "Become a ninja with these sais!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_081_sai.png"
+    },
+    {
+        "item_id": "hand_082_present_blue",
+        "item_type": "hand",
+        "item_name": "Blue Surprise Box",
+        "item_description": "You're the gift with this present accessory!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_082_present_blue.png"
+    },
+    {
+        "item_id": "hand_082_present_green",
+        "item_type": "hand",
+        "item_name": "Green Surprise Box",
+        "item_description": "Green with envy? This accessory will cheer you up!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_082_present_green.png"
+    },
+    {
+        "item_id": "hand_082_present_orange",
+        "item_type": "hand",
+        "item_name": "Orange Surprise Box",
+        "item_description": "Orange you glad you bought this accessory?",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_082_present_orange.png"
+    },
+    {
+        "item_id": "hand_082_present_pink",
+        "item_type": "hand",
+        "item_name": "Pink Surprise Box",
+        "item_description": "Think pink with this stylish accessory!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_082_present_pink.png"
+    },
+    {
+        "item_id": "hand_082_present_purple",
+        "item_type": "hand",
+        "item_name": "Purple Surprise Box",
+        "item_description": "Purple rain, purple rain...with this accessory!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_082_present_purple.png"
+    },
+    {
+        "item_id": "hand_082_present_red",
+        "item_type": "hand",
+        "item_name": "Red Surprise Box",
+        "item_description": "Turn heads with this stunning red accessory!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_082_present_red.png"
+    },
+    {
+        "item_id": "hand_082_present_yellow",
+        "item_type": "hand",
+        "item_name": "Yellow Surprise Box",
+        "item_description": "Brighten up your day with this sunny yellow accessory!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_082_present_yellow.png"
+    },
+    {
+        "item_id": "hand_900_dtd",
+        "item_type": "hand",
+        "item_name": "Dare to Dream",
+        "item_description": "Dare to dream with this accessory!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_900_dtd.png"
+    },
+    {
         "item_id": "head_001_tophat_black",
         "item_type": "head",
         "item_name": "Black Top Hat",
@@ -5789,6 +5971,90 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_033_helmhornsdown_red.png"
     },
     {
+        "item_id": "head_034_specialwizardhat",
+        "item_type": "head",
+        "item_name": "Wizard's Wisdom",
+        "item_description": "The hat makes the wizard, and you're a wizard now!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_034_specialwizardhat.png"
+    },
+    {
+        "item_id": "head_035_specialconstruction",
+        "item_type": "head",
+        "item_name": "Construction Cap",
+        "item_description": "Hard hat, check. Safety vest, check. You're ready to build!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_035_specialconstruction.png"
+    },
+    {
+        "item_id": "head_036_motorcyclehelmet_black",
+        "item_type": "head",
+        "item_name": "Black Knight",
+        "item_description": "Ride into the sunset with this cool helmet!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_036_motorcyclehelmet_black.png"
+    },
+    {
+        "item_id": "head_036_motorcyclehelmet_blue",
+        "item_type": "head",
+        "item_name": "Blue Bolt",
+        "item_description": "Feeling blue? This helmet will cheer you up!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_036_motorcyclehelmet_blue.png"
+    },
+    {
+        "item_id": "head_036_motorcyclehelmet_green",
+        "item_type": "head",
+        "item_name": "Green Grit",
+        "item_description": "Green with envy? This helmet will show them who's boss!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_036_motorcyclehelmet_green.png"
+    },
+    {
+        "item_id": "head_036_motorcyclehelmet_orange",
+        "item_type": "head",
+        "item_name": "Orange Blaze",
+        "item_description": "Orange you glad you bought this helmet?",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_036_motorcyclehelmet_orange.png"
+    },
+    {
+        "item_id": "head_036_motorcyclehelmet_pink",
+        "item_type": "head",
+        "item_name": "Pink Power",
+        "item_description": "Think pink with this stylish helmet!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_036_motorcyclehelmet_pink.png"
+    },
+    {
+        "item_id": "head_036_motorcyclehelmet_purple",
+        "item_type": "head",
+        "item_name": "Purple Punch",
+        "item_description": "Purple rain, purple rain...with this helmet!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_036_motorcyclehelmet_purple.png"
+    },
+    {
+        "item_id": "head_036_motorcyclehelmet_red",
+        "item_type": "head",
+        "item_name": "Red Rider",
+        "item_description": "Turn heads with this stunning red helmet!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_036_motorcyclehelmet_red.png"
+    },
+    {
+        "item_id": "head_036_motorcyclehelmet_yellow",
+        "item_type": "head",
+        "item_name": "Yellow Yonder",
+        "item_description": "Brighten up your day with this sunny yellow helmet!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_036_motorcyclehelmet_yellow.png"
+    },
+    {
+        "item_id": "head_037_chefhat",
+        "item_type": "head",
+        "item_name": "Tasty Topper",
+        "item_description": "Add some spice to your outfit with this chef hat.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_037_chefhat.png"
+    },
+    {
+        "item_id": "head_900_bearhat",
+        "item_type": "head",
+        "item_name": "Bear Headgear",
+        "item_description": "Unleash your inner grizzly with this bear hat.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_900_bearhat.png"
+    },
+    {
         "item_id": "leg_001_shorts_black",
         "item_type": "leg",
         "item_name": "Black Shorts",
@@ -6473,6 +6739,20 @@
         "item_name": "Red Jester Outfit",
         "item_description": "Bring the heat to any event with this red jester outfit.",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_023_jester_red.png"
+    },
+    {
+        "item_id": "leg_024_turtlesuit",
+        "item_type": "leg",
+        "item_name": "Turtle Legs",
+        "item_description": "Slow and steady wins the race in this turtle suit.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_024_turtlesuit.png"
+    },
+    {
+        "item_id": "leg_900_bearpants",
+        "item_type": "leg",
+        "item_name": "Bear Bottoms",
+        "item_description": "Stay cozy and ferocious in these bear pants.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/leg_900_bearpants.png"
     },
     {
         "item_id": "mouth_001_lipstick_pink",

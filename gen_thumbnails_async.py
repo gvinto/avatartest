@@ -68,7 +68,13 @@ def generate_thumbnail(base_img_copy, item_id: str) -> Image:
     background = Image.new(
         "RGBA", crop_img.size, "#FFFFFF"
     )  # Create a white rgba background
-    background.paste(crop_img, (0, 0), crop_img)
+    try:
+        background.paste(crop_img, (0, 0), crop_img)
+    except ValueError as err:
+        background.paste(crop_img, (0, 0))
+    except Exception as err:
+        print(f"{item_id=}")
+        print(f"{err=}")
 
     background.thumbnail((THUMBNAIL_SIZE, THUMBNAIL_SIZE))
     # print(background.size)
@@ -107,8 +113,8 @@ async def main():
         completed, pending = await asyncio.wait(blocking_tasks)
         results = [t.result() for t in completed]
         
-        for result in results:
-            print(result)
+        # for result in results:
+        #     print(result)
 
     end = time.perf_counter()
     print(f"Time taken: {end-start}s")
