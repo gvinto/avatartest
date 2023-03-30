@@ -22,12 +22,14 @@ async def main():
     tasks =[]
 
     session = aioboto3.Session()
+    bucket_name = 'launchpad-305326993135'
+
+    async with session.resource("s3") as s3:
+        # Clear out S3 avatar images folder (can omit since new uploads will overwrite)
+        bucket = await s3.Bucket(bucket_name)
+        await bucket.objects.filter(Prefix='avatar/images/').delete()
+
     async with session.client("s3") as s3:
-        bucket = 'launchpad-305326993135' #await s3.Bucket('launchpad-305326993135')
-
-        # Clear out S3 images folder (can omit since new uploads will overwrite)
-        # await bucket.objects.filter(Prefix='avatar/images/').delete()
-
         # Upload all images to S3
         img_files = glob.glob("img/*.png")
         num_files = len(img_files)
@@ -37,7 +39,7 @@ async def main():
             filename = filepath.split('\\')[1]
             LOG.info(f'Uploading {count}/{num_files} files...')
 
-            tasks.append(asyncio.ensure_future(upload(s3, filepath, filename, bucket, 'avatar/images/')))
+            tasks.append(asyncio.ensure_future(upload(s3, filepath, filename, bucket_name, 'avatar/images/')))
 
             count+=1
 
@@ -50,17 +52,17 @@ async def main():
             filename = filepath.split('\\')[1]
             LOG.info(f'Uploading {count}/{num_files} files...')
 
-            tasks.append(asyncio.ensure_future(upload(s3, filepath, filename, bucket, 'avatar/images/thumbnails/')))
+            tasks.append(asyncio.ensure_future(upload(s3, filepath, filename, bucket_name, 'avatar/images/thumbnails/')))
 
             count+=1
 
         # Upload items_db.json
         LOG.info(f'Uploading items_db.json...')
-        tasks.append(asyncio.ensure_future(upload(s3, 'items_db.json', 'items_db.json', bucket, 'avatar/config/')))
+        tasks.append(asyncio.ensure_future(upload(s3, 'items_db.json', 'items_db.json', bucket_name, 'avatar/config/')))
 
         # Upload items_db.json
         LOG.info(f'Uploading task_rewards.json...')
-        tasks.append(asyncio.ensure_future(upload(s3, 'task_rewards.json', 'task_rewards.json', bucket, 'avatar/config/')))
+        tasks.append(asyncio.ensure_future(upload(s3, 'task_rewards.json', 'task_rewards.json', bucket_name, 'avatar/config/')))
 
         LOG.info(f'Uploading in background, please wait...')
         await asyncio.gather(*tasks)
