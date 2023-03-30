@@ -346,7 +346,7 @@
         "item_id": "addon_010_sbo",
         "item_type": "addon",
         "item_name": "SBO",
-        "item_description": "SBO for the sneaky",
+        "item_description": "SBO for your outfield items",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/addon_010_sbo.png"
     },
     {
@@ -1004,7 +1004,7 @@
         "item_id": "base_f_004",
         "item_type": "base",
         "item_name": "Female Base 4",
-        "item_description": "A great starting point for a female character",
+        "item_description": "A great starting point for a female alien",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/base_f_004.png"
     },
     {
@@ -1032,7 +1032,7 @@
         "item_id": "base_m_004",
         "item_type": "base",
         "item_name": "Male Base 4",
-        "item_description": "A great starting point for a male character",
+        "item_description": "A great starting point for a male alien",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/base_m_004.png"
     },
     {
@@ -1515,7 +1515,7 @@
         "item_id": "body_008_shirt_pink",
         "item_type": "body",
         "item_name": "Pink Shirt",
-        "item_description": "Ros\u00c3\u00a9 All Day in Pink",
+        "item_description": "All Day in Pink",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_008_shirt_pink.png"
     },
     {
@@ -1557,7 +1557,7 @@
         "item_id": "body_010_mccarthy",
         "item_type": "body",
         "item_name": "McCarthy Shirt",
-        "item_description": "You're not Wrong, Walter, You're just an A**hole",
+        "item_description": "It's the McCarthy Top",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_010_mccarthy.png"
     },
     {
