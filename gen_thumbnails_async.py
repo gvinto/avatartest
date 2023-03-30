@@ -11,6 +11,7 @@ def generate_thumbnail(base_img_copy, item_id: str) -> Image:
     base_img = base_img_copy
 
     item_img = Image.open(f"img/{item_id}.png")
+    item_img = item_img.convert("RGBA")
     item_bbox = item_img.getbbox()
 
     item_width = item_bbox[2] - item_bbox[0]
