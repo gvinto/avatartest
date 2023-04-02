@@ -1575,18 +1575,18 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_012_sparkclan.png"
     },
     {
-        "item_id": "body_013_designtee_python",
+        "item_id": "body_013_designerteepython",
         "item_type": "body",
-        "item_name": "Python Shirt",
-        "item_description": "Python Programmers Do It Better",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_013_designtee_python.png"
+        "item_name": "Python Tee",
+        "item_description": "Python is not a snake, it's a language",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_013_designerteepython.png"
     },
     {
-        "item_id": "body_013_designtee_smiley",
+        "item_id": "body_013_designerteesmiley",
         "item_type": "body",
-        "item_name": "Smiley Shirt",
-        "item_description": "Smiley Face, Happy Place",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_013_designtee_smiley.png"
+        "item_name": "Smiley Tee",
+        "item_description": "Smile, you're on camera!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_013_designerteesmiley.png"
     },
     {
         "item_id": "body_014_vampire",
@@ -2217,6 +2217,13 @@
         "item_name": "Golden Glamour",
         "item_description": "Brighten up your day with this sunny yellow dress!",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_039_eveninglongdress_yellow.png"
+    },
+    {
+        "item_id": "body_040_designerteecross",
+        "item_type": "body",
+        "item_name": "Cross Tee",
+        "item_description": "Be a cross, not a dot",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/body_040_designerteecross.png"
     },
     {
         "item_id": "body_900_bearshirt",
@@ -5061,11 +5068,46 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_082_present_yellow.png"
     },
     {
-        "item_id": "hand_900_dtd",
+        "item_id": "hand_083_racingflag",
         "item_type": "hand",
-        "item_name": "Dare to Dream",
-        "item_description": "Dare to dream with this accessory!",
-        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_900_dtd.png"
+        "item_name": "Racing Flag",
+        "item_description": "Ready, set, go!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_083_racingflag.png"
+    },
+    {
+        "item_id": "hand_084_loudhailer",
+        "item_type": "hand",
+        "item_name": "Loud Hailer",
+        "item_description": "Can you hear me now?",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_084_loudhailer.png"
+    },
+    {
+        "item_id": "hand_085_walkietalkie",
+        "item_type": "hand",
+        "item_name": "Walkie Talkie",
+        "item_description": "Roger that!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_085_walkietalkie.png"
+    },
+    {
+        "item_id": "hand_086_gatekey",
+        "item_type": "hand",
+        "item_name": "Gate Key",
+        "item_description": "Open sesame!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_086_gatekey.png"
+    },
+    {
+        "item_id": "hand_087_genielamp",
+        "item_type": "hand",
+        "item_name": "Genie Lamp",
+        "item_description": "Make a wish!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_087_genielamp.png"
+    },
+    {
+        "item_id": "hand_900_pokedex",
+        "item_type": "hand",
+        "item_name": "Pokedex",
+        "item_description": "Gotta catch 'em all!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/hand_900_pokedex.png"
     },
     {
         "item_id": "head_001_tophat_black",
@@ -6046,6 +6088,118 @@
         "item_name": "Tasty Topper",
         "item_description": "Add some spice to your outfit with this chef hat.",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_037_chefhat.png"
+    },
+    {
+        "item_id": "head_038_headphoneswithmic_blue",
+        "item_type": "head",
+        "item_name": "Blue Headphones",
+        "item_description": "Blue beats all",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_038_headphoneswithmic_blue.png"
+    },
+    {
+        "item_id": "head_038_headphoneswithmic_green",
+        "item_type": "head",
+        "item_name": "Green Headphones",
+        "item_description": "Green is the new black",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_038_headphoneswithmic_green.png"
+    },
+    {
+        "item_id": "head_038_headphoneswithmic_orange",
+        "item_type": "head",
+        "item_name": "Orange Headphones",
+        "item_description": "Orange you glad I didn't say banana?",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_038_headphoneswithmic_orange.png"
+    },
+    {
+        "item_id": "head_038_headphoneswithmic_pink",
+        "item_type": "head",
+        "item_name": "Pink Headphones",
+        "item_description": "Think pink",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_038_headphoneswithmic_pink.png"
+    },
+    {
+        "item_id": "head_038_headphoneswithmic_purple",
+        "item_type": "head",
+        "item_name": "Purple Headphones",
+        "item_description": "Purple reigns",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_038_headphoneswithmic_purple.png"
+    },
+    {
+        "item_id": "head_038_headphoneswithmic_red",
+        "item_type": "head",
+        "item_name": "Red Headphones",
+        "item_description": "Red-y for anything",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_038_headphoneswithmic_red.png"
+    },
+    {
+        "item_id": "head_038_headphoneswithmic_yellow",
+        "item_type": "head",
+        "item_name": "Yellow Headphones",
+        "item_description": "Yellow there!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_038_headphoneswithmic_yellow.png"
+    },
+    {
+        "item_id": "head_039_capbackwards_black",
+        "item_type": "head",
+        "item_name": "Black Cap",
+        "item_description": "Back to black",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_039_capbackwards_black.png"
+    },
+    {
+        "item_id": "head_039_capbackwards_blue",
+        "item_type": "head",
+        "item_name": "Blue Cap",
+        "item_description": "Blue skies ahead",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_039_capbackwards_blue.png"
+    },
+    {
+        "item_id": "head_039_capbackwards_green",
+        "item_type": "head",
+        "item_name": "Green Cap",
+        "item_description": "Green light",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_039_capbackwards_green.png"
+    },
+    {
+        "item_id": "head_039_capbackwards_orange",
+        "item_type": "head",
+        "item_name": "Orange Cap",
+        "item_description": "Orange you glad I wore this cap?",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_039_capbackwards_orange.png"
+    },
+    {
+        "item_id": "head_039_capbackwards_pink",
+        "item_type": "head",
+        "item_name": "Pink Cap",
+        "item_description": "Pretty in pink",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_039_capbackwards_pink.png"
+    },
+    {
+        "item_id": "head_039_capbackwards_purple",
+        "item_type": "head",
+        "item_name": "Purple Cap",
+        "item_description": "Purple people eater",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_039_capbackwards_purple.png"
+    },
+    {
+        "item_id": "head_039_capbackwards_red",
+        "item_type": "head",
+        "item_name": "Red Cap",
+        "item_description": "Red-y to rock",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_039_capbackwards_red.png"
+    },
+    {
+        "item_id": "head_039_capbackwards_white",
+        "item_type": "head",
+        "item_name": "White Cap",
+        "item_description": "White on",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_039_capbackwards_white.png"
+    },
+    {
+        "item_id": "head_039_capbackwards_yellow",
+        "item_type": "head",
+        "item_name": "Yellow Cap",
+        "item_description": "Yellow there!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/head_039_capbackwards_yellow.png"
     },
     {
         "item_id": "head_900_bearhat",
@@ -8132,5 +8286,208 @@
         "item_name": "ePrimer Scientist",
         "item_description": "This ePrimer datascientist pet will help you crunch the numbers.",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_072_eprimerdatascientist.png"
+    },
+    {
+        "item_id": "pet_073_toycar_black",
+        "item_type": "pet",
+        "item_name": "Black Toy Car",
+        "item_description": "Vroom vroom in black",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_073_toycar_black.png"
+    },
+    {
+        "item_id": "pet_073_toycar_blue",
+        "item_type": "pet",
+        "item_name": "Blue Toy Car",
+        "item_description": "Blue car special",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_073_toycar_blue.png"
+    },
+    {
+        "item_id": "pet_073_toycar_green",
+        "item_type": "pet",
+        "item_name": "Green Toy Car",
+        "item_description": "Green machine",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_073_toycar_green.png"
+    },
+    {
+        "item_id": "pet_073_toycar_red",
+        "item_type": "pet",
+        "item_name": "Red Toy Car",
+        "item_description": "Red hot ride",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_073_toycar_red.png"
+    },
+    {
+        "item_id": "pet_073_toycar_white",
+        "item_type": "pet",
+        "item_name": "White Toy Car",
+        "item_description": "White on target",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_073_toycar_white.png"
+    },
+    {
+        "item_id": "pet_074_policecar",
+        "item_type": "pet",
+        "item_name": "Police Car",
+        "item_description": "To serve and protect",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_074_policecar.png"
+    },
+    {
+        "item_id": "pet_075_bicycle_blue",
+        "item_type": "pet",
+        "item_name": "Blue Bicycle",
+        "item_description": "Blue bike brigade",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_075_bicycle_blue.png"
+    },
+    {
+        "item_id": "pet_075_bicycle_green",
+        "item_type": "pet",
+        "item_name": "Green Bicycle",
+        "item_description": "Green for go",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_075_bicycle_green.png"
+    },
+    {
+        "item_id": "pet_075_bicycle_red",
+        "item_type": "pet",
+        "item_name": "Red Bicycle",
+        "item_description": "Red wheels rolling",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_075_bicycle_red.png"
+    },
+    {
+        "item_id": "pet_076_datgold",
+        "item_type": "pet",
+        "item_name": "Goldendat",
+        "item_description": "Let your pet shine with this golden treasure.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_076_datgold.png"
+    },
+    {
+        "item_id": "pet_077_extraterrestrial",
+        "item_type": "pet",
+        "item_name": "Alien",
+        "item_description": "Out of this world",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_077_extraterrestrial.png"
+    },
+    {
+        "item_id": "pet_078_eyetower",
+        "item_type": "pet",
+        "item_name": "Eye Tower",
+        "item_description": "Eye of the tower",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_078_eyetower.png"
+    },
+    {
+        "item_id": "pet_079_locker",
+        "item_type": "pet",
+        "item_name": "Locker",
+        "item_description": "Locked and loaded",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_079_locker.png"
+    },
+    {
+        "item_id": "pet_080_pullupbar",
+        "item_type": "pet",
+        "item_name": "Pull Up Bar",
+        "item_description": "Pump it up",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_080_pullupbar.png"
+    },
+    {
+        "item_id": "pet_081_ropeclimb",
+        "item_type": "pet",
+        "item_name": "Rope Climb",
+        "item_description": "Climb every mountain",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_081_ropeclimb.png"
+    },
+    {
+        "item_id": "pet_082_dragonplayground",
+        "item_type": "pet",
+        "item_name": "Dragon Playground",
+        "item_description": "Dragon's lair",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_082_dragonplayground.png"
+    },
+    {
+        "item_id": "pet_083_treasurechest",
+        "item_type": "pet",
+        "item_name": "Treasure Chest",
+        "item_description": "X marks the spot",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_083_treasurechest.png"
+    },
+    {
+        "item_id": "pet_084_alien2_blue",
+        "item_type": "pet",
+        "item_name": "Blue Alien",
+        "item_description": "Blue alien invasion",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_084_alien2_blue.png"
+    },
+    {
+        "item_id": "pet_084_alien2_green",
+        "item_type": "pet",
+        "item_name": "Green Alien",
+        "item_description": "Green with envy",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_084_alien2_green.png"
+    },
+    {
+        "item_id": "pet_084_alien2_red",
+        "item_type": "pet",
+        "item_name": "Red Alien",
+        "item_description": "Red planet",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_084_alien2_red.png"
+    },
+    {
+        "item_id": "pet_085_paintingmonalisa",
+        "item_type": "pet",
+        "item_name": "Mona Lisa",
+        "item_description": "Mona Lisa smile",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_085_paintingmonalisa.png"
+    },
+    {
+        "item_id": "pet_086_paintingkanagawa",
+        "item_type": "pet",
+        "item_name": "Kanagawa",
+        "item_description": "Wave hello",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_086_paintingkanagawa.png"
+    },
+    {
+        "item_id": "pet_087_paintingpietmondrian",
+        "item_type": "pet",
+        "item_name": "Piet Mondrian",
+        "item_description": "Mondrian masterpiece",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_087_paintingpietmondrian.png"
+    },
+    {
+        "item_id": "pet_088_paintingvangough",
+        "item_type": "pet",
+        "item_name": "Van Gogh",
+        "item_description": "Starry night",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_088_paintingvangough.png"
+    },
+    {
+        "item_id": "pet_089_paintingwhistlersmother",
+        "item_type": "pet",
+        "item_name": "Whistler's Mother",
+        "item_description": "Whistler's mother",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_089_paintingwhistlersmother.png"
+    },
+    {
+        "item_id": "pet_090_paintingscream",
+        "item_type": "pet",
+        "item_name": "Scream Painting Pet",
+        "item_description": "Your pet's new scream-worthy masterpiece.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_090_paintingscream.png"
+    },
+    {
+        "item_id": "pet_091_specialtoycar_blue",
+        "item_type": "pet",
+        "item_name": "Blue Toy Car Pet",
+        "item_description": "Your pet will race to play with this toy car.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_091_specialtoycar_blue.png"
+    },
+    {
+        "item_id": "pet_091_specialtoycar_green",
+        "item_type": "pet",
+        "item_name": "Green Toy Car Pet",
+        "item_description": "Green means go for your pet and this toy car.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_091_specialtoycar_green.png"
+    },
+    {
+        "item_id": "pet_091_specialtoycar_red",
+        "item_type": "pet",
+        "item_name": "Red Toy Car Pet",
+        "item_description": "This toy car is sure to rev up your pet's playtime.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_091_specialtoycar_red.png"
     }
 ]

@@ -1,10 +1,11 @@
 import json, csv, glob, pathlib
 
-COL_INITIATIVE = 0
-COL_TASK = 1
-COL_ITEMS = 6
-COL_POINTS = 8
-COL_LIMIT = 9
+COL_CODE = 0
+COL_INITIATIVE = 1
+COL_TASK = 2
+COL_ITEMS = 4
+COL_POINTS = 7
+COL_LIMIT = 8
 
 def clean(text:str):
     return text.replace("â€‹","").strip()
@@ -39,8 +40,9 @@ def main():
 
             #extract list of items
             item_ids = clean(row[COL_ITEMS]).split('\n')
+            item_ids = [item.strip() for item in item_ids]
             COLOR_VARIATION_PLACEHOLDER = '<plus all the other colours>'
-            if COLOR_VARIATION_PLACEHOLDER in item_ids:
+            while COLOR_VARIATION_PLACEHOLDER in item_ids:
                 color_item = item_ids[item_ids.index(COLOR_VARIATION_PLACEHOLDER)-1]
                 item_ids.remove(COLOR_VARIATION_PLACEHOLDER)
                 item_ids.extend(all_color_variations(color_item))
@@ -53,6 +55,7 @@ def main():
                     item_ids.remove(item)
 
             task = {
+                    "code": clean(row[COL_CODE]),
                     "category": clean(row[COL_INITIATIVE]),
                     "task": clean(row[COL_TASK]),
                     "points": {

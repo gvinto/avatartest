@@ -1,6 +1,7 @@
 import glob
 import json, yaml, csv
 import requests
+from collections import OrderedDict
 import logging as logger
 from util.auth_util import gen_jwt_token
 
@@ -19,7 +20,7 @@ def generate_item_names(session, item_ids):
     jwt_token = gen_jwt_token(jwt_data)
     headers =  {"Content-Type":"application/json", "Authorization": f"Bearer {jwt_token}"}
 
-    prompt = f"""generate a short and unique item name 3 words maximum for the following in game item_ids and return them in the JSON format: \n\n{{"item_id_1":"item name 1","item_id_2":"item name 2"}}\n\n --- \n\n {str(item_ids)}"""
+    prompt = f"""generate a short and unique item name 3 words maximum for the following in game item_ids and return them in the JSON format: \n\n{{"addon_016_apron_black":"Black Apron","neck_007_tie_purple":"Purple Tie"}}\n\n --- \n\n {str(item_ids)}"""
     data = {'prompt': prompt}
 
     logger.info(f'Calling GPT prompt for: {prompt}')
@@ -45,7 +46,7 @@ def generate_item_descriptions(session, item_ids):
     jwt_token = gen_jwt_token(jwt_data)
     headers =  {"Content-Type":"application/json", "Authorization": f"Bearer {jwt_token}"}
 
-    prompt = f"""generate a short, witty and unique item description of around 10 words for the following in game item_ids and return them in the JSON format: \n\n{{"item_id_1":"item description 1","item_id_2":"item description 2"}}\n\n --- \n\n {str(item_ids)}"""
+    prompt = f"""generate a short, witty and unique item description of around 10 words for the following in game item_ids and return them in the JSON format: \n\n{{"pet_083_treasurechest": "X marks the spot","head_037_chefhat": "Add some spice to your outfit with this chef hat."}}\n\n --- \n\n {str(item_ids)}"""
     data = {'prompt': prompt}
 
     logger.info(f'Calling GPT prompt for: {prompt}')
@@ -113,9 +114,11 @@ def main():
         items_response = json.loads(response_txt)
         item_names.update(items_response)
 
-        item_names_json_object = json.dumps(item_names, indent=4)
+        ordered_item_names = OrderedDict(sorted(item_names.items()))
+
+        ordered_item_names_json_object = json.dumps(ordered_item_names, indent=4)
         with open("item_names.json", "w") as outfile:
-            outfile.write(item_names_json_object)
+            outfile.write(ordered_item_names_json_object)
 
     for i in range(0, len(descriptions_to_generate), batch_size):
         # generate in batches and put into dict
@@ -129,9 +132,11 @@ def main():
         items_response = json.loads(response_txt)
         item_descriptions.update(items_response)
 
-        items_description_json_object = json.dumps(item_descriptions, indent=4)
+        ordered_item_descriptions = OrderedDict(sorted(item_descriptions.items()))
+
+        ordered_item_descriptions_json_object = json.dumps(ordered_item_descriptions, indent=4)
         with open("item_descriptions.json", "w") as outfile:
-            outfile.write(items_description_json_object)
+            outfile.write(ordered_item_descriptions_json_object)
         
     for filepath in all_img_files:
         

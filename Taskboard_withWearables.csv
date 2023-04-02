@@ -1,57 +1,115 @@
-Initiative​,Task​,Wearable,Wearble Image,Photo/ Picture Reference (for Joseph to design),,,Marketing Message (for Nicole to publicise),Points,Max Count,Max Points,,Run Period: 24 February 2023 to 13 October 2023,,,,
-Engagement​,Join WOG Data Science Workplace group,spark clan green outfit,,,,"head_025_sparkclan
-body_012_sparkclan
-leg_011_mccarthy",wearing the green outfit signifies being a part of the spark clan,500,1,500,,,,,,
-Engagement,Subscribe to DSC Spark mailing list,spanner,,,,hand_036_spanner,the spark clan was tasked to build a rocket ship,500,1,500,,,,,,
-Engagement,Complete GovTech's DSAID Roadshow feedback form,spark clan goggles,,,,eye_012_sparkclangoggles,,1000,1,1000,,,,,,
-Engagement,Contribute Quick-Fire video​,campfire (pet),,,,pet_026_campfire,Chapter 5 - Influence. contributing to a quickfire video to influence others,7000,3,21000,,,,,,
-Training,"Attend Workshop (test drive, masterclasses, etc)",mccarthy jacket,,,,"body_010_mccarthy
-leg_011_mccarthy
-hair_018_mccarthy
-head_012_mccarthy","going for workshops shows initiative and effort , characterists of mccarthy",2500,6,15000,,,,Voucher,Quantity,Total
-Training,Complete Data Literacy ePrimer Modules​,data cube (pet/item to hold),,,,"hand_035_datacube_blue
-hand_035_datacube_green
-hand_035_datacube_red",a data cube to show that you have the right tools to work with data,5000,1,5000,,Bronze,"10,000 - 19,999",$10,300,"$3,000"
-DSC ​,Register for Data Science Connect ​#25,labcoat,,,,body_009_labcoat,"the dsc logo looks like an atom, so the avatar will get scientist clothes ",500,1,500,,,,,,
-DSC ​,Attend Data Science Connect ​#25,mad scientist hair and goggles,,,,"hair_025_madscientist
+Code,Initiative​,Task​,Wearable,Item Name,Full Outfit,Marketing Messages,Points,Max Count,Max Points,,Run Period: 24 February 2023 to 13 October 2023,,,,
+EN-01,Engagement​,Join WOG Data Science Workplace group,dsc logo shirt,"<how about give the elf ear for this?>
+tshirt too small to draw details",,,500,1,500,,,,,,
+EN-02,Engagement,Subscribe to DSC Spark mailing list,Jeans,"leg_004_jeans_black
+leg_004_jeans_blue
+leg_004_jeans_white
+",,,500,1,500,,,,,,
+EN-03,Engagement,Contribute Quick-Fire video​,"Campfire
+Forest Background","pet_026_campfire
+background_008_forest
+",,,7000,3,21000,,,,,,
+TR-01,Training,"Attend Workshop (test drive, upskilling initiative etc)",Smiley Shirt,body_013_designerteesmiley,,,2500,3,7500,,,,Voucher,Quantity,Total
+TR-02,Training,Attend Masterclass,Big Specs,"eye_002_bigspecs_black 
+<plus all the other colours>",,,2500,3,7500,,,,,,
+TR-03,Training,Complete Data Literacy ePrimer Modules​,"ePrimer Guy
+Boss
+Analyst
+Lead
+Scientist","pet_068_eprimerguy
+pet_069_eprimerboss
+pet_070_eprimerbusinessanalyst
+pet_071_eprimerprojectlead
+pet_072_eprimerdatascientist",,,5000,1,5000,,Bronze,"10,000 - 19,999",$10,300,"$3,000"
+DSAID-01,DSAID,Attend GovTech's DSAID Roadshow,checkered wave-off flag in hand,hand_083_racingflag,,,1000,1,1000,,,,,,
+DSAID-02,DSAID,Complete GovTech's DSAID Roadshow feedback form ,car," pet_073_toycar_black
+ pet_073_toycar_red
+ pet_073_toycar_green
+ pet_073_toycar_blue
+ pet_073_toycar_white",,,1000,1,1000,,,,,,
+DSC-01,DSC ​,Register for Data Science Connect ​#25,"Labcoat
+Test Tube","body_009_labcoat
+hand_034_testtube_green
+hand_034_testtube_blue
+hand_034_testtube_red",,"the dsc logo looks like an atom, so the avatar will get scientist clothes ",500,1,500,,,,,,
+DSC-02,DSC ​,Attend Data Science Connect ​#25,"Goggles
+Scientist Hair","hair_025_madscientist
 hair_025_madscientist_grey
 eye_011_goggles_purple
-<plus all the other colours>",,1000,1,1000,,Silver,"20,000 - 29,999",$20,150,"$3,000"
-DSC,Complete Data Science Connect ​feedback form,cylinder,,,,"hand_034_testtube_green
-hand_034_testtube_blue
-hand_034_testtube_red",,1000,1,1000,,Gold,"30,000 - 59,999",$50,50,"$2,500"
-DSC ​,Register for STACK Data Science & AI ,lego blocks on the floor,,,,"
+<plus all the other colours>",,,1000,1,1000,,Silver,"20,000 - 29,999",$20,150,"$3,000"
+DSC-03,DSC,Complete Data Science Connect ​feedback form,lab background,,,,1000,1,1000,,Gold,"30,000 - 59,999",$50,50,"$2,500"
+DSC-04,DSC ​,Register for STACK Data & AI Mini Conference,bicycle,"pet_075_bicycle_red
+pet_075_bicycle_green
+pet_075_bicycle_blue",,,500,1,500,,Platinum,"60,000 and above",$100,10,"$1,000"
+DSC-05,DSC,Attend STACK Data & AI Mini Conference,ET,pet_077_extraterrestrial,,,2000,1,2000,,,,,,
+DSC-06,DSC,Complete STACK Data & AI Mini Conference feedback form,moon background,,,scattered lego blocks transform into a tesseract upon completing STACK,1000,1,1000,,,,,,
+DSC-07,DSC ​,Register for Data Science Connect ​#26 x DAT2023 Finale,"Suit 
+Sleeveless Dress","body_004_suit_black
+<plus all the other colours>
+body_028_sleevelesslongdress_black
+<plus all the other colours>
+",,,500,1,500,,,,,510,"$9,500"
+DAT​-01,DAT​,Register for Data VIZard 2023,"Wizard Hat
+Wizard Shoes","head_018_wizardhat_black
+<plus all the other colours>
+feet_002_largeshoes_black
+<plus all the other colours>
+",,"Arthur C. Clarke once declared that, ""Any sufficiently advanced technology is indistinguishable from magic."" This one goes out to all our data wizards with a gift for viz! This collection is a treasure trove of magical items that form a complete wizarding outfit, symbolic of the expertise and mastery of a Data VIZard.",500,1,500,,,,,,
+DAT​-02,DAT​,Submit Entry for Data VIZard 2023,"Wizard Robe 
+Wizard Wand","body_021_wizard_white
+<plus all the other colours>
+hand_027_wand_blue
+<plus all the other colours>",,,8000,1,8000,,For reference:,,,,
+DAT​-03,DAT​,Achieve Top 10 Teams in Data VIZard,special wizard hat and robe,"head_034_specialwizardhat
+body_037_specialwizard
+hand_077_specialwand",,,3000,1,3000,,DC Bootcamp ends on 14/10/2023,,,,
+DAT​-04,DAT​,Achieve Top 5 Teams in Data VIZard,"pet: eye of sauron
+lab background ",pet_078_eyetower,,,5000,1,5000,,,,,,
+DATX-01,DAT X,Register for ImpactiVIZ 2023,helmet + overalls,"head_022_construction_yellow
+leg_017_overalls_darkblack
+<plus all the other colours>
+body_024_overalls_darkpurple
+<plus all the other colours>",,"""Data is the new gold,"" as Mark Cuban famously quipped, and this rings true for our hardworking DATx teams who are constantly data mining for insights. Every ImpactiVIZ team engages in essential data mining practices to uncover meaningful and actionable information for their agencies. To honor this effort, we've put together a collection of miner-themed items that form a complete set of shiny miner wear. ",500,1,500,,,,,,
+DATX-02,DAT X,Submit Entry for ImpactiVIZ 2023,pickaxe + boots,"hand_020_pickaxe
+feet_005_boots_black
 
-STACK-X logo uncoloured",,500,1,500,,Platinum,"60,000 and above",$100,10,"$1,000"
-DSC,Attend STACK Data Science & AI ,floating lego blocks around avatar (invoker from dota / zenyatta from overwatch),,,,STACK-X logo,,2000,1,2000,,,,,,
-DSC,Complete STACK Data Science & AI feedback form,lego tesseract,,,,pet_025_tesseract,scattered lego blocks transform into a tesseract upon completing STACK,1000,1,1000,,,,,,
-DSC ​,Register for Data Science Connect ​#26 x DAT2023 Finale,suit and dress with purse and dress shoes,,,,find the suit ones,,500,1,500,,,,,510,"$9,500"
-DAT​,Register for Data VIZard 2023,wizard shoes,,,,,"Arthur C. Clarke once declared that, ""Any sufficiently advanced technology is indistinguishable from magic."" This one goes out to all our data wizards with a gift for viz! This collection is a treasure trove of magical items that form a complete wizarding outfit, symbolic of the expertise and mastery of a Data VIZard.",500,1,500,,,,,,
-DAT​,Submit Entry for Data VIZard 2023,wizard robe,,,,"body_021_wizard_white
-<plus all the other colours>",,8000,1,8000,,For reference:,,,,
-DAT​,Achieve Top 10 Teams in Data VIZard,wizard wand,,,,"hand_027_wand_purple
-<plus all the other colours>",,3000,1,3000,,DC Bootcamp ends on 14/10/2023,,,,
-DAT​,Achieve Top 5 Teams in Data VIZard,wizard hat,,,,"head_018_wizardhat_white
-<plus all the other colours>",,5000,1,5000,,,,,,
-DAT X,Register for ImpactiVIZ 2023,helmet,,,,head_022_construction_yellow,"""Data is the new gold,"" as Mark Cuban famously quipped, and this rings true for our hardworking DATx teams who are constantly data mining for insights. Every ImpactiVIZ team engages in essential data mining practices to uncover meaningful and actionable information for their agencies. To honor this effort, we've put together a collection of miner-themed items that form a complete set of shiny miner wear. ",500,1,500,,,,,,
-DAT X,Submit Entry for ImpactiVIZ 2023,dark blue overalls,,,,"body_024_overalls_darkpurple
-<plus all the other colours>",,8000,1,8000,,,,,,
-DAT X,Achieve Top 5 Teams in ImpactiVIZ (Agency Internal Judging)​,pick axe,,,,hand_020_pickaxe,,5000,1,5000,,,,,,
-DAT X,Organising Committee of ImpactiVIZ 2023,a neon vest to wear over the overalls,,,,addon_012_neonvest,,10000,1,10000,,,,,,
-DC Bootcamp​,Register for DC Bootcamp​ 2023,laptop,,,,hand_031_laptop,"Bootstrap up for DC Bootcamp! This collection features everything (and everyone) it takes for a fabulous convocation - classroom essentials, graduate gowns, and signature tools for our trainers and class monitors and monitresses. Suit up!",500,1,500,,,,,,
-DC Bootcamp​,Graduate from DC Bootcamp (Certified)​ 2023,"tassel hat (tassel on the left side of head), convo gown colour 1 (light blue - dcbc colour)",,,,"head_021_graduation_blue
-head_021_graduation_black",,8000,1,8000,,,,,,
-DC Bootcamp​,Graduate from DC Bootcamp X​,"tassel hat (tassel on the left side of head), convo gown colour 2 (green - dcbc colour)",,,,"body_023_graduation_blue
-body_023_graduation_black",,9500,1,9500,,,,,,
-DC Bootcamp​,Volunteer as DC Bootcamp X Trainer/ Coordinator​,"trainer - whistle, coordinator - clipboard",,,,loudhailer,,10000,1,10000,,,,,,
-DC Bootcamp,Volunteer for DC Bootcamp Initiatives and Duties,prefect tie,,,,neck_010_prefecttie,,Varies,,,,,,,,
-Ideathon,Sign in to Launchpad,astronaut suit,,,,,"Ground control to Major Dev! Like David Bowie's iconic song, the Launchpad collection takes a dive into deep space by gearing you up with everything you need from ground control. This collection culminates in a bid for the coveted centrepiece - Buzz Lightyear wings!",500,1,500,,,,,,
-Ideathon,Vote for an Ideathon entry,helmet,,,,"head_020_astronaut_blue
-head_020_astronaut_orange",,500,3,1500,,,,,,
-Ideathon,Submit an entry for Ideathon,flag,,,,"hand_029_flag_white
-<plus all the other colours>",,2000,5,10000,,,,,,
-Ideathon,Achieve Top 10 'Community's Favourite' entries,pet alien,,,,"pet_022_alien_purple
-<plus all the other colours>",,2000,1,2000,,,,,,
-Ideathon,Achieve 'Idea of the Month' entry,lightyear wings,,,,back_004_lightyear,,2000,1,2000,,,,,,
-Adhoc,Ad-hoc Campaigns,,,,,,,Varies,,,,,,,,
-​,​,,,,,,,,Ceiling,133500,,,,,,
+",,,8000,1,8000,,,,,,
+DATX-03,DAT X,Achieve Top DATx Team in Agency ,wheelbarrow with gold,pet_076_datgold,,,3000,1,3000,,,,,,
+DATX-04,DAT X,Achieve Top 5 Teams in ImpactiVIZ 2023,cave background,background_012_cave,,,5000,1,5000,,,,,,
+DATX-05,DAT X,Organising Committee of ImpactiVIZ 2023,overalls + helmet + boots + neon vest,"head_022_construction_yellow
+leg_017_overalls_darkblack
+<plus all the other colours>
+body_024_overalls_darkpurple
+<plus all the other colours>
+feet_005_boots_black
+addon_012_neonvest",,,10000,1,10000,,,,,,
+DCBC-01,DC Bootcamp​,Register for DC Bootcamp​ 2023,laptop,hand_031_laptop,,"Bootstrap up for DC Bootcamp! This collection features everything (and everyone) it takes for a fabulous convocation - classroom essentials, graduate gowns, and signature tools for our trainers and class monitors and monitresses. Suit up!",500,1,500,,,,,,
+DCBC-02,DC Bootcamp​,Graduate from DC Bootcamp (Certified)​ 2023,"tassel hat (tassel on the left side of head), convo gown colour 1 (light blue - dcbc colour)","head_021_graduation_blue
+body_023_graduation_blue
+",,,8000,1,8000,,,,,,
+DCBC-03,DC Bootcamp​,Graduate from DC Bootcamp X​,"tassel hat (tassel on the left side of head), convo gown colour 2 (green - dcbc colour)","head_021_graduation_black
+body_023_graduation_black",,,9500,1,9500,,,,,,
+DCBC-04,DC Bootcamp​,Volunteer as DC Bootcamp X Trainer (weekly basis),"Black Jacket , Scarf, Minion , Loudhailer","leg_014_minion
+neck_001_scarf_black
+addon_004_bigjacket_black
+hand_084_loudhailer",,,1000,25,25000,,,,,,
+DCBC-05,DC Bootcamp,Volunteer as DC Bootcamp X Coordinator,clipboard + teacher's pet   ,"hand_030_clipboard
+pet_041_ministudentboy
+pet_042_ministudentgirl
+
+",,,10000,1,10000,,,,,,
+DCBC-06,DC Bootcamp,Peer review for DC Bootcamp (segment basis),prefect tie,neck_010_prefecttie,,,500,4,2000,,,,,,
+DCBC-07,DC Bootcamp,Active contribution to DC Bootcamp community (segment basis),whip,hand_008_whip,,,500,4,2000,,,,,,
+LP-01,Ideathon,Sign in to Launchpad,astronaut suit,"leg_016_astronaut_blue
+leg_016_astronaut_orange
+body_011_council",,"Ground control to Major Dev! Like David Bowie's iconic song, the Launchpad collection takes a dive into deep space by gearing you up with everything you need from ground control. This collection culminates in a bid for the coveted centrepiece - Buzz Lightyear wings!",500,1,500,,,,,,
+LP-02,Ideathon,Vote for an Ideathon entry,helmet,"head_020_astronaut_blue
+head_020_astronaut_orange",,,500,3,1500,,,,,,
+LP-03,Ideathon,Submit an entry for Ideathon,flag ,"hand_029_flag_white
+<plus all the other colours>",,,2000,5,10000,,,,,,
+LP-04,Ideathon,Achieve Top 10 'Community's Favourite' entries,"pet alien , background","pet_022_alien_purple
+<plus all the other colours>
+background_014_outerspace",,,2000,1,2000,,,,,,
+LP-05,Ideathon,Achieve 'Idea of the Month' entry,lightyear wings,back_004_lightyear,,,2000,1,2000,,,,,,
+,Adhoc,Ad-hoc Campaigns,,,,,Varies,,,,,,,,
+,​,​,,,,,,Ceiling,133500,,,,,,
