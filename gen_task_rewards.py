@@ -55,7 +55,7 @@ def read_taskboard_csv(filename:str, agency:str = 'DSAID'):
                         "datadex_2023": int(clean(row[COL_POINTS]))
                     },
                     "limit": int(clean(row[COL_LIMIT])),
-                    "items": item_ids
+                    "items": sorted(list(set(item_ids)))
                 }
             
             agency_task_rewards.append(task)

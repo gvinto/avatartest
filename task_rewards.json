@@ -37,8 +37,8 @@
         },
         "limit": 3,
         "items": [
-            "pet_026_campfire",
-            "background_008_forest"
+            "background_008_forest",
+            "pet_026_campfire"
         ]
     },
     {
@@ -64,7 +64,6 @@
         },
         "limit": 3,
         "items": [
-            "eye_002_bigspecs_black",
             "eye_002_bigspecs_black",
             "eye_002_bigspecs_blue",
             "eye_002_bigspecs_green",
@@ -116,9 +115,9 @@
         "limit": 1,
         "items": [
             "pet_073_toycar_black",
-            "pet_073_toycar_red",
-            "pet_073_toycar_green",
             "pet_073_toycar_blue",
+            "pet_073_toycar_green",
+            "pet_073_toycar_red",
             "pet_073_toycar_white"
         ]
     },
@@ -133,8 +132,8 @@
         "limit": 1,
         "items": [
             "body_009_labcoat",
-            "hand_034_testtube_green",
             "hand_034_testtube_blue",
+            "hand_034_testtube_green",
             "hand_034_testtube_red"
         ]
     },
@@ -148,16 +147,15 @@
         },
         "limit": 1,
         "items": [
-            "hair_025_madscientist",
-            "hair_025_madscientist_grey",
-            "eye_011_goggles_purple",
             "eye_011_goggles_blue",
             "eye_011_goggles_green",
             "eye_011_goggles_orange",
             "eye_011_goggles_pink",
             "eye_011_goggles_purple",
             "eye_011_goggles_red",
-            "eye_011_goggles_yellow"
+            "eye_011_goggles_yellow",
+            "hair_025_madscientist",
+            "hair_025_madscientist_grey"
         ]
     },
     {
@@ -181,9 +179,9 @@
         },
         "limit": 1,
         "items": [
-            "pet_075_bicycle_red",
+            "pet_075_bicycle_blue",
             "pet_075_bicycle_green",
-            "pet_075_bicycle_blue"
+            "pet_075_bicycle_red"
         ]
     },
     {
@@ -221,8 +219,6 @@
         "limit": 1,
         "items": [
             "body_004_suit_black",
-            "body_028_sleevelesslongdress_black",
-            "body_004_suit_black",
             "body_004_suit_blue",
             "body_004_suit_green",
             "body_004_suit_orange",
@@ -251,17 +247,6 @@
         },
         "limit": 1,
         "items": [
-            "head_018_wizardhat_black",
-            "feet_002_largeshoes_black",
-            "head_018_wizardhat_black",
-            "head_018_wizardhat_blue",
-            "head_018_wizardhat_green",
-            "head_018_wizardhat_orange",
-            "head_018_wizardhat_pink",
-            "head_018_wizardhat_purple",
-            "head_018_wizardhat_red",
-            "head_018_wizardhat_white",
-            "head_018_wizardhat_yellow",
             "feet_002_largeshoes_black",
             "feet_002_largeshoes_blue",
             "feet_002_largeshoes_green",
@@ -270,7 +255,16 @@
             "feet_002_largeshoes_purple",
             "feet_002_largeshoes_red",
             "feet_002_largeshoes_white",
-            "feet_002_largeshoes_yellow"
+            "feet_002_largeshoes_yellow",
+            "head_018_wizardhat_black",
+            "head_018_wizardhat_blue",
+            "head_018_wizardhat_green",
+            "head_018_wizardhat_orange",
+            "head_018_wizardhat_pink",
+            "head_018_wizardhat_purple",
+            "head_018_wizardhat_red",
+            "head_018_wizardhat_white",
+            "head_018_wizardhat_yellow"
         ]
     },
     {
@@ -283,8 +277,6 @@
         },
         "limit": 1,
         "items": [
-            "body_021_wizard_white",
-            "hand_027_wand_blue",
             "body_021_wizard_black",
             "body_021_wizard_blue",
             "body_021_wizard_green",
@@ -313,9 +305,9 @@
         },
         "limit": 1,
         "items": [
-            "head_034_specialwizardhat",
             "body_037_specialwizard",
-            "hand_077_specialwand"
+            "hand_077_specialwand",
+            "head_034_specialwizardhat"
         ]
     },
     {
@@ -341,17 +333,6 @@
         },
         "limit": 1,
         "items": [
-            "head_022_construction_yellow",
-            "leg_017_overalls_darkblack",
-            "body_024_overalls_darkpurple",
-            "leg_017_overalls_darkblack",
-            "leg_017_overalls_darkblue",
-            "leg_017_overalls_darkgreen",
-            "leg_017_overalls_darkorange",
-            "leg_017_overalls_darkpink",
-            "leg_017_overalls_darkpurple",
-            "leg_017_overalls_darkred",
-            "leg_017_overalls_darkyellow",
             "body_024_overalls_darkblack",
             "body_024_overalls_darkblue",
             "body_024_overalls_darkgreen",
@@ -359,7 +340,16 @@
             "body_024_overalls_darkpink",
             "body_024_overalls_darkpurple",
             "body_024_overalls_darkred",
-            "body_024_overalls_darkyellow"
+            "body_024_overalls_darkyellow",
+            "head_022_construction_yellow",
+            "leg_017_overalls_darkblack",
+            "leg_017_overalls_darkblue",
+            "leg_017_overalls_darkgreen",
+            "leg_017_overalls_darkorange",
+            "leg_017_overalls_darkpink",
+            "leg_017_overalls_darkpurple",
+            "leg_017_overalls_darkred",
+            "leg_017_overalls_darkyellow"
         ]
     },
     {
@@ -372,8 +362,8 @@
         },
         "limit": 1,
         "items": [
-            "hand_020_pickaxe",
-            "feet_005_boots_black"
+            "feet_005_boots_black",
+            "hand_020_pickaxe"
         ]
     },
     {
@@ -412,19 +402,7 @@
         },
         "limit": 1,
         "items": [
-            "head_022_construction_yellow",
-            "leg_017_overalls_darkblack",
-            "body_024_overalls_darkpurple",
-            "feet_005_boots_black",
             "addon_012_neonvest",
-            "leg_017_overalls_darkblack",
-            "leg_017_overalls_darkblue",
-            "leg_017_overalls_darkgreen",
-            "leg_017_overalls_darkorange",
-            "leg_017_overalls_darkpink",
-            "leg_017_overalls_darkpurple",
-            "leg_017_overalls_darkred",
-            "leg_017_overalls_darkyellow",
             "body_024_overalls_darkblack",
             "body_024_overalls_darkblue",
             "body_024_overalls_darkgreen",
@@ -432,7 +410,17 @@
             "body_024_overalls_darkpink",
             "body_024_overalls_darkpurple",
             "body_024_overalls_darkred",
-            "body_024_overalls_darkyellow"
+            "body_024_overalls_darkyellow",
+            "feet_005_boots_black",
+            "head_022_construction_yellow",
+            "leg_017_overalls_darkblack",
+            "leg_017_overalls_darkblue",
+            "leg_017_overalls_darkgreen",
+            "leg_017_overalls_darkorange",
+            "leg_017_overalls_darkpink",
+            "leg_017_overalls_darkpurple",
+            "leg_017_overalls_darkred",
+            "leg_017_overalls_darkyellow"
         ]
     },
     {
@@ -458,8 +446,8 @@
         },
         "limit": 1,
         "items": [
-            "head_021_graduation_blue",
-            "body_023_graduation_blue"
+            "body_023_graduation_blue",
+            "head_021_graduation_blue"
         ]
     },
     {
@@ -472,8 +460,8 @@
         },
         "limit": 1,
         "items": [
-            "head_021_graduation_black",
-            "body_023_graduation_black"
+            "body_023_graduation_black",
+            "head_021_graduation_black"
         ]
     },
     {
@@ -486,10 +474,10 @@
         },
         "limit": 25,
         "items": [
-            "leg_014_minion",
-            "neck_001_scarf_black",
             "addon_004_bigjacket_black",
-            "hand_084_loudhailer"
+            "hand_084_loudhailer",
+            "leg_014_minion",
+            "neck_001_scarf_black"
         ]
     },
     {
@@ -543,9 +531,9 @@
         },
         "limit": 1,
         "items": [
+            "body_011_council",
             "leg_016_astronaut_blue",
-            "leg_016_astronaut_orange",
-            "body_011_council"
+            "leg_016_astronaut_orange"
         ]
     },
     {
@@ -572,7 +560,6 @@
         },
         "limit": 5,
         "items": [
-            "hand_029_flag_white",
             "hand_029_flag_black",
             "hand_029_flag_blue",
             "hand_029_flag_green",
@@ -594,7 +581,6 @@
         },
         "limit": 1,
         "items": [
-            "pet_022_alien_purple",
             "background_014_outerspace",
             "pet_022_alien_black",
             "pet_022_alien_blue",
@@ -710,7 +696,6 @@
         },
         "limit": 2,
         "items": [
-            "head_038_headphoneswithmic_purple",
             "head_038_headphoneswithmic_blue",
             "head_038_headphoneswithmic_green",
             "head_038_headphoneswithmic_orange",
