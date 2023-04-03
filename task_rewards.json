@@ -1,5 +1,6 @@
 [
     {
+        "agency": "DSAID",
         "code": "EN-01",
         "category": "Engagement",
         "task": "Join WOG Data Science Workplace group",
@@ -12,6 +13,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "EN-02",
         "category": "Engagement",
         "task": "Subscribe to DSC Spark mailing list",
@@ -26,6 +28,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "EN-03",
         "category": "Engagement",
         "task": "Contribute Quick-Fire video",
@@ -39,6 +42,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "TR-01",
         "category": "Training",
         "task": "Attend Workshop (test drive, upskilling initiative etc)",
@@ -51,6 +55,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "TR-02",
         "category": "Training",
         "task": "Attend Masterclass",
@@ -71,6 +76,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "TR-03",
         "category": "Training",
         "task": "Complete Data Literacy ePrimer Modules",
@@ -87,6 +93,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DSAID-01",
         "category": "DSAID",
         "task": "Attend GovTech's DSAID Roadshow",
@@ -99,6 +106,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DSAID-02",
         "category": "DSAID",
         "task": "Complete GovTech's DSAID Roadshow feedback form",
@@ -115,6 +123,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DSC-01",
         "category": "DSC",
         "task": "Register for Data Science Connect #25",
@@ -130,6 +139,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DSC-02",
         "category": "DSC",
         "task": "Attend Data Science Connect #25",
@@ -151,6 +161,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DSC-03",
         "category": "DSC",
         "task": "Complete Data Science Connect feedback form",
@@ -161,6 +172,7 @@
         "items": []
     },
     {
+        "agency": "DSAID",
         "code": "DSC-04",
         "category": "DSC",
         "task": "Register for STACK Data & AI Mini Conference",
@@ -175,6 +187,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DSC-05",
         "category": "DSC",
         "task": "Attend STACK Data & AI Mini Conference",
@@ -187,6 +200,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DSC-06",
         "category": "DSC",
         "task": "Complete STACK Data & AI Mini Conference feedback form",
@@ -197,6 +211,7 @@
         "items": []
     },
     {
+        "agency": "DSAID",
         "code": "DSC-07",
         "category": "DSC",
         "task": "Register for Data Science Connect #26 x DAT2023 Finale",
@@ -227,6 +242,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DAT-01",
         "category": "DAT",
         "task": "Register for Data VIZard 2023",
@@ -258,6 +274,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DAT-02",
         "category": "DAT",
         "task": "Submit Entry for Data VIZard 2023",
@@ -287,6 +304,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DAT-03",
         "category": "DAT",
         "task": "Achieve Top 10 Teams in Data VIZard",
@@ -301,6 +319,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DAT-04",
         "category": "DAT",
         "task": "Achieve Top 5 Teams in Data VIZard",
@@ -313,6 +332,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DATX-01",
         "category": "DAT X",
         "task": "Register for ImpactiVIZ 2023",
@@ -343,6 +363,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DATX-02",
         "category": "DAT X",
         "task": "Submit Entry for ImpactiVIZ 2023",
@@ -356,6 +377,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DATX-03",
         "category": "DAT X",
         "task": "Achieve Top DATx Team in Agency",
@@ -368,6 +390,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DATX-04",
         "category": "DAT X",
         "task": "Achieve Top 5 Teams in ImpactiVIZ 2023",
@@ -380,6 +403,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DATX-05",
         "category": "DAT X",
         "task": "Organising Committee of ImpactiVIZ 2023",
@@ -412,6 +436,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DCBC-01",
         "category": "DC Bootcamp",
         "task": "Register for DC Bootcamp 2023",
@@ -424,6 +449,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DCBC-02",
         "category": "DC Bootcamp",
         "task": "Graduate from DC Bootcamp (Certified) 2023",
@@ -437,6 +463,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DCBC-03",
         "category": "DC Bootcamp",
         "task": "Graduate from DC Bootcamp X",
@@ -450,6 +477,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DCBC-04",
         "category": "DC Bootcamp",
         "task": "Volunteer as DC Bootcamp X Trainer (weekly basis)",
@@ -465,6 +493,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DCBC-05",
         "category": "DC Bootcamp",
         "task": "Volunteer as DC Bootcamp X Coordinator",
@@ -479,6 +508,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DCBC-06",
         "category": "DC Bootcamp",
         "task": "Peer review for DC Bootcamp (segment basis)",
@@ -491,6 +521,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "DCBC-07",
         "category": "DC Bootcamp",
         "task": "Active contribution to DC Bootcamp community (segment basis)",
@@ -503,6 +534,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "LP-01",
         "category": "Ideathon",
         "task": "Sign in to Launchpad",
@@ -517,6 +549,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "LP-02",
         "category": "Ideathon",
         "task": "Vote for an Ideathon entry",
@@ -530,6 +563,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "LP-03",
         "category": "Ideathon",
         "task": "Submit an entry for Ideathon",
@@ -551,6 +585,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "LP-04",
         "category": "Ideathon",
         "task": "Achieve Top 10 'Community's Favourite' entries",
@@ -572,6 +607,7 @@
         ]
     },
     {
+        "agency": "DSAID",
         "code": "LP-05",
         "category": "Ideathon",
         "task": "Achieve 'Idea of the Month' entry",
@@ -581,6 +617,120 @@
         "limit": 1,
         "items": [
             "back_004_lightyear"
+        ]
+    },
+    {
+        "agency": "MOM",
+        "code": "DTDXMOM-01",
+        "category": "MOM Data Community",
+        "task": "Organising Committee of MOM DataBuds (1-year term).",
+        "points": {
+            "datadex_2023": 3000
+        },
+        "limit": 1,
+        "items": [
+            "pet_079_locker"
+        ]
+    },
+    {
+        "agency": "MOM",
+        "code": "DTDXMOM-02",
+        "category": "MOM Data Community",
+        "task": "Volunteer to host sharing, training, hackathon on data analytics topic. E.g. MOM DataBuds session, MOM Data Lab workshop. Duration of session must be more than 1-hour (inclusive of activities); content creation can be co-shared up to 2 pax. 2000 points will be awarded per session & pax.",
+        "points": {
+            "datadex_2023": 2000
+        },
+        "limit": 2,
+        "items": []
+    },
+    {
+        "agency": "MOM",
+        "code": "DTDXMOM-03",
+        "category": "MOM Data Community",
+        "task": "Attend sharing session or training session on data analytics topic organised by MOM. E.g. MOM DataBuds sessions, MOM Data Lab workshop, MOM Tableau Brown Bag sessions. To validate participation, participant must complete feedback form for the initiative. 1000 points will be awarded per session.",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 5,
+        "items": []
+    },
+    {
+        "agency": "MOM",
+        "code": "DTDXMOM-04",
+        "category": "MOM Data Community",
+        "task": "Active Contributor in MOM Data Community MS Team - Contribute an article read or video watched on data analytics related topics (include 1-2 lines of key takeways in the post) in \"Bytes of Knowledge\" channel or address the question/enquiry posted in \"Ask-Me-Anything\" channel each month (from Feb to Oct). 500 points will be awarded per post/completed action, limit to once per month.",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 2,
+        "items": []
+    },
+    {
+        "agency": "MOM",
+        "code": "DTDXMOM-05",
+        "category": "MOM Data Community",
+        "task": "Attend MOM DataViz Day 2023. To validate participation, participant must complete feedback form for the initiative.",
+        "points": {
+            "datadex_2023": 1500
+        },
+        "limit": 1,
+        "items": []
+    },
+    {
+        "agency": "MOM",
+        "code": "DTDXMOM-06",
+        "category": "MOM Data Community",
+        "task": "Submit entry for Data Tournament organised by MOM e.g. 'MOMers Finding Insights 2023'",
+        "points": {
+            "datadex_2023": 1500
+        },
+        "limit": 1,
+        "items": []
+    },
+    {
+        "agency": "MOM",
+        "code": "DTDXMOM-07",
+        "category": "Tableau Server",
+        "task": "Publish a dashboard on MOM Tableau Server with at least 10 unique viewers. 1000 point will be awarded per published dashboard.",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 2,
+        "items": [
+            "hand_085_walkietalkie"
+        ]
+    },
+    {
+        "agency": "MOM",
+        "code": "DTDXMOM-08",
+        "category": "Tableau Server",
+        "task": "Complete Tableau tutorial (inclusive of homework) organised by MOM. 500 points will be awarded per tutorial. Contact person - Ho Wee Peng.",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 2,
+        "items": [
+            "head_038_headphoneswithmic_purple",
+            "head_038_headphoneswithmic_blue",
+            "head_038_headphoneswithmic_green",
+            "head_038_headphoneswithmic_orange",
+            "head_038_headphoneswithmic_pink",
+            "head_038_headphoneswithmic_purple",
+            "head_038_headphoneswithmic_red",
+            "head_038_headphoneswithmic_yellow"
+        ]
+    },
+    {
+        "agency": "MOM",
+        "code": "DTDXMOM-09",
+        "category": "Adhoc",
+        "task": "Participate in Tableau Blueprint Assessment",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 1,
+        "items": [
+            "body_040_designerteecross"
         ]
     }
 ]

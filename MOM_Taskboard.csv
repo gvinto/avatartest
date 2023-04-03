@@ -1,0 +1,13 @@
+Code,Initiative,Task,Wearable,Item Name,Full Outfit,Marketing Message,Points,Max Count,Max Points
+DTDXMOM-01,MOM Data Community,Organising Committee of MOM DataBuds (1-year term).,locker,pet_079_locker,,,3000,1,3000
+DTDXMOM-02,MOM Data Community,"Volunteer to host sharing, training, hackathon on data analytics topic. E.g. MOM DataBuds session, MOM Data Lab workshop. Duration of session must be more than 1-hour (inclusive of activities); content creation can be co-shared up to 2 pax. 2000 points will be awarded per session & pax.",dark blue vest,,,,2000,2,4000
+DTDXMOM-03,MOM Data Community,"Attend sharing session or training session on data analytics topic organised by MOM. E.g. MOM DataBuds sessions, MOM Data Lab workshop, MOM Tableau Brown Bag sessions. To validate participation, participant must complete feedback form for the initiative. 1000 points will be awarded per session.",calculator,,,,1000,5,5000
+DTDXMOM-04,MOM Data Community,"Active Contributor in MOM Data Community MS Team - Contribute an article read or video watched on data analytics related topics (include 1-2 lines of key takeways in the post) in ""Bytes of Knowledge"" channel or address the question/enquiry posted in ""Ask-Me-Anything"" channel each month (from Feb to Oct). 500 points will be awarded per post/completed action, limit to once per month.",measuring tape (safe management measures),,,,500,2,1000
+DTDXMOM-05,MOM Data Community,"Attend MOM DataViz Day 2023. To validate participation, participant must complete feedback form for the initiative.",handcuffs,,,,1500,1,1500
+DTDXMOM-06,MOM Data Community,Submit entry for Data Tournament organised by MOM e.g. 'MOMers Finding Insights 2023',white helmet,,,,1500,1,1500
+DTDXMOM-07,Tableau Server,Publish a dashboard on MOM Tableau Server with at least 10 unique viewers​. 1000 point will be awarded per published dashboard.,walkie talkie,hand_085_walkietalkie,,,1000,2,2000
+DTDXMOM-08,Tableau Server,Complete Tableau tutorial (inclusive of homework) organised by MOM. 500 points will be awarded per tutorial. Contact person - Ho Wee Peng.,headphone with mic,"head_038_headphoneswithmic_purple
+<plus all the other colours>",,,500,2,1000
+DTDXMOM-09,Adhoc,Participate in Tableau Blueprint Assessment,special blue tshirt with a white cross (like tableau's logo?),body_040_designerteecross,,,1000,1,1000
+,,,,,,,,,
+,,,,,,,,Total,20000
