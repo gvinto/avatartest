@@ -153,6 +153,8 @@
     "background_014_outerspace": "Explore the universe with this out-of-this-world background!",
     "background_015_homegym": "No gym? No problem! Work out at home with this background!",
     "background_016_japan": "Transport yourself to Japan with this background!",
+    "background_017_bigmoon": "Shoot for the moon and land among the stars.",
+    "background_018_dungeon": "Explore the depths of the dungeon.",
     "base_bear": "Because who doesn't want to be a bear?",
     "base_f_001": "A great starting point for a female character",
     "base_f_002": "A great starting point for a female character",
@@ -1259,5 +1261,6 @@
     "pet_090_paintingscream": "Your pet's new scream-worthy masterpiece.",
     "pet_091_specialtoycar_blue": "Your pet will race to play with this toy car.",
     "pet_091_specialtoycar_green": "Green means go for your pet and this toy car.",
-    "pet_091_specialtoycar_red": "This toy car is sure to rev up your pet's playtime."
+    "pet_091_specialtoycar_red": "This toy car is sure to rev up your pet's playtime.",
+    "pet_092_typicalalien": "It's not just a phase, Mom! I'm an alien!"
 }

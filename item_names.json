@@ -152,6 +152,8 @@
     "background_014_outerspace": "Galactic Gateway",
     "background_015_homegym": "Fit Haven",
     "background_016_japan": "Cherry Blossom Garden",
+    "background_017_bigmoon": "Big Moon Background",
+    "background_018_dungeon": "Dungeon Background",
     "base_bear": "Bear Base",
     "base_f_001": "Female Base 1",
     "base_f_002": "Female Base 2",
@@ -1228,5 +1230,6 @@
     "pet_090_paintingscream": "Scream Painting Pet",
     "pet_091_specialtoycar_blue": "Blue Toy Car Pet",
     "pet_091_specialtoycar_green": "Green Toy Car Pet",
-    "pet_091_specialtoycar_red": "Red Toy Car Pet"
+    "pet_091_specialtoycar_red": "Red Toy Car Pet",
+    "pet_092_typicalalien": "Typical Alien Pet"
 }

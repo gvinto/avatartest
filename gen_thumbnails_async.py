@@ -57,8 +57,8 @@ def generate_thumbnail(base_img_copy, item_id: str) -> Image:
         item_img.paste(base_img, None, base_img)
         base_img = item_img
 
-    # don't include base layer for pet thumbnails
-    elif item_id.startswith('pet'):
+    # don't include base layer for pet thumbnails and bear base
+    elif item_id.startswith('pet') or item_id=='base_bear':
         base_img = item_img
 
     else:

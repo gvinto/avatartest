@@ -868,6 +868,20 @@
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_016_japan.png"
     },
     {
+        "item_id": "background_017_bigmoon",
+        "item_type": "background",
+        "item_name": "Big Moon Background",
+        "item_description": "Shoot for the moon and land among the stars.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_017_bigmoon.png"
+    },
+    {
+        "item_id": "background_018_dungeon",
+        "item_type": "background",
+        "item_name": "Dungeon Background",
+        "item_description": "Explore the depths of the dungeon.",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/background_018_dungeon.png"
+    },
+    {
         "item_id": "back_001_angelwings_black",
         "item_type": "back",
         "item_name": "Black Angel Wings",
@@ -8489,5 +8503,12 @@
         "item_name": "Red Toy Car Pet",
         "item_description": "This toy car is sure to rev up your pet's playtime.",
         "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_091_specialtoycar_red.png"
+    },
+    {
+        "item_id": "pet_092_typicalalien",
+        "item_type": "pet",
+        "item_name": "Typical Alien Pet",
+        "item_description": "It's not just a phase, Mom! I'm an alien!",
+        "item_thumbnail": "http://ds1p0td0v622j.cloudfront.net/thumbnails/pet_092_typicalalien.png"
     }
 ]
