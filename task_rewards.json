@@ -9,7 +9,10 @@
         },
         "limit": 1,
         "items": [
-            "tshirt too small to draw details"
+            "ear_003_elfear1",
+            "ear_003_elfear2",
+            "ear_003_elfear3",
+            "ear_003_elfear4"
         ]
     },
     {
@@ -167,13 +170,15 @@
             "datadex_2023": 1000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "background_005_lab"
+        ]
     },
     {
         "agency": "DSAID",
         "code": "DSC-04",
         "category": "DSC",
-        "task": "Register for STACK Data & AI Mini Conference",
+        "task": "Register for STACKx: Data & AI",
         "points": {
             "datadex_2023": 500
         },
@@ -188,7 +193,7 @@
         "agency": "DSAID",
         "code": "DSC-05",
         "category": "DSC",
-        "task": "Attend STACK Data & AI Mini Conference",
+        "task": "Attend STACKx: Data & AI",
         "points": {
             "datadex_2023": 2000
         },
@@ -201,12 +206,14 @@
         "agency": "DSAID",
         "code": "DSC-06",
         "category": "DSC",
-        "task": "Complete STACK Data & AI Mini Conference feedback form",
+        "task": "Complete STACKx: Data & AI feedback form",
         "points": {
             "datadex_2023": 1000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "background_017_bigmoon"
+        ]
     },
     {
         "agency": "DSAID",
@@ -320,6 +327,7 @@
         },
         "limit": 1,
         "items": [
+            "background_018_dungeon",
             "pet_078_eyetower"
         ]
     },
@@ -499,7 +507,7 @@
         "agency": "DSAID",
         "code": "DCBC-06",
         "category": "DC Bootcamp",
-        "task": "Peer review for DC Bootcamp (segment basis)",
+        "task": "Peer review for DC Bootcamp (segment basis) *must be alumni or observer / audit",
         "points": {
             "datadex_2023": 500
         },
@@ -512,7 +520,7 @@
         "agency": "DSAID",
         "code": "DCBC-07",
         "category": "DC Bootcamp",
-        "task": "Active contribution to DC Bootcamp community (segment basis)",
+        "task": "Active contribution to DC Bootcamp community (segment basis) *observer / audit",
         "points": {
             "datadex_2023": 500
         },

@@ -30,6 +30,9 @@ def read_taskboard_csv(filename:str, agency:str = 'DSAID'):
             if not row[COL_CODE] or "Code" in row[COL_CODE]: #"Initiative" in row[COL_INITIATIVE] or "Adhoc" in row[COL_INITIATIVE] or row[COL_INITIATIVE].startswith("â€‹") or "Varies" in row[COL_POINTS]:
                 continue
 
+            if not row[COL_ITEMS] and not row[COL_POINTS]:
+                continue
+
             #extract list of items
             item_ids = clean(row[COL_ITEMS]).split('\n')
             item_ids = [item.strip() for item in item_ids]
