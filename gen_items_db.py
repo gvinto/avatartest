@@ -154,7 +154,7 @@ def main():
         
         # item_descriptions[item_id] = 'Description_text'
 
-    print(items_db)
+    # print(items_db)
 
     items_db_json_object = json.dumps(items_db, indent=4)
     
