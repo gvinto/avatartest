@@ -1,6 +1,6 @@
 [
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "EN-01",
         "category": "Engagement",
         "task": "Join WOG Data Science Workplace group",
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "EN-02",
         "category": "Engagement",
         "task": "Subscribe to DSC Spark mailing list",
@@ -31,7 +31,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "EN-03",
         "category": "Engagement",
         "task": "Contribute Quick-Fire video",
@@ -45,7 +45,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "TR-01",
         "category": "Training",
         "task": "Attend Workshop (test drive, upskilling initiative etc)",
@@ -58,7 +58,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "TR-02",
         "category": "Training",
         "task": "Attend Masterclass",
@@ -78,7 +78,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "TR-03",
         "category": "Training",
         "task": "Complete Data Literacy ePrimer Modules",
@@ -95,7 +95,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DSAID-01",
         "category": "DSAID",
         "task": "Attend GovTech's DSAID Roadshow",
@@ -108,7 +108,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DSAID-02",
         "category": "DSAID",
         "task": "Complete GovTech's DSAID Roadshow feedback form",
@@ -125,7 +125,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DSC-01",
         "category": "DSC",
         "task": "Register for Data Science Connect #25",
@@ -141,7 +141,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DSC-02",
         "category": "DSC",
         "task": "Attend Data Science Connect #25",
@@ -162,7 +162,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DSC-03",
         "category": "DSC",
         "task": "Complete Data Science Connect feedback form",
@@ -175,7 +175,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DSC-04",
         "category": "DSC",
         "task": "Register for STACKx: Data & AI",
@@ -190,7 +190,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DSC-05",
         "category": "DSC",
         "task": "Attend STACKx: Data & AI",
@@ -203,7 +203,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DSC-06",
         "category": "DSC",
         "task": "Complete STACKx: Data & AI feedback form",
@@ -216,7 +216,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DSC-07",
         "category": "DSC",
         "task": "Register for Data Science Connect #26 x DAT2023 Finale",
@@ -245,7 +245,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DAT-01",
         "category": "DAT",
         "task": "Register for Data VIZard 2023",
@@ -275,7 +275,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DAT-02",
         "category": "DAT",
         "task": "Submit Entry for Data VIZard 2023",
@@ -303,7 +303,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DAT-03",
         "category": "DAT",
         "task": "Achieve Top 10 Teams in Data VIZard",
@@ -318,7 +318,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DAT-04",
         "category": "DAT",
         "task": "Achieve Top 5 Teams in Data VIZard",
@@ -332,7 +332,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DATX-01",
         "category": "DAT X",
         "task": "Register for ImpactiVIZ 2023",
@@ -361,7 +361,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DATX-02",
         "category": "DAT X",
         "task": "Submit Entry for ImpactiVIZ 2023",
@@ -375,7 +375,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DATX-03",
         "category": "DAT X",
         "task": "Achieve Top DATx Team in Agency",
@@ -388,7 +388,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DATX-04",
         "category": "DAT X",
         "task": "Achieve Top 5 Teams in ImpactiVIZ 2023",
@@ -401,7 +401,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DATX-05",
         "category": "DAT X",
         "task": "Organising Committee of ImpactiVIZ 2023",
@@ -432,7 +432,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DCBC-01",
         "category": "DC Bootcamp",
         "task": "Register for DC Bootcamp 2023",
@@ -445,7 +445,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DCBC-02",
         "category": "DC Bootcamp",
         "task": "Graduate from DC Bootcamp (Certified) 2023",
@@ -459,7 +459,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DCBC-03",
         "category": "DC Bootcamp",
         "task": "Graduate from DC Bootcamp X",
@@ -473,7 +473,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DCBC-04",
         "category": "DC Bootcamp",
         "task": "Volunteer as DC Bootcamp X Trainer (weekly basis)",
@@ -489,7 +489,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DCBC-05",
         "category": "DC Bootcamp",
         "task": "Volunteer as DC Bootcamp X Coordinator",
@@ -504,7 +504,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DCBC-06",
         "category": "DC Bootcamp",
         "task": "Peer review for DC Bootcamp (segment basis) *must be alumni or observer / audit",
@@ -517,7 +517,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "DCBC-07",
         "category": "DC Bootcamp",
         "task": "Active contribution to DC Bootcamp community (segment basis) *observer / audit",
@@ -530,7 +530,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "LP-01",
         "category": "Ideathon",
         "task": "Sign in to Launchpad",
@@ -545,7 +545,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "LP-02",
         "category": "Ideathon",
         "task": "Vote for an Ideathon entry",
@@ -559,7 +559,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "LP-03",
         "category": "Ideathon",
         "task": "Submit an entry for Ideathon",
@@ -580,7 +580,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "LP-04",
         "category": "Ideathon",
         "task": "Achieve Top 10 'Community's Favourite' entries",
@@ -601,7 +601,7 @@
         ]
     },
     {
-        "agency": "DSAID",
+        "agency": "Main",
         "code": "LP-05",
         "category": "Ideathon",
         "task": "Achieve 'Idea of the Month' entry",

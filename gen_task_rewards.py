@@ -18,7 +18,7 @@ def all_color_variations(item_id:str) -> list:
     variation_items = [pathlib.PurePath(file).stem for file in variation_files]
     return variation_items
 
-def read_taskboard_csv(filename:str, agency:str = 'DSAID'):
+def read_taskboard_csv(filename:str, agency:str = 'Main'):
     agency_task_rewards = []
     agency_invalid_items = []
 
