@@ -9,8 +9,9 @@ EN-03,Engagement,Contribute Quick-Fire video​,"Campfire
 Forest Background","pet_026_campfire
 background_008_forest
 ",,,7000,3,21000,,,,,,
-EN-04,Engagement,Complete Datadex Diaries 2022,diary,,,,,,,,,,,,
-EN-05,Engagement,Organising Committee of Datadex X 2023,pokedex,,,,,,,,,,,,
+EN-04,Engagement,Complete Datadex Diaries 2022,diary,"pet_020_owl
+<plus all the other colours>",,,10000,1,10000,,,,,,
+EN-05,Engagement,Organising Committee of Datadex X 2023,pokedex,hand_900_pokedex,,,10000,1,10000,,,,,,
 TR-01,Training,"Attend Workshop (test drive, upskilling initiative etc)",Smiley Shirt,body_013_designerteesmiley,,,2500,3,7500,,,,Voucher,Quantity,Total
 TR-02,Training,Attend Masterclass,Big Specs,"eye_002_bigspecs_black 
 <plus all the other colours>",,,2500,3,7500,,,,,,
@@ -101,8 +102,10 @@ pet_041_ministudentboy
 pet_042_ministudentgirl
 
 ",,,10000,1,10000,,,,,,
-DCBC-06,DC Bootcamp,Peer review for DC Bootcamp (segment basis) *must be alumni or observer / audit  ,prefect tie,neck_010_prefecttie,,,500,4,2000,,,,,,
-DCBC-07,DC Bootcamp,Active contribution to DC Bootcamp community (segment basis) *observer / audit,whip,hand_008_whip,,,500,4,2000,,,,,,
+DCBC-06,DC Bootcamp,"Peer review for DC Bootcamp (segment basis) 
+*must be alumni or observer / audit  ",prefect tie,neck_010_prefecttie,,,500,4,2000,,,,,,
+DCBC-07,DC Bootcamp,"Active contribution to DC Bootcamp community (segment basis)
+*observer / audit",whip,hand_008_whip,,,500,4,2000,,,,,,
 LP-01,Ideathon,Sign in to Launchpad,astronaut suit,"leg_016_astronaut_blue
 leg_016_astronaut_orange
 body_011_council",,"Ground control to Major Dev! Like David Bowie's iconic song, the Launchpad collection takes a dive into deep space by gearing you up with everything you need from ground control. This collection culminates in a bid for the coveted centrepiece - Buzz Lightyear wings!",500,1,500,,,,,,

@@ -46,6 +46,34 @@
     },
     {
         "agency": "Main",
+        "code": "EN-04",
+        "category": "Engagement",
+        "task": "Complete Datadex Diaries 2022",
+        "points": {
+            "datadex_2023": 10000
+        },
+        "limit": 1,
+        "items": [
+            "pet_020_owl",
+            "pet_020_owl_blue",
+            "pet_020_owl_white"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "EN-05",
+        "category": "Engagement",
+        "task": "Organising Committee of Datadex X 2023",
+        "points": {
+            "datadex_2023": 10000
+        },
+        "limit": 1,
+        "items": [
+            "hand_900_pokedex"
+        ]
+    },
+    {
+        "agency": "Main",
         "code": "TR-01",
         "category": "Training",
         "task": "Attend Workshop (test drive, upskilling initiative etc)",
@@ -507,7 +535,7 @@
         "agency": "Main",
         "code": "DCBC-06",
         "category": "DC Bootcamp",
-        "task": "Peer review for DC Bootcamp (segment basis) *must be alumni or observer / audit",
+        "task": "Peer review for DC Bootcamp (segment basis) \n*must be alumni or observer / audit",
         "points": {
             "datadex_2023": 500
         },
@@ -520,7 +548,7 @@
         "agency": "Main",
         "code": "DCBC-07",
         "category": "DC Bootcamp",
-        "task": "Active contribution to DC Bootcamp community (segment basis) *observer / audit",
+        "task": "Active contribution to DC Bootcamp community (segment basis)\n*observer / audit",
         "points": {
             "datadex_2023": 500
         },
