@@ -48,6 +48,7 @@ def read_taskboard_csv(filename:str, agency:str = 'Main'):
                 elif item not in db_items:
                     agency_invalid_items.append(item)
                     item_ids.remove(item)
+
             print(row)
             task = {
                     "agency": agency,
@@ -61,6 +62,10 @@ def read_taskboard_csv(filename:str, agency:str = 'Main'):
                     "items": sorted(list(set(item_ids)))
                 }
             
+            # Hijack to hide all reward items except for launchpad items
+            if not task["code"].startswith("LP-") and not task["agency"] == 'MOM':
+                task['items'] = []
+
             agency_task_rewards.append(task)
         
         return agency_task_rewards,agency_invalid_items
