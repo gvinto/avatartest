@@ -3,9 +3,9 @@ import json, csv, glob, pathlib
 COL_CODE = 0
 COL_INITIATIVE = 1
 COL_TASK = 2
-COL_ITEMS = 4
-COL_POINTS = 7
-COL_LIMIT = 8
+COL_ITEMS = 5
+COL_POINTS = 8
+COL_LIMIT = 9
 
 db_items = []
 
@@ -48,7 +48,7 @@ def read_taskboard_csv(filename:str, agency:str = 'Main'):
                 elif item not in db_items:
                     agency_invalid_items.append(item)
                     item_ids.remove(item)
-
+            print(row)
             task = {
                     "agency": agency,
                     "code": clean(row[COL_CODE]),

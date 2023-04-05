@@ -510,10 +510,11 @@
         },
         "limit": 25,
         "items": [
-            "addon_004_bigjacket_black",
+            "body_005_jacket_black",
             "hand_084_loudhailer",
-            "leg_014_minion",
-            "neck_001_scarf_black"
+            "leg_017_overalls_darkblack",
+            "neck_001_scarf_black",
+            "pet_019_minion"
         ]
     },
     {
