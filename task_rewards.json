@@ -468,7 +468,9 @@
             "datadex_2023": 2000
         },
         "limit": 2,
-        "items": []
+        "items": [
+            "addon_004_bigjacket_blue"
+        ]
     },
     {
         "agency": "MOM",
@@ -479,7 +481,9 @@
             "datadex_2023": 1000
         },
         "limit": 5,
-        "items": []
+        "items": [
+            "hand_064_calculator"
+        ]
     },
     {
         "agency": "MOM",
@@ -490,7 +494,9 @@
             "datadex_2023": 500
         },
         "limit": 2,
-        "items": []
+        "items": [
+            "hand_048_measuringtape"
+        ]
     },
     {
         "agency": "MOM",
@@ -501,7 +507,9 @@
             "datadex_2023": 1500
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "addon_003_handcuffs"
+        ]
     },
     {
         "agency": "MOM",
@@ -512,7 +520,9 @@
             "datadex_2023": 1500
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "head_022_construction_white"
+        ]
     },
     {
         "agency": "MOM",

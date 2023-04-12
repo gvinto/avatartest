@@ -67,7 +67,7 @@ def generate_thumbnail(base_img_copy, item_id: str) -> Image:
     crop_img = base_img.crop(margin_bbox)
 
     background = Image.new(
-        "RGBA", crop_img.size, "#FFFFFF"
+        "RGBA", crop_img.size
     )  # Create a white rgba background
     try:
         background.paste(crop_img, (0, 0), crop_img)

@@ -60,7 +60,7 @@ async def main():
         LOG.info(f'Uploading items_db.json...')
         tasks.append(asyncio.ensure_future(upload(s3, 'items_db.json', 'items_db.json', bucket_name, 'avatar/config/')))
 
-        # Upload items_db.json
+        # Upload task_rewards.json
         LOG.info(f'Uploading task_rewards.json...')
         tasks.append(asyncio.ensure_future(upload(s3, 'task_rewards.json', 'task_rewards.json', bucket_name, 'avatar/config/')))
 

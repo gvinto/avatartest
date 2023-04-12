@@ -1,11 +1,11 @@
 import json, csv, glob, pathlib
 
 COL_CODE = 0
-COL_INITIATIVE = 1
-COL_TASK = 2
-COL_ITEMS = 5
-COL_POINTS = 8
-COL_LIMIT = 9
+COL_INITIATIVE = 2
+COL_TASK = 3
+COL_ITEMS = 6
+COL_POINTS = 9
+COL_LIMIT = 10
 
 db_items = []
 
