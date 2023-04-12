@@ -63,8 +63,8 @@ def read_taskboard_csv(filename:str, agency:str = 'Main'):
                 }
             
             # Hijack to hide all reward items except for launchpad items
-            if not task["code"].startswith("LP-") and not task["agency"] == 'MOM':
-                task['items'] = []
+            # if not task["code"].startswith("LP-") and not task["agency"] == 'MOM':
+            #     task['items'] = []
 
             agency_task_rewards.append(task)
         

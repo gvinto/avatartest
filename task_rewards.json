@@ -8,7 +8,12 @@
             "datadex_2023": 500
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "ear_003_elfear1",
+            "ear_003_elfear2",
+            "ear_003_elfear3",
+            "ear_003_elfear4"
+        ]
     },
     {
         "agency": "Main",
@@ -19,7 +24,16 @@
             "datadex_2023": 500
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "eye_004_shades_black",
+            "eye_004_shades_blue",
+            "eye_004_shades_green",
+            "eye_004_shades_orange",
+            "eye_004_shades_pink",
+            "eye_004_shades_purple",
+            "eye_004_shades_red",
+            "eye_004_shades_yellow"
+        ]
     },
     {
         "agency": "Main",
@@ -30,7 +44,9 @@
             "datadex_2023": 7000
         },
         "limit": 3,
-        "items": []
+        "items": [
+            "hand_024_bomb"
+        ]
     },
     {
         "agency": "Main",
@@ -41,7 +57,9 @@
             "datadex_2023": 10000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "hand_900_pokedex"
+        ]
     },
     {
         "agency": "Main",
@@ -52,7 +70,9 @@
             "datadex_2023": 10000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "addon_012_neonvest"
+        ]
     },
     {
         "agency": "Main",
@@ -63,7 +83,17 @@
             "datadex_2023": 2500
         },
         "limit": 3,
-        "items": []
+        "items": [
+            "hand_033_balloon_black",
+            "hand_033_balloon_blue",
+            "hand_033_balloon_green",
+            "hand_033_balloon_orange",
+            "hand_033_balloon_pink",
+            "hand_033_balloon_purple",
+            "hand_033_balloon_red",
+            "hand_033_balloon_white",
+            "hand_033_balloon_yellow"
+        ]
     },
     {
         "agency": "Main",
@@ -74,7 +104,13 @@
             "datadex_2023": 2500
         },
         "limit": 3,
-        "items": []
+        "items": [
+            "hand_073_lighsabre_blue",
+            "hand_073_lighsabre_green",
+            "hand_073_lighsabre_purple",
+            "hand_073_lighsabre_red",
+            "hand_073_lighsabre_yellow"
+        ]
     },
     {
         "agency": "Main",
@@ -85,7 +121,14 @@
             "datadex_2023": 5000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "pet_067_datamascot",
+            "pet_068_eprimerguy",
+            "pet_069_eprimerboss",
+            "pet_070_eprimerbusinessanalyst",
+            "pet_071_eprimerprojectlead",
+            "pet_072_eprimerdatascientist"
+        ]
     },
     {
         "agency": "Main",
@@ -96,7 +139,9 @@
             "datadex_2023": 1000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "hand_083_racingflag"
+        ]
     },
     {
         "agency": "Main",
@@ -107,7 +152,13 @@
             "datadex_2023": 1000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "pet_073_toycar_black",
+            "pet_073_toycar_blue",
+            "pet_073_toycar_green",
+            "pet_073_toycar_red",
+            "pet_073_toycar_white"
+        ]
     },
     {
         "agency": "Main",
@@ -118,7 +169,12 @@
             "datadex_2023": 500
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "body_009_labcoat",
+            "leg_004_jeans_black",
+            "leg_004_jeans_blue",
+            "leg_004_jeans_white"
+        ]
     },
     {
         "agency": "Main",
@@ -129,7 +185,18 @@
             "datadex_2023": 1000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "eye_011_goggles_blue",
+            "eye_011_goggles_green",
+            "eye_011_goggles_orange",
+            "eye_011_goggles_pink",
+            "eye_011_goggles_purple",
+            "eye_011_goggles_red",
+            "eye_011_goggles_yellow",
+            "hand_034_testtube_blue",
+            "hand_034_testtube_green",
+            "hand_034_testtube_red"
+        ]
     },
     {
         "agency": "Main",
@@ -140,7 +207,9 @@
             "datadex_2023": 1000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "background_005_lab"
+        ]
     },
     {
         "agency": "Main",
@@ -151,7 +220,16 @@
             "datadex_2023": 500
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "body_024_overalls_darkblack",
+            "body_024_overalls_darkblue",
+            "body_024_overalls_darkgreen",
+            "body_024_overalls_darkorange",
+            "body_024_overalls_darkpink",
+            "body_024_overalls_darkpurple",
+            "body_024_overalls_darkred",
+            "body_024_overalls_darkyellow"
+        ]
     },
     {
         "agency": "Main",
@@ -162,7 +240,9 @@
             "datadex_2023": 2000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "pet_077_extraterrestrial"
+        ]
     },
     {
         "agency": "Main",
@@ -173,7 +253,9 @@
             "datadex_2023": 1000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "background_017_bigmoon"
+        ]
     },
     {
         "agency": "Main",
@@ -184,7 +266,25 @@
             "datadex_2023": 500
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "body_004_suit_black",
+            "body_004_suit_blue",
+            "body_004_suit_green",
+            "body_004_suit_orange",
+            "body_004_suit_pink",
+            "body_004_suit_purple",
+            "body_004_suit_red",
+            "body_004_suit_yellow",
+            "body_028_sleevelesslongdress_black",
+            "body_028_sleevelesslongdress_blue",
+            "body_028_sleevelesslongdress_green",
+            "body_028_sleevelesslongdress_orange",
+            "body_028_sleevelesslongdress_pink",
+            "body_028_sleevelesslongdress_purple",
+            "body_028_sleevelesslongdress_red",
+            "body_028_sleevelesslongdress_white",
+            "body_028_sleevelesslongdress_yellow"
+        ]
     },
     {
         "agency": "Main",
@@ -195,7 +295,26 @@
             "datadex_2023": 500
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "feet_002_largeshoes_black",
+            "feet_002_largeshoes_blue",
+            "feet_002_largeshoes_green",
+            "feet_002_largeshoes_orange",
+            "feet_002_largeshoes_pink",
+            "feet_002_largeshoes_purple",
+            "feet_002_largeshoes_red",
+            "feet_002_largeshoes_white",
+            "feet_002_largeshoes_yellow",
+            "head_018_wizardhat_black",
+            "head_018_wizardhat_blue",
+            "head_018_wizardhat_green",
+            "head_018_wizardhat_orange",
+            "head_018_wizardhat_pink",
+            "head_018_wizardhat_purple",
+            "head_018_wizardhat_red",
+            "head_018_wizardhat_white",
+            "head_018_wizardhat_yellow"
+        ]
     },
     {
         "agency": "Main",
@@ -206,7 +325,24 @@
             "datadex_2023": 8000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "body_021_wizard_black",
+            "body_021_wizard_blue",
+            "body_021_wizard_green",
+            "body_021_wizard_orange",
+            "body_021_wizard_pink",
+            "body_021_wizard_purple",
+            "body_021_wizard_red",
+            "body_021_wizard_white",
+            "body_021_wizard_yellow",
+            "hand_027_wand_blue",
+            "hand_027_wand_green",
+            "hand_027_wand_orange",
+            "hand_027_wand_pink",
+            "hand_027_wand_purple",
+            "hand_027_wand_red",
+            "hand_027_wand_yellow"
+        ]
     },
     {
         "agency": "Main",
@@ -217,7 +353,11 @@
             "datadex_2023": 3000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "body_037_specialwizard",
+            "hand_077_specialwand",
+            "head_034_specialwizardhat"
+        ]
     },
     {
         "agency": "Main",
@@ -228,7 +368,10 @@
             "datadex_2023": 5000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "background_018_dungeon",
+            "pet_078_eyetower"
+        ]
     },
     {
         "agency": "Main",
@@ -239,7 +382,19 @@
             "datadex_2023": 500
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "feet_005_boots_black",
+            "feet_005_boots_blue",
+            "feet_005_boots_green",
+            "feet_005_boots_orange",
+            "feet_005_boots_pink",
+            "feet_005_boots_purple",
+            "feet_005_boots_red",
+            "feet_005_boots_white",
+            "feet_005_boots_yellow",
+            "head_022_construction_white",
+            "head_022_construction_yellow"
+        ]
     },
     {
         "agency": "Main",
@@ -250,7 +405,9 @@
             "datadex_2023": 8000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "hand_020_pickaxe"
+        ]
     },
     {
         "agency": "Main",
@@ -261,7 +418,9 @@
             "datadex_2023": 3000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "pet_076_datgold"
+        ]
     },
     {
         "agency": "Main",
@@ -272,7 +431,9 @@
             "datadex_2023": 5000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "background_012_cave"
+        ]
     },
     {
         "agency": "Main",
@@ -283,7 +444,9 @@
             "datadex_2023": 10000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "head_035_specialconstruction"
+        ]
     },
     {
         "agency": "Main",
@@ -294,7 +457,12 @@
             "datadex_2023": 500
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "addon_005_gloves_black",
+            "body_017_minion",
+            "eye_008_minion",
+            "leg_014_minion"
+        ]
     },
     {
         "agency": "Main",
@@ -305,7 +473,10 @@
             "datadex_2023": 8000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "body_023_graduation_blue",
+            "head_021_graduation_blue"
+        ]
     },
     {
         "agency": "Main",
@@ -316,7 +487,10 @@
             "datadex_2023": 9500
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "body_023_graduation_black",
+            "head_021_graduation_black"
+        ]
     },
     {
         "agency": "Main",
@@ -327,7 +501,13 @@
             "datadex_2023": 1000
         },
         "limit": 25,
-        "items": []
+        "items": [
+            "body_005_jacket_black",
+            "hand_084_loudhailer",
+            "leg_017_overalls_darkblack",
+            "neck_001_scarf_black",
+            "pet_019_minion"
+        ]
     },
     {
         "agency": "Main",
@@ -338,7 +518,13 @@
             "datadex_2023": 10000
         },
         "limit": 1,
-        "items": []
+        "items": [
+            "body_007_longdress_blue",
+            "eye_002_bigspecs_blue",
+            "hair_022_dye_orange",
+            "hand_045_lasergun",
+            "neck_001_scarf_red"
+        ]
     },
     {
         "agency": "Main",
@@ -349,7 +535,9 @@
             "datadex_2023": 500
         },
         "limit": 4,
-        "items": []
+        "items": [
+            "neck_010_prefecttie"
+        ]
     },
     {
         "agency": "Main",
@@ -360,7 +548,9 @@
             "datadex_2023": 500
         },
         "limit": 4,
-        "items": []
+        "items": [
+            "hand_052_laptopmini"
+        ]
     },
     {
         "agency": "Main",
