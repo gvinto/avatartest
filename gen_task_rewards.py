@@ -93,6 +93,21 @@ def main():
     task_rewards.extend(mom_tasks)
     invalid_items.extend(mom_invalid_items)
 
+    #HDB tasks
+    hdb_tasks, hdb_invalid_items = read_taskboard_csv("HDB_Taskboard.csv",'HDB')
+    task_rewards.extend(hdb_tasks)
+    invalid_items.extend(hdb_invalid_items)
+
+    #IMDA tasks
+    imda_tasks, imda_invalid_items = read_taskboard_csv("IMDA_Taskboard.csv",'IMDA')
+    task_rewards.extend(imda_tasks)
+    invalid_items.extend(imda_invalid_items)
+
+    #MOE tasks
+    moe_tasks, moe_invalid_items = read_taskboard_csv("MOE_Taskboard.csv",'MOE')
+    task_rewards.extend(moe_tasks)
+    invalid_items.extend(moe_invalid_items)
+
     # print(task_rewards)
     task_rewards_json_object = json.dumps(task_rewards, indent=4)
     

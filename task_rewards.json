@@ -759,5 +759,408 @@
         "items": [
             "body_040_designerteecross"
         ]
+    },
+    {
+        "agency": "HDB",
+        "code": "DTDXHDB-01",
+        "category": "DATxHDB Sharing",
+        "task": "Be part of the organising committee of DATxHDB Sharing",
+        "points": {
+            "datadex_2023": 1500
+        },
+        "limit": 1,
+        "items": [
+            "addon_002_slingbag_green"
+        ]
+    },
+    {
+        "agency": "HDB",
+        "code": "DTDXHDB-02",
+        "category": "DATxHDB Sharing",
+        "task": "Attend DATxHDB Sharing",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "body_035_armour_orange"
+        ]
+    },
+    {
+        "agency": "HDB",
+        "code": "DTDXHDB-03",
+        "category": "DATxHDB Sharing",
+        "task": "Submit feedback form for DATxHDB Sharing",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "hand_041_umbrella_green"
+        ]
+    },
+    {
+        "agency": "HDB",
+        "code": "DTDXHDB-04",
+        "category": "DATxHDB Sharing",
+        "task": "Present about your DATxHDB 2022 projects during DATxHDB Sharing",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 1,
+        "items": [
+            "body_008_shirt_yellow"
+        ]
+    },
+    {
+        "agency": "HDB",
+        "code": "DTDXHDB-05",
+        "category": "DSAI Roadshow",
+        "task": "Be part of the organising committee of DSAI COE Roadshow",
+        "points": {
+            "datadex_2023": 1500
+        },
+        "limit": 1,
+        "items": [
+            "eye_002_bigspecs_green"
+        ]
+    },
+    {
+        "agency": "HDB",
+        "code": "DTDXHDB-06",
+        "category": "DSAI Roadshow",
+        "task": "Attend DSAI COE Roadshow",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "face_005_twirlymoustache_white"
+        ]
+    },
+    {
+        "agency": "HDB",
+        "code": "DTDXHDB-07",
+        "category": "DSAI Roadshow",
+        "task": "Submit feedback form for DSAI COE Roadshow",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "leg_017_overalls_darkgreen"
+        ]
+    },
+    {
+        "agency": "HDB",
+        "code": "DTDXHDB-08",
+        "category": "DSAI Roadshow",
+        "task": "Lead and share about their DSAI projects during DSAI COE Roadshow",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 1,
+        "items": [
+            "hair_015_hairband_yellow"
+        ]
+    },
+    {
+        "agency": "HDB",
+        "code": "DTDXHDB-09",
+        "category": "DS Huddle",
+        "task": "Be part of the organising committee of HDB Data Science Huddle Q3 2023",
+        "points": {
+            "datadex_2023": 1500
+        },
+        "limit": 1,
+        "items": [
+            "hand_018_firetorch"
+        ]
+    },
+    {
+        "agency": "HDB",
+        "code": "DTDXHDB-10",
+        "category": "DS Huddle",
+        "task": "Attend HDB Data Science Huddle Q3 2023",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "hand_049_key_white"
+        ]
+    },
+    {
+        "agency": "HDB",
+        "code": "DTDXHDB-11",
+        "category": "DS Huddle",
+        "task": "Host or present about subject matter for Data Science Huddle Q3 2023",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 1,
+        "items": [
+            "head_016_farmerhat_white"
+        ]
+    },
+    {
+        "agency": "HDB",
+        "code": "DTDXHDB-12",
+        "category": "DS Huddle",
+        "task": "Submit feedback form for HDB Data Science Huddle Q3 2023",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "head_032_helmhornsup_blue"
+        ]
+    },
+    {
+        "agency": "HDB",
+        "code": "DTDXHDB-13",
+        "category": "Community Participation",
+        "task": "Attend other sharing session on data science related topics organized by HDB. Participants must register and complete feedback form to qualify for the points.",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 5,
+        "items": [
+            "hand_051_bucket_pink"
+        ]
+    },
+    {
+        "agency": "HDB",
+        "code": "DTDXHDB-14",
+        "category": "Community Participation",
+        "task": "Be an active contributor to the HDB DSAI Community by contributing DSAI-related articles, newsletter, topics and/or key takeaways from HDB DSAI formal/informal events like DSAI COE Roadshow or internal Book Club sharing",
+        "points": {
+            "datadex_2023": 250
+        },
+        "limit": 8,
+        "items": [
+            "hair_017_curls"
+        ]
+    },
+    {
+        "agency": "HDB",
+        "code": "DTDXHDB-15",
+        "category": "Community Participation",
+        "task": "Host or present about subject matter for internal Book Club Sharing",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 5,
+        "items": [
+            "face_013_healthmask_white"
+        ]
+    },
+    {
+        "agency": "IMDA",
+        "code": "DTDXIMDA-01",
+        "category": "Tableau",
+        "task": "Attend Tableau Training (in-house training using VISTA)",
+        "points": {
+            "datadex_2023": 5000
+        },
+        "limit": 1,
+        "items": [
+            "addon_002_slingbag_black"
+        ]
+    },
+    {
+        "agency": "IMDA",
+        "code": "DTDXIMDA-02",
+        "category": "InnoJam",
+        "task": "Participate in InnoJam (Officers learn how innovation ideas can be conceived and tested while building internal capabilities)",
+        "points": {
+            "datadex_2023": 5000
+        },
+        "limit": 1,
+        "items": [
+            "body_035_armour_blue"
+        ]
+    },
+    {
+        "agency": "IMDA",
+        "code": "DTDXIMDA-03",
+        "category": "Deepracer",
+        "task": "Participate in Deepracer (Officers learn about machine learning)",
+        "points": {
+            "datadex_2023": 5000
+        },
+        "limit": 1,
+        "items": [
+            "hand_041_umbrella_black"
+        ]
+    },
+    {
+        "agency": "MOE",
+        "code": "DTDXMOE-01",
+        "category": "Basic Digital Literacy",
+        "task": "Complete a Basic Digital Literacy Module in OPAL 2.0",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 5,
+        "items": [
+            "addon_002_slingbag_blue"
+        ]
+    },
+    {
+        "agency": "MOE",
+        "code": "DTDXMOE-02",
+        "category": "Data Analytics PLC",
+        "task": "Attend Data Analytics Professional Learning Community (DA PLC)",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 2,
+        "items": [
+            "body_035_armour_green"
+        ]
+    },
+    {
+        "agency": "MOE",
+        "code": "DTDXMOE-03",
+        "category": "Data Analytics PLC",
+        "task": "Complete feedback form for DA PLC",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 2,
+        "items": [
+            "hand_041_umbrella_blue"
+        ]
+    },
+    {
+        "agency": "MOE",
+        "code": "DTDXMOE-04",
+        "category": "Data Analytics PLC",
+        "task": "Present or share a use case at DA PLC",
+        "points": {
+            "datadex_2023": 2000
+        },
+        "limit": 1,
+        "items": [
+            "body_008_shirt_white"
+        ]
+    },
+    {
+        "agency": "MOE",
+        "code": "DTDXMOE-05",
+        "category": "MOE Tableau Workshops",
+        "task": "Attend Tableau Workshops organised by MOE for DATxMOE",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 2,
+        "items": [
+            "eye_002_bigspecs_black"
+        ]
+    },
+    {
+        "agency": "MOE",
+        "code": "DTDXMOE-06",
+        "category": "MOE Tableau Workshops",
+        "task": "Complete feedback form for Tableau Workshops organised by MOE",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "face_005_twirlymoustache"
+        ]
+    },
+    {
+        "agency": "MOE",
+        "code": "DTDXMOE-07",
+        "category": "Data at your Fingertips",
+        "task": "Answer a quiz attached to Data at your Fingertips",
+        "points": {
+            "datadex_2023": 1250
+        },
+        "limit": 1,
+        "items": [
+            "hair_015_hairband_white"
+        ]
+    },
+    {
+        "agency": "MOE",
+        "code": "DTDXMOE-08",
+        "category": "AI Series: The Journey of Data Explorer, C.P. Yoo",
+        "task": "Answer a quiz attached to AI Series: The Journey of Data Explorer, C.P. Yoo",
+        "points": {
+            "datadex_2023": 1250
+        },
+        "limit": 1,
+        "items": [
+            "hand_017_handaxe"
+        ]
+    },
+    {
+        "agency": "MOE",
+        "code": "DTDXMOE-09",
+        "category": "e-Pedagogy: Using Data to Inform Teaching and Learning",
+        "task": "Complete e-Pedagogy: Using Data to Inform Teaching and Learning in SLS (Schools only)",
+        "points": {
+            "datadex_2023": 5000
+        },
+        "limit": 1,
+        "items": [
+            "hand_049_key_black"
+        ]
+    },
+    {
+        "agency": "MOE",
+        "code": "DTDXMOE-10",
+        "category": "MOE Data Science Community",
+        "task": "Join the Data Science Community in SG-Teams (HQ only)",
+        "points": {
+            "datadex_2023": 2000
+        },
+        "limit": 1,
+        "items": [
+            "head_016_farmerhat_red"
+        ]
+    },
+    {
+        "agency": "MOE",
+        "code": "DTDXMOE-11",
+        "category": "MOE Data Science Community",
+        "task": "Post or comment to a post in the Data Science Community in SG-Teams (HQ only)",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 1,
+        "items": [
+            "leg_017_overalls_darkblue"
+        ]
+    },
+    {
+        "agency": "MOE",
+        "code": "DTDXMOE-12",
+        "category": "MOE Data Science Community",
+        "task": "React to a post/comment on the Data Science Community in SG-Teams (HQ only)",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 2,
+        "items": [
+            "head_032_helmhornsup_black"
+        ]
+    },
+    {
+        "agency": "MOE",
+        "code": "DTDXMOE-13",
+        "category": "Data Analytics Clinic",
+        "task": "Attend Data Analytics Clinic (HQ only)",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 1,
+        "items": [
+            "hand_051_bucket_orange"
+        ]
     }
 ]
