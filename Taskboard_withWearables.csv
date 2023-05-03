@@ -72,6 +72,23 @@ DAT​-04,,DAT​,Achieve Top 5 Teams in Data VIZard,"Pets
 Background","pet: eye of sauron
 magical background","pet_078_eyetower
 background_018_dungeon",,,5000,1,5000,,
+DAT-08,,DAT​,Register for Launch of Data Arcade Tournament 2023,Body,,"body_003_gymtop_black
+body_008_shirt_black",,,500,1,500,,
+DAT-09,,DAT​,Attend Launch of Data Arcade Tournament 2023,Pet,,pet_049_piggybank_gold,,,1000,1,1000,,
+DAT-10,,DAT,Complete Launch of Data Arcade Tournament 2023 Feedback Form,Background,,background_015_homegym,,,1000,1,1000,,
+DAT-11,,DAT,Register for Prompt Royale 2023,"Head
+Shoes",,"head_023_visor_black
+feet_003_longshoes_black",,,500,1,500,,
+DAT-12,,DAT,Submit Entry for Prompt Royale 2023,"Body
+Hand",,"hand_050_shovel
+body_013_designerteepython",,,6000,1,6000,,
+DAT-13,,DAT,Achieve Top 10 for Prompt Royale 2023,"Body (sp)
+Hand (sp)
+Head (sp)",,"hand_056_designershovel
+body_013_designerteesmiley",,,1000,1,1000,,
+DAT-14,,DAT,Achieve Top5 for Prompt Royale 2023,"Pets
+Background",,"background_010_mountain
+pet_013_rabbit_white",,,3000,1,3000,,
 DATX-01,,DAT X,Register for ImpactiVIZ 2023,"Head
 Shoes","Helmet
 Boots","head_022_construction_yellow
@@ -150,5 +167,8 @@ Outerspace","pet_022_alien_purple
 <plus all the other colours>
 background_014_outerspace",,,2000,1,2000,,
 LP-05,,Ideathon,Achieve 'Idea of the Month' entry,Back,Lightyear Wings,back_004_lightyear,,,2000,1,2000,,
-,,Adhoc,Ad-hoc Campaigns,,,,,,Varies,,,,
-,,​,​,,,,,,,Ceiling,133500,,
+ADHOC-01,,Adhoc,"Achieve Top 3 in Prompt Challenge for Data Science Connect #25
+",,,hand_053_linechart,,,1500,1,1500,,
+ADHOC-02,,Adhoc,"​Submit a #ootDSC25 entry on Workplace
+",,,hand_080_katana,,,500,1,500,,
+ADHOC-03,,Adhoc,Achieve top 10 #ootDSC25 entries on Workplace,,,head_011_centurion,,,1500,1,1500,,

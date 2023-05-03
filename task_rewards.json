@@ -375,6 +375,102 @@
     },
     {
         "agency": "Main",
+        "code": "DAT-08",
+        "category": "DAT",
+        "task": "Register for Launch of Data Arcade Tournament 2023",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "body_003_gymtop_black",
+            "body_008_shirt_black"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "DAT-09",
+        "category": "DAT",
+        "task": "Attend Launch of Data Arcade Tournament 2023",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 1,
+        "items": [
+            "pet_049_piggybank_gold"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "DAT-10",
+        "category": "DAT",
+        "task": "Complete Launch of Data Arcade Tournament 2023 Feedback Form",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 1,
+        "items": [
+            "background_015_homegym"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "DAT-11",
+        "category": "DAT",
+        "task": "Register for Prompt Royale 2023",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "feet_003_longshoes_black",
+            "head_023_visor_black"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "DAT-12",
+        "category": "DAT",
+        "task": "Submit Entry for Prompt Royale 2023",
+        "points": {
+            "datadex_2023": 6000
+        },
+        "limit": 1,
+        "items": [
+            "body_013_designerteepython",
+            "hand_050_shovel"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "DAT-13",
+        "category": "DAT",
+        "task": "Achieve Top 10 for Prompt Royale 2023",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 1,
+        "items": [
+            "body_013_designerteesmiley",
+            "hand_056_designershovel"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "DAT-14",
+        "category": "DAT",
+        "task": "Achieve Top5 for Prompt Royale 2023",
+        "points": {
+            "datadex_2023": 3000
+        },
+        "limit": 1,
+        "items": [
+            "background_010_mountain",
+            "pet_013_rabbit_white"
+        ]
+    },
+    {
+        "agency": "Main",
         "code": "DATX-01",
         "category": "DAT X",
         "task": "Register for ImpactiVIZ 2023",
@@ -635,6 +731,45 @@
         "limit": 1,
         "items": [
             "back_004_lightyear"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "ADHOC-01",
+        "category": "Adhoc",
+        "task": "Achieve Top 3 in Prompt Challenge for Data Science Connect #25",
+        "points": {
+            "datadex_2023": 1500
+        },
+        "limit": 1,
+        "items": [
+            "hand_053_linechart"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "ADHOC-02",
+        "category": "Adhoc",
+        "task": "Submit a #ootDSC25 entry on Workplace",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "hand_080_katana"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "ADHOC-03",
+        "category": "Adhoc",
+        "task": "Achieve top 10 #ootDSC25 entries on Workplace",
+        "points": {
+            "datadex_2023": 1500
+        },
+        "limit": 1,
+        "items": [
+            "head_011_centurion"
         ]
     },
     {
