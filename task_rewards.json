@@ -384,7 +384,21 @@
         "limit": 1,
         "items": [
             "body_003_gymtop_black",
-            "body_008_shirt_black"
+            "body_003_gymtop_blue",
+            "body_003_gymtop_green",
+            "body_003_gymtop_orange",
+            "body_003_gymtop_pink",
+            "body_003_gymtop_purple",
+            "body_003_gymtop_red",
+            "body_003_gymtop_white",
+            "body_003_gymtop_yellow",
+            "body_008_shirt_black",
+            "body_008_shirt_blue",
+            "body_008_shirt_green",
+            "body_008_shirt_orange",
+            "body_008_shirt_pink",
+            "body_008_shirt_purple",
+            "body_008_shirt_red"
         ]
     },
     {
@@ -424,7 +438,22 @@
         "limit": 1,
         "items": [
             "feet_003_longshoes_black",
-            "head_023_visor_black"
+            "feet_003_longshoes_blue",
+            "feet_003_longshoes_green",
+            "feet_003_longshoes_orange",
+            "feet_003_longshoes_pink",
+            "feet_003_longshoes_purple",
+            "feet_003_longshoes_red",
+            "feet_003_longshoes_white",
+            "feet_003_longshoes_yellow",
+            "head_023_visor_black",
+            "head_023_visor_blue",
+            "head_023_visor_green",
+            "head_023_visor_orange",
+            "head_023_visor_pink",
+            "head_023_visor_purple",
+            "head_023_visor_red",
+            "head_023_visor_yellow"
         ]
     },
     {
@@ -459,7 +488,7 @@
         "agency": "Main",
         "code": "DAT-14",
         "category": "DAT",
-        "task": "Achieve Top5 for Prompt Royale 2023",
+        "task": "Achieve Top 5 for Prompt Royale 2023",
         "points": {
             "datadex_2023": 3000
         },
