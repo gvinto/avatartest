@@ -480,20 +480,6 @@
         },
         "limit": 1,
         "items": [
-            "body_013_designerteesmiley",
-            "hand_056_designershovel"
-        ]
-    },
-    {
-        "agency": "Main",
-        "code": "DAT-14",
-        "category": "DAT",
-        "task": "Achieve Top 5 for Prompt Royale 2023",
-        "points": {
-            "datadex_2023": 3000
-        },
-        "limit": 1,
-        "items": [
             "background_010_mountain",
             "pet_013_rabbit_white"
         ]
@@ -668,7 +654,7 @@
         "agency": "Main",
         "code": "DCBC-07",
         "category": "DC Bootcamp",
-        "task": "Active contribution to DC Bootcamp community (segment basis)\n*observer / audit",
+        "task": "Active contribution to DC Bootcamp community (segment basis)",
         "points": {
             "datadex_2023": 500
         },
