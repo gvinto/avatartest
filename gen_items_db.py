@@ -150,7 +150,7 @@ def main():
                         'item_type':item_type, 
                         'item_name': item_names[item_id],
                         'item_description': item_descriptions[item_id],
-                        'item_thumbnail':'http://ds1p0td0v622j.cloudfront.net/thumbnails/'+filename})
+                        'item_thumbnail':'https://avatar-assets.launchpad.tech.gov.sg/thumbnails/'+filename})
         
         # item_descriptions[item_id] = 'Description_text'
 
