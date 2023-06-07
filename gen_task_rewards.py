@@ -10,7 +10,14 @@ COL_LIMIT = 10
 db_items = []
 
 def clean(text:str):
-    return text.replace("â€‹","").strip()
+
+    str_to_replace = {"â€‹":"","â€“":"-","â€™":"'"}
+
+    clean_text = text
+    for k,v in str_to_replace.items():
+        clean_text = clean_text.replace(k,v)
+
+    return clean_text.strip()
 
 def all_color_variations(item_id:str) -> list:
     item_base_name = item_id[:item_id.rfind('_')]
@@ -98,7 +105,7 @@ def main():
     # print(task_rewards)
     task_rewards_json_object = json.dumps(task_rewards, indent=4)
     
-    with open("task_rewards.json", "w") as outfile:
+    with open("task_rewards.json", "w", encoding='ascii') as outfile:
         outfile.write(task_rewards_json_object)
 
     invalid_items.sort()
