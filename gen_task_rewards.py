@@ -56,9 +56,9 @@ def read_taskboard_csv(filename:str, agency:str = 'Main'):
                     "category": clean(row[COL_INITIATIVE]),
                     "task": clean(row[COL_TASK]),
                     "points": {
-                        "datadex_2023": int(clean(row[COL_POINTS]))
+                        "datadex_2023": int(clean(row[COL_POINTS].replace(',',''))),
                     },
-                    "limit": int(clean(row[COL_LIMIT])),
+                    "limit": int(clean(row[COL_LIMIT].replace(',',''))),
                     "items": sorted(list(set(item_ids)))
                 }
             
@@ -88,25 +88,12 @@ def main():
     task_rewards.extend(general_tasks)
     invalid_items.extend(general_invalid_items)
 
-    #MOM tasks
-    mom_tasks, mom_invalid_items = read_taskboard_csv("MOM_Taskboard.csv",'MOM')
-    task_rewards.extend(mom_tasks)
-    invalid_items.extend(mom_invalid_items)
+    datadex_agencies = ['MOM','HDB','IMDA','MOE','MSF','PUB']
 
-    #HDB tasks
-    hdb_tasks, hdb_invalid_items = read_taskboard_csv("HDB_Taskboard.csv",'HDB')
-    task_rewards.extend(hdb_tasks)
-    invalid_items.extend(hdb_invalid_items)
-
-    #IMDA tasks
-    imda_tasks, imda_invalid_items = read_taskboard_csv("IMDA_Taskboard.csv",'IMDA')
-    task_rewards.extend(imda_tasks)
-    invalid_items.extend(imda_invalid_items)
-
-    #MOE tasks
-    moe_tasks, moe_invalid_items = read_taskboard_csv("MOE_Taskboard.csv",'MOE')
-    task_rewards.extend(moe_tasks)
-    invalid_items.extend(moe_invalid_items)
+    for agency in datadex_agencies:
+        agency_tasks, agency_invalid_items = read_taskboard_csv(f"{agency}_Taskboard.csv",agency)
+        task_rewards.extend(agency_tasks)
+        invalid_items.extend(agency_invalid_items)
 
     # print(task_rewards)
     task_rewards_json_object = json.dumps(task_rewards, indent=4)

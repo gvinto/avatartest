@@ -1312,5 +1312,291 @@
         "items": [
             "hand_051_bucket_orange"
         ]
+    },
+    {
+        "agency": "MSF",
+        "code": "DTDXMSF-01",
+        "category": "CANVAS adoption",
+        "task": "Request for a CANVAS account and login to explore CANVAS (Discovery Zone/Main)",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "addon_002_slingbag_orange"
+        ]
+    },
+    {
+        "agency": "MSF",
+        "code": "DTDXMSF-02",
+        "category": "CANVAS adoption",
+        "task": "Share your findings / thoughts via a screenshot post of your visualization (*all identifiable information and labels are to be removed) created on CANVAS on OneMSF Data, Strategy and Innovation channel \u00e2\u20ac\u201c with hastag #DTDxMSF",
+        "points": {
+            "datadex_2023": 2000
+        },
+        "limit": 2,
+        "items": [
+            "addon_013_smalljacket_blue"
+        ]
+    },
+    {
+        "agency": "MSF",
+        "code": "DTDXMSF-03",
+        "category": "Data Community Exchange - Engagement",
+        "task": "Attend Q2 Data Community Exchange (DCE)",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "addon_016_apron_blue"
+        ]
+    },
+    {
+        "agency": "MSF",
+        "code": "DTDXMSF-04",
+        "category": "Data Community Exchange - Engagement",
+        "task": "Join MSF-DGO\u00e2\u20ac\u2122s teams channel for the latest update on data-related matters",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "eye_002_bigspecs_orange"
+        ]
+    },
+    {
+        "agency": "MSF",
+        "code": "DTDXMSF-05",
+        "category": "Upskilling Data Skills",
+        "task": "Form a team and submit an entry for MSF\u00e2\u20ac\u2122s DATx",
+        "points": {
+            "datadex_2023": 4500
+        },
+        "limit": 1,
+        "items": [
+            "hand_022_bow"
+        ]
+    },
+    {
+        "agency": "MSF",
+        "code": "DTDXMSF-06",
+        "category": "Upskilling Data Skills",
+        "task": "Achieve top 3 for MSF DATx",
+        "points": {
+            "datadex_2023": 4000
+        },
+        "limit": 1,
+        "items": [
+            "head_016_farmerhat_green"
+        ]
+    },
+    {
+        "agency": "MSF",
+        "code": "DTDXMSF-07",
+        "category": "Upskilling Data Skills",
+        "task": "Attend MSF-DATx workshop or any data-related course",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 2,
+        "items": [
+            "neck_006_trianglescarf_blue"
+        ]
+    },
+    {
+        "agency": "MSF",
+        "code": "DTDXMSF-08",
+        "category": "Upskilling Data Skills",
+        "task": "Use a dashboard (CANVAS / PowerBI / Tableau) for visualization at any meeting within MSF",
+        "points": {
+            "datadex_2023": 2000
+        },
+        "limit": 2,
+        "items": [
+            "pet_056_rocketship_blue"
+        ]
+    },
+    {
+        "agency": "PUB",
+        "code": "DTDXPUB-01",
+        "category": "Training",
+        "task": "Attend workshop (workshop/tutorials/masterclass etc; up to 5)",
+        "points": {
+            "datadex_2023": 1500
+        },
+        "limit": 5,
+        "items": [
+            "addon_002_slingbag_pink"
+        ]
+    },
+    {
+        "agency": "PUB",
+        "code": "DTDXPUB-02",
+        "category": "Training",
+        "task": "Log in to Qlik Continuous Classroom (QCC)",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "addon_013_smalljacket_green"
+        ]
+    },
+    {
+        "agency": "PUB",
+        "code": "DTDXPUB-03",
+        "category": "Training",
+        "task": "Completion of QCC's modules (up to 3)",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 3,
+        "items": [
+            "addon_016_apron_green"
+        ]
+    },
+    {
+        "agency": "PUB",
+        "code": "DTDXPUB-04",
+        "category": "Training",
+        "task": "Complete 2 quizzes on Data Classification and Data Loss Protection by watching the Data Management Videos on PUBTube",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "eye_002_bigspecs_pink"
+        ]
+    },
+    {
+        "agency": "PUB",
+        "code": "DTDXPUB-05",
+        "category": "Data Exploitation",
+        "task": "2nd to 10th place from DATx PUB's internal judging",
+        "points": {
+            "datadex_2023": 2000
+        },
+        "limit": 1,
+        "items": [
+            "hand_023_longbow"
+        ]
+    },
+    {
+        "agency": "PUB",
+        "code": "DTDXPUB-06",
+        "category": "Data Exploitation",
+        "task": "Submit department use case on Qlik Sense's dashboards",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "head_016_farmerhat_blue"
+        ]
+    },
+    {
+        "agency": "PUB",
+        "code": "DTDXPUB-07",
+        "category": "Data Exploitation",
+        "task": "Publish a dashboard in PUB Qlik Sense",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 1,
+        "items": [
+            "neck_006_trianglescarf_green"
+        ]
+    },
+    {
+        "agency": "PUB",
+        "code": "DTDXPUB-08",
+        "category": "Data Governance",
+        "task": "Submit latest data dictionary and data catalogue for systems",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "pet_056_rocketship_green"
+        ]
+    },
+    {
+        "agency": "PUB",
+        "code": "DTDXPUB-09",
+        "category": "Engagement",
+        "task": "Attend GetTogether Session for Data Analysts",
+        "points": {
+            "datadex_2023": 2000
+        },
+        "limit": 1,
+        "items": [
+            "head_039_capbackwards_blue"
+        ]
+    },
+    {
+        "agency": "PUB",
+        "code": "DTDXPUB-10",
+        "category": "Engagement",
+        "task": "Attend as an audience at Agency's Internal Judging",
+        "points": {
+            "datadex_2023": 1500
+        },
+        "limit": 1,
+        "items": [
+            "head_033_helmhornsdown_green"
+        ]
+    },
+    {
+        "agency": "PUB",
+        "code": "DTDXPUB-11",
+        "category": "Engagement",
+        "task": "Logging in to Data Catalogue via Data Portal or Data Analytics Platform (DAP)",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "head_024_buckethat_purple"
+        ]
+    },
+    {
+        "agency": "PUB",
+        "code": "DTDXPUB-12",
+        "category": "Ideathon",
+        "task": "Submit an idea for Data Science project",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "hand_075_plumb_white"
+        ]
+    },
+    {
+        "agency": "PUB",
+        "code": "DTDXPUB-13",
+        "category": "Process Automation",
+        "task": "Migrate manual reporting to Qlik Sense Nprinting",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 1,
+        "items": [
+            "hand_051_bucket_yellow"
+        ]
+    },
+    {
+        "agency": "PUB",
+        "code": "DTDXPUB-14",
+        "category": "Adhoc",
+        "task": "Complete survey on Data Analyst/Stewards",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "eye_017_eyemask_blue"
+        ]
     }
 ]
