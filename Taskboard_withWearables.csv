@@ -175,9 +175,11 @@ eye_002_bigspecs_blue
 neck_001_scarf_red
 body_007_longdress_blue
 hand_045_lasergun",,,10000,1,10000,,
-DCBC-06,,DC Bootcamp,"Peer review for DC Bootcamp (segment basis) 
-*must be alumni or observer / audit  ",Neck,Prefect Tie,neck_010_prefecttie,,,500,4,2000,,
-DCBC-07,,DC Bootcamp,Active contribution to DC Bootcamp community (segment basis),Hand,Mini Laptop,hand_052_laptopmini,,,500,4,2000,,
+DCBC-06,,DC Bootcamp,Active contribution to DC Bootcamp community (segment basis),Hand,Mini Laptop,hand_052_laptopmini,,,500,4,2000,,
+DCBC-07,,DC Bootcamp,Complete Section 1 - Python: Fundamentals,Pet,Python,pet_001_python,,,0,1,0,,
+DCBC-08,,DC Bootcamp,Complete Section 2 - Python: Data Wrangling,Pet,Panda,pet_002_panda,,,0,1,0,,
+DCBC-09,,DC Bootcamp,Complete Section 3 - Machine Learning,Pet,Robot,pet_003_robot,,,0,1,0,,
+DCBC-10,,DC Bootcamp,"Complete Section 4 - Data Visualisation (Tableau, PowerBI, QlikSense)",Pet,Octopus,pet_004_octopus,,,0,1,0,,
 LP-01,"All LP and Program-based tasks will unlock Head, Leg for easy tasks, Body, Hat, Hand, Pets for intermediate tasks and Background, Back for complex tasks.",Ideathon,Sign in to Launchpad,"Body
 Leg",Astronaut Suit,"hair_003_f4
 body_011_council

@@ -641,19 +641,6 @@
         "agency": "Main",
         "code": "DCBC-06",
         "category": "DC Bootcamp",
-        "task": "Peer review for DC Bootcamp (segment basis) \n*must be alumni or observer / audit",
-        "points": {
-            "datadex_2023": 500
-        },
-        "limit": 4,
-        "items": [
-            "neck_010_prefecttie"
-        ]
-    },
-    {
-        "agency": "Main",
-        "code": "DCBC-07",
-        "category": "DC Bootcamp",
         "task": "Active contribution to DC Bootcamp community (segment basis)",
         "points": {
             "datadex_2023": 500
@@ -661,6 +648,58 @@
         "limit": 4,
         "items": [
             "hand_052_laptopmini"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "DCBC-07",
+        "category": "DC Bootcamp",
+        "task": "Complete Section 1 - Python: Fundamentals",
+        "points": {
+            "datadex_2023": 0
+        },
+        "limit": 1,
+        "items": [
+            "pet_001_python"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "DCBC-08",
+        "category": "DC Bootcamp",
+        "task": "Complete Section 2 - Python: Data Wrangling",
+        "points": {
+            "datadex_2023": 0
+        },
+        "limit": 1,
+        "items": [
+            "pet_002_panda"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "DCBC-09",
+        "category": "DC Bootcamp",
+        "task": "Complete Section 3 - Machine Learning",
+        "points": {
+            "datadex_2023": 0
+        },
+        "limit": 1,
+        "items": [
+            "pet_003_robot"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "DCBC-10",
+        "category": "DC Bootcamp",
+        "task": "Complete Section 4 - Data Visualisation (Tableau, PowerBI, QlikSense)",
+        "points": {
+            "datadex_2023": 0
+        },
+        "limit": 1,
+        "items": [
+            "pet_004_octopus"
         ]
     },
     {
