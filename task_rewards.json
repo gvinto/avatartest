@@ -132,6 +132,19 @@
     },
     {
         "agency": "Main",
+        "code": "TR-04",
+        "category": "Training",
+        "task": "Read and Feedback on Prompt Engineering Playbook",
+        "points": {
+            "datadex_2023": 2000
+        },
+        "limit": 1,
+        "items": [
+            "hand_046_blackboard"
+        ]
+    },
+    {
+        "agency": "Main",
         "code": "DSAID-01",
         "category": "DSAID",
         "task": "Attend GovTech's DSAID Roadshow",
