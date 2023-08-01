@@ -882,6 +882,20 @@
         "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/background_018_dungeon.png"
     },
     {
+        "item_id": "background_020_ndp01",
+        "item_type": "background",
+        "item_name": "NDP Background 1",
+        "item_description": "Celebrate with a festive NDP background",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/background_020_ndp01.png"
+    },
+    {
+        "item_id": "background_021_ndp02",
+        "item_type": "background",
+        "item_name": "NDP Background 2",
+        "item_description": "Get into the patriotic spirit with this NDP background",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/background_021_ndp02.png"
+    },
+    {
         "item_id": "back_001_angelwings_black",
         "item_type": "back",
         "item_name": "Black Angel Wings",

@@ -840,6 +840,34 @@
         ]
     },
     {
+        "agency": "Main",
+        "code": "ADHOC-04",
+        "category": "Adhoc",
+        "task": "Login to LaunchPad (1 Aug to 14 Aug)",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "background_020_ndp01",
+            "pet_040_otter"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "ADHOC-05",
+        "category": "Adhoc",
+        "task": "Login to LaunchPad (15 Aug to 31 Aug)",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "background_021_ndp02",
+            "pet_082_dragonplayground"
+        ]
+    },
+    {
         "agency": "MOM",
         "code": "DTDXMOM-01",
         "category": "MOM Data Community",
