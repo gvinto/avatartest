@@ -868,6 +868,21 @@
         ]
     },
     {
+        "agency": "Main",
+        "code": "ADHOC-06",
+        "category": "Adhoc",
+        "task": "Upload a post-workshop feedback on Workplace",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 1,
+        "items": [
+            "pet_056_rocketship_orange",
+            "pet_056_rocketship_pink",
+            "pet_056_rocketship_purple"
+        ]
+    },
+    {
         "agency": "MOM",
         "code": "DTDXMOM-01",
         "category": "MOM Data Community",
