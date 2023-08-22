@@ -190,12 +190,6 @@ LP-02,,Ideathon,Vote for an Ideathon entry,Head,Helmet,"head_020_astronaut_blue
 head_020_astronaut_orange",,,500,3,1500,,
 LP-03,,Ideathon,Submit an entry for Ideathon,Hand,Flag,"hand_029_flag_white
 <plus all the other colours>",,,2000,5,10000,,
-LP-04,,Ideathon,Achieve Top 10 'Community's Favourite' entries,"Pet
-Background","Alien
-Outerspace","pet_022_alien_purple
-<plus all the other colours>
-background_014_outerspace",,,2000,1,2000,,
-LP-05,,Ideathon,Achieve 'Idea of the Month' entry,Back,Lightyear Wings,back_004_lightyear,,,2000,1,2000,,
 ADHOC-01,,Adhoc,"Achieve Top 3 in Prompt Challenge for Data Science Connect #25
 ",,,hand_053_linechart,,,1500,1,1500,,
 ADHOC-02,,Adhoc,"​Submit a #ootDSC25 entry on Workplace

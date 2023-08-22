@@ -768,40 +768,6 @@
     },
     {
         "agency": "Main",
-        "code": "LP-04",
-        "category": "Ideathon",
-        "task": "Achieve Top 10 'Community's Favourite' entries",
-        "points": {
-            "datadex_2023": 2000
-        },
-        "limit": 1,
-        "items": [
-            "background_014_outerspace",
-            "pet_022_alien_black",
-            "pet_022_alien_blue",
-            "pet_022_alien_green",
-            "pet_022_alien_orange",
-            "pet_022_alien_pink",
-            "pet_022_alien_purple",
-            "pet_022_alien_red",
-            "pet_022_alien_yellow"
-        ]
-    },
-    {
-        "agency": "Main",
-        "code": "LP-05",
-        "category": "Ideathon",
-        "task": "Achieve 'Idea of the Month' entry",
-        "points": {
-            "datadex_2023": 2000
-        },
-        "limit": 1,
-        "items": [
-            "back_004_lightyear"
-        ]
-    },
-    {
-        "agency": "Main",
         "code": "ADHOC-01",
         "category": "Adhoc",
         "task": "Achieve Top 3 in Prompt Challenge for Data Science Connect #25",
