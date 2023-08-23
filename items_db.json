@@ -882,6 +882,13 @@
         "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/background_018_dungeon.png"
     },
     {
+        "item_id": "background_019_redcarpet",
+        "item_type": "background",
+        "item_name": "Red Carpet",
+        "item_description": "Roll out the red carpet in style.",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/background_019_redcarpet.png"
+    },
+    {
         "item_id": "background_020_ndp01",
         "item_type": "background",
         "item_name": "NDP Background 1",
@@ -894,6 +901,13 @@
         "item_name": "NDP Background 2",
         "item_description": "Get into the patriotic spirit with this NDP background",
         "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/background_021_ndp02.png"
+    },
+    {
+        "item_id": "background_022_hokusai",
+        "item_type": "background",
+        "item_name": "Hokusai Background",
+        "item_description": "Get lost in a masterpiece of a background.",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/background_022_hokusai.png"
     },
     {
         "item_id": "back_001_angelwings_black",
@@ -999,6 +1013,27 @@
         "item_name": "Turtle Shell",
         "item_description": "Protect your back with this shell!",
         "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/back_005_turtleshell.png"
+    },
+    {
+        "item_id": "back_006_butterfly_blue",
+        "item_type": "back",
+        "item_name": "Butterfly Blue",
+        "item_description": "Flutter with this blue butterfly on your back",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/back_006_butterfly_blue.png"
+    },
+    {
+        "item_id": "back_006_butterfly_orange",
+        "item_type": "back",
+        "item_name": "Butterfly Orange",
+        "item_description": "Flutter with this orange butterfly on your back",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/back_006_butterfly_orange.png"
+    },
+    {
+        "item_id": "back_006_butterfly_red",
+        "item_type": "back",
+        "item_name": "Butterfly Red",
+        "item_description": "Flutter with this red butterfly on your back",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/back_006_butterfly_red.png"
     },
     {
         "item_id": "base_bear",
@@ -2254,6 +2289,13 @@
         "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/body_040_designerteecross.png"
     },
     {
+        "item_id": "body_041_dscbodysuit",
+        "item_type": "body",
+        "item_name": "DSC Bodysuit",
+        "item_description": "Suit up and dance like crazy",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/body_041_dscbodysuit.png"
+    },
+    {
         "item_id": "body_900_bearshirt",
         "item_type": "body",
         "item_name": "Bear Shirt",
@@ -2679,6 +2721,48 @@
         "item_name": "Cyclops Eye",
         "item_description": "Who needs two eyes when you have one big one?",
         "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/eye_006_cyclops.png"
+    },
+    {
+        "item_id": "eye_006_cyclops_black",
+        "item_type": "eye",
+        "item_name": "Cyclops Black",
+        "item_description": "One eye sees all in black",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/eye_006_cyclops_black.png"
+    },
+    {
+        "item_id": "eye_006_cyclops_blue",
+        "item_type": "eye",
+        "item_name": "Cyclops Blue",
+        "item_description": "One eye sees all in blue",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/eye_006_cyclops_blue.png"
+    },
+    {
+        "item_id": "eye_006_cyclops_green",
+        "item_type": "eye",
+        "item_name": "Cyclops Green",
+        "item_description": "One eye sees all in green",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/eye_006_cyclops_green.png"
+    },
+    {
+        "item_id": "eye_006_cyclops_orange",
+        "item_type": "eye",
+        "item_name": "Cyclops Orange",
+        "item_description": "One eye sees all in orange",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/eye_006_cyclops_orange.png"
+    },
+    {
+        "item_id": "eye_006_cyclops_white",
+        "item_type": "eye",
+        "item_name": "Cyclops White",
+        "item_description": "One eye sees all in white",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/eye_006_cyclops_white.png"
+    },
+    {
+        "item_id": "eye_006_cyclops_yellow",
+        "item_type": "eye",
+        "item_name": "Cyclops Yellow",
+        "item_description": "One eye sees all in yellow",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/eye_006_cyclops_yellow.png"
     },
     {
         "item_id": "eye_007_burglarmask",
@@ -4123,6 +4207,48 @@
         "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/hair_028_clown_grey.png"
     },
     {
+        "item_id": "hair_029_cyber_blue_andro",
+        "item_type": "hair",
+        "item_name": "Cyber Blue Andro",
+        "item_description": "Go cyber with blue androgynous hair",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/hair_029_cyber_blue_andro.png"
+    },
+    {
+        "item_id": "hair_029_cyber_blue_long",
+        "item_type": "hair",
+        "item_name": "Cyber Blue Long",
+        "item_description": "Go cyber with long blue hair",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/hair_029_cyber_blue_long.png"
+    },
+    {
+        "item_id": "hair_029_cyber_blue_short",
+        "item_type": "hair",
+        "item_name": "Cyber Blue Short",
+        "item_description": "Go cyber with short blue hair",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/hair_029_cyber_blue_short.png"
+    },
+    {
+        "item_id": "hair_029_cyber_pink_andro",
+        "item_type": "hair",
+        "item_name": "Cyber Pink Andro",
+        "item_description": "Go cyber with pink androgynous hair",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/hair_029_cyber_pink_andro.png"
+    },
+    {
+        "item_id": "hair_029_cyber_pink_long",
+        "item_type": "hair",
+        "item_name": "Cyber Pink Long",
+        "item_description": "Go cyber with long pink hair",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/hair_029_cyber_pink_long.png"
+    },
+    {
+        "item_id": "hair_029_cyber_pink_short",
+        "item_type": "hair",
+        "item_name": "Cyber Pink Short",
+        "item_description": "Go cyber with short pink hair",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/hair_029_cyber_pink_short.png"
+    },
+    {
         "item_id": "hand_001_woodensword",
         "item_type": "hand",
         "item_name": "Wooden Sword",
@@ -5129,6 +5255,20 @@
         "item_name": "Genie Lamp",
         "item_description": "Make a wish!",
         "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/hand_087_genielamp.png"
+    },
+    {
+        "item_id": "hand_088_vineflag_green",
+        "item_type": "hand",
+        "item_name": "Vineflag Green",
+        "item_description": "Wave this green vine flag high",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/hand_088_vineflag_green.png"
+    },
+    {
+        "item_id": "hand_088_vineflag_red",
+        "item_type": "hand",
+        "item_name": "Vineflag Red",
+        "item_description": "Wave this red vine flag high",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/hand_088_vineflag_red.png"
     },
     {
         "item_id": "hand_900_pokedex",
@@ -6228,6 +6368,97 @@
         "item_name": "Reverse Yellow Cap",
         "item_description": "Yellow there!",
         "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/head_039_capbackwards_yellow.png"
+    },
+    {
+        "item_id": "head_040_butterflyhairband_green",
+        "item_type": "head",
+        "item_name": "Butterfly Hairband Green",
+        "item_description": "Look cute with this green butterfly hairband",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/head_040_butterflyhairband_green.png"
+    },
+    {
+        "item_id": "head_040_butterflyhairband_orange",
+        "item_type": "head",
+        "item_name": "Butterfly Hairband Orange",
+        "item_description": "Look cute with this orange butterfly hairband",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/head_040_butterflyhairband_orange.png"
+    },
+    {
+        "item_id": "head_040_butterflyhairband_pink",
+        "item_type": "head",
+        "item_name": "Butterfly Hairband Pink",
+        "item_description": "Look cute with this pink butterfly hairband",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/head_040_butterflyhairband_pink.png"
+    },
+    {
+        "item_id": "head_040_butterflyhairband_purple",
+        "item_type": "head",
+        "item_name": "Butterfly Hairband Purple",
+        "item_description": "Look cute with this purple butterfly hairband",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/head_040_butterflyhairband_purple.png"
+    },
+    {
+        "item_id": "head_040_butterflyhairband_red",
+        "item_type": "head",
+        "item_name": "Butterfly Hairband Red",
+        "item_description": "Look cute with this red butterfly hairband",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/head_040_butterflyhairband_red.png"
+    },
+    {
+        "item_id": "head_040_butterflyhairband_yellow",
+        "item_type": "head",
+        "item_name": "Butterfly Hairband Yellow",
+        "item_description": "Look cute with this yellow butterfly hairband",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/head_040_butterflyhairband_yellow.png"
+    },
+    {
+        "item_id": "head_500_butterflyhairband_blue",
+        "item_type": "head",
+        "item_name": "Butterfly Hairband Blue",
+        "item_description": "Look cute with this blue butterfly hairband",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/head_500_butterflyhairband_blue.png"
+    },
+    {
+        "item_id": "head_500_butterflyhairband_green",
+        "item_type": "head",
+        "item_name": "Butterfly Hairband Green",
+        "item_description": "Look cute with this green butterfly hairband",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/head_500_butterflyhairband_green.png"
+    },
+    {
+        "item_id": "head_500_butterflyhairband_orange",
+        "item_type": "head",
+        "item_name": "Butterfly Hairband Orange",
+        "item_description": "Look cute with this orange butterfly hairband",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/head_500_butterflyhairband_orange.png"
+    },
+    {
+        "item_id": "head_500_butterflyhairband_pink",
+        "item_type": "head",
+        "item_name": "Butterfly Hairband Pink",
+        "item_description": "Look cute with this pink butterfly hairband",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/head_500_butterflyhairband_pink.png"
+    },
+    {
+        "item_id": "head_500_butterflyhairband_purple",
+        "item_type": "head",
+        "item_name": "Butterfly Hairband Purple",
+        "item_description": "Look cute with this purple butterfly hairband",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/head_500_butterflyhairband_purple.png"
+    },
+    {
+        "item_id": "head_500_butterflyhairband_red",
+        "item_type": "head",
+        "item_name": "Butterfly Hairband Red",
+        "item_description": "Look cute with this red butterfly hairband",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/head_500_butterflyhairband_red.png"
+    },
+    {
+        "item_id": "head_500_butterflyhairband_yellow",
+        "item_type": "head",
+        "item_name": "Butterfly Hairband Yellow",
+        "item_description": "Look cute with this yellow butterfly hairband",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/head_500_butterflyhairband_yellow.png"
     },
     {
         "item_id": "head_900_bearhat",
@@ -8524,5 +8755,47 @@
         "item_name": "Typical Alien",
         "item_description": "Every alien in the movie, ever",
         "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/pet_092_typicalalien.png"
+    },
+    {
+        "item_id": "pet_093_caterpillar_bnw",
+        "item_type": "pet",
+        "item_name": "Caterpillar BnW",
+        "item_description": "A black and white caterpillar to crawl with",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/pet_093_caterpillar_bnw.png"
+    },
+    {
+        "item_id": "pet_093_caterpillar_brown",
+        "item_type": "pet",
+        "item_name": "Caterpillar Brown",
+        "item_description": "A brown caterpillar to crawl with",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/pet_093_caterpillar_brown.png"
+    },
+    {
+        "item_id": "pet_093_caterpillar_green",
+        "item_type": "pet",
+        "item_name": "Caterpillar Green",
+        "item_description": "A green caterpillar to crawl with",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/pet_093_caterpillar_green.png"
+    },
+    {
+        "item_id": "pet_093_caterpillar_orange",
+        "item_type": "pet",
+        "item_name": "Caterpillar Orange",
+        "item_description": "An orange caterpillar to crawl with",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/pet_093_caterpillar_orange.png"
+    },
+    {
+        "item_id": "pet_093_caterpillar_pink",
+        "item_type": "pet",
+        "item_name": "Caterpillar Pink",
+        "item_description": "A pink caterpillar to crawl with",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/pet_093_caterpillar_pink.png"
+    },
+    {
+        "item_id": "pet_093_caterpillar_yellow",
+        "item_type": "pet",
+        "item_name": "Caterpillar Yellow",
+        "item_description": "A yellow caterpillar to crawl with",
+        "item_thumbnail": "https://avatar-assets.launchpad.tech.gov.sg/thumbnails/pet_093_caterpillar_yellow.png"
     }
 ]

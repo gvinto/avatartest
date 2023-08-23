@@ -280,6 +280,7 @@
         },
         "limit": 1,
         "items": [
+            "background_019_redcarpet",
             "body_004_suit_black",
             "body_004_suit_blue",
             "body_004_suit_green",
