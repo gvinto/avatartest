@@ -143,7 +143,7 @@ Pickaxe","hand_020_pickaxe
 ",,,8000,1,8000,,
 DATX-03,,DAT X,Achieve Top DATx Team in Agency ,Pets,DAT Gold,pet_076_datgold,,,3000,1,3000,,
 DATX-04,,DAT X,Achieve Top 5 Teams in ImpactiVIZ 2023,Background,Cave,background_012_cave,,,5000,1,5000,,
-DATX-05,,DAT X,Organising Committee of ImpactiVIZ 2023,Head(sp),construction helmet,head_035_specialconstruction,,,10000,1,10000,,
+DATX-05,,DAT X,Organising Committee and Judges Panel of ImpactiVIZ 2023,Head(sp),construction helmet,head_035_specialconstruction,,,10000,1,10000,,
 DCBC-01,,DC Bootcamp​,Register for DC Bootcamp​ 2023,"Eye
 Accessory
 Body
@@ -216,3 +216,17 @@ pet_082_dragonplayground",,,500,1,500,,
 ADHOC-06,,Adhoc,Upload a post-workshop feedback on Workplace,,Rocket,"pet_056_rocketship_orange
 pet_056_rocketship_pink
 pet_056_rocketship_purple",,,1000,1,1000,,
+ADHOC-07,,Adhoc,Upload a post-workshop image on Workplace,,Rocket,pet_088_paintingvangough,,,1000,1,1000,,
+DALIM-01,,Data & AI Literacy Month,Complete all 5 Data Literacy ePrimer Modules​ (new AI additions),,,"addon_004_bigjacket_pink
+addon_004_bigjacket_purple
+addon_004_bigjacket_red",,,7500,1,,,
+DALIM-02,,Data & AI Literacy Month,Attend an eligible DALIM event (up to 3 counts),,,"back_003_cape_orange
+back_003_cape_pink
+back_003_cape_purple
+back_003_cape_red",,,2000,3,,,
+DALIM-03,,Data & AI Literacy Month,Complete one eligible DALIM course,,,"body_035_armour_pink
+body_035_armour_purple
+body_035_armour_red",,,2000,1,,,
+DALIM-04,,Data & AI Literacy Month,Participate in Pledge Campaign (like and comment),,,"eye_002_bigspecs_purple
+eye_002_bigspecs_red",,,1000,1,,,
+DALIM-05,,Data & AI Literacy Month,Like a Data & AI Podcast post on Workplace,,,hand_071_macbook,,,500,1,,,

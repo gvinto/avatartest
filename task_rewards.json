@@ -575,7 +575,7 @@
         "agency": "Main",
         "code": "DATX-05",
         "category": "DAT X",
-        "task": "Organising Committee of ImpactiVIZ 2023",
+        "task": "Organising Committee and Judges Panel of ImpactiVIZ 2023",
         "points": {
             "datadex_2023": 10000
         },
@@ -858,6 +858,92 @@
             "pet_056_rocketship_orange",
             "pet_056_rocketship_pink",
             "pet_056_rocketship_purple"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "ADHOC-07",
+        "category": "Adhoc",
+        "task": "Upload a post-workshop image on Workplace",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 1,
+        "items": [
+            "pet_088_paintingvangough"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "DALIM-01",
+        "category": "Data & AI Literacy Month",
+        "task": "Complete all 5 Data Literacy ePrimer Modules (new AI additions)",
+        "points": {
+            "datadex_2023": 7500
+        },
+        "limit": 1,
+        "items": [
+            "addon_004_bigjacket_pink",
+            "addon_004_bigjacket_purple",
+            "addon_004_bigjacket_red"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "DALIM-02",
+        "category": "Data & AI Literacy Month",
+        "task": "Attend an eligible DALIM event (up to 3 counts)",
+        "points": {
+            "datadex_2023": 2000
+        },
+        "limit": 3,
+        "items": [
+            "back_003_cape_orange",
+            "back_003_cape_pink",
+            "back_003_cape_purple",
+            "back_003_cape_red"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "DALIM-03",
+        "category": "Data & AI Literacy Month",
+        "task": "Complete one eligible DALIM course",
+        "points": {
+            "datadex_2023": 2000
+        },
+        "limit": 1,
+        "items": [
+            "body_035_armour_pink",
+            "body_035_armour_purple",
+            "body_035_armour_red"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "DALIM-04",
+        "category": "Data & AI Literacy Month",
+        "task": "Participate in Pledge Campaign (like and comment)",
+        "points": {
+            "datadex_2023": 1000
+        },
+        "limit": 1,
+        "items": [
+            "eye_002_bigspecs_purple",
+            "eye_002_bigspecs_red"
+        ]
+    },
+    {
+        "agency": "Main",
+        "code": "DALIM-05",
+        "category": "Data & AI Literacy Month",
+        "task": "Like a Data & AI Podcast post on Workplace",
+        "points": {
+            "datadex_2023": 500
+        },
+        "limit": 1,
+        "items": [
+            "hand_071_macbook"
         ]
     },
     {
