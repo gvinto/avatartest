@@ -76,6 +76,19 @@
     },
     {
         "agency": "Main",
+        "code": "EN-06",
+        "category": "Engagement",
+        "task": "Complete Datadex Diaries 2023",
+        "points": {
+            "datadex_2023": 10000
+        },
+        "limit": 1,
+        "items": [
+            "hand_070_pokeball"
+        ]
+    },
+    {
+        "agency": "Main",
         "code": "TR-01",
         "category": "Training",
         "task": "Attend Workshop (test drive, upskilling initiative etc)",
