@@ -560,6 +560,19 @@
     },
     {
         "agency": "Main",
+        "code": "DATX-06",
+        "category": "DAT X",
+        "task": "Achieve Top 3 DATx Teams in Agency",
+        "points": {
+            "datadex_2023": 2000
+        },
+        "limit": 1,
+        "items": [
+            "face_011_scareye"
+        ]
+    },
+    {
+        "agency": "Main",
         "code": "DATX-03",
         "category": "DAT X",
         "task": "Achieve Top DATx Team in Agency",
@@ -595,19 +608,6 @@
         "limit": 1,
         "items": [
             "head_035_specialconstruction"
-        ]
-    },
-    {
-        "agency": "Main",
-        "code": "DATX-06",
-        "category": "DAT X",
-        "task": "Achieve Top 3 DATx Teams in Agency",
-        "points": {
-            "datadex_2023": 2000
-        },
-        "limit": 1,
-        "items": [
-            "face_011_scareye"
         ]
     },
     {
